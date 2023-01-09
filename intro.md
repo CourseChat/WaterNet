@@ -1,8 +1,11 @@
 # Why these lectures by UC Berkeley and East Bay Municipal Utility District are so important at this moment. 
+:::{contents}
+:::
 ![Underground](Images/DM.cover.png)
 - Every water utility around the world invests to bring clean water to everyone.  Existing subsurface capital investments are in the trillions of dollars. But designs and budgets that worked in the past are no longer sufficient for maintaining global water supplies. The infrastructure is failing. Here's how to approach needed change.
 ## Without underground infrastructure, surface infrastructure does not work
 ![Looking Up](Images/DM.look.up.png)
+## Annotated lectures given in Fall of 2022 for UC Berkeley Civil Engineering 112A: Water and Wastewater Engineering. Professor Kenichi Soga, assisted by post-doctoral students Wonjun Cha, Shi-Hung Chiu.
 ### Water utilities require major new investments to keep clean water flowing. We must rebuild and extend our critical water infrastructure now.  But this investment is not yet funded. 
 - Past cost projections are proving to be wildly inaccurate due to new challenges of climate change and rapidly aging capital plant.
 - Dams, reservoirs, pipes, pumps, water collection systems and water and waste water purification **systems will require from two to five times more investment** than today's conservative financial models anticipate. [^1]

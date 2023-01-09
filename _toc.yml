@@ -31,6 +31,7 @@ parts:
     numbered: True
     chapters:
     - file: 2-Water_Supply/Water Supply
+    - file: 2-Water_Supply/Water Supply--Water and Natural Resources Management
 # Module 3
   - caption: Design and Operation of water and waste water
     numbered: True

@@ -1,15 +1,16 @@
 # Why these lectures by UC Berkeley and East Bay Municipal Utility District are so important at this moment. 
 - Every water utility around the world invests to bring clean water to everyone.  Existing subsurface capital investments are in the trillions of dollars. But designs and budgets that worked in the past are no longer sufficient for maintaining global water supplies. The infrastructure is failing. Here's how to approach needed change.
-## Water utilities require major new investments to keep clean water flowing. We must rebuild and extend our critical water infrastructure now.  But this investment is not yet funded. Cost projections are proving to be wildly inaccurate due to new challenges of climate change and rapidly aging capital plant.
+## Without nderground infrastructure, surface infrastructure does not work
+### Water utilities require major new investments to keep clean water flowing. We must rebuild and extend our critical water infrastructure now.  But this investment is not yet funded. Past cost projections are proving to be wildly inaccurate due to new challenges of climate change and rapidly aging capital plant.
   - Dams, reservoirs, pipes, pumps, water collection systems and water and waste water purification **systems will require from two to five times more investment** than today's conservative financial models anticipate. [^1]
   - This site will build increasingly detailed cost projections for complete system renewal. With current technologies, rebuilding a system similar to EBMUD--1.5 million daily users, $1 billion annual expenses, ..... MGD flow, .... MG storage--over a 25-year period, will cost $20 billion in 2022 dollars. 
   - We will build the outline of the necessary campaign to finance this cost, by tax, by rate change, by bond issue, by cost savings, by redesign of capital plant.  Financing this amount is possible only by building an extremely accurate estimate of costs, to enable an accurate comparison to the costs of not rebuilding. Rebuilding at today's rate will take 140 years.[^2]
   - But, what if innovation could cut projected costs by a factor of two? That is, save $10 billion of projected investment. Could fundamental realignment of management of underground critical infrastructure change how we invest? As contrast, examine urban infrastructure in cities that built new systems in the past thirty years.[^3]
-## Faced with massive challenges from climate change and ancient infrastructure, our utilities battle each day to protect our health. But hundreds of water main breaks a day in California show we are losing ground. What is our best investment?
+### Faced with massive challenges from climate change and ancient infrastructure, our utilities battle each day to protect our health. But hundreds of water main breaks a day in California show we are losing ground. What is our best investment?
 - Today's **aging, failing infrastructure** requires capital investment beyond existing budgets. Even the best-managed utilities see unanticipated shortfalls due to changing weather patterns, mounting energy costs, shifting water sources, new pollution challenges, and shocks to supply chains.
   - **These investments can not be avoided or postponed.** (Think Ukraine this winter) (Insert total past capital investment, total required annual rebuilding estimates: US, EU, China, India, Sub-Saharan Africa, Japan, Korea, Brazil, Middle East)
 
-### **Challenge**: our most critical infrastructure is invisible, taken for granted, assumed just to work. But we are close to systemic failure.
+## **Challenge**: our most critical infrastructure is invisible, taken for granted, assumed just to work. But we are close to systemic failure.
 
 
 - **Unanticipated climate change** creates accelerating stress to interconnected water and energy systems. **Drought, fire, and flood** overwhelm existing planning models. Emergency planning fails to anticipate critical shortages.  We must completely reexamine water and energy infrastructure investments, taken together, to design and build a more sustainable future.
@@ -18,7 +19,7 @@
   - Mistaking reliability for resilience means our existing infrastructure is built in a way that makes rebuilding and replacement many times too expensive. Future construction plans must be re-evaluated and redesigned to enable ease of repair, real-time monitoring, anticipatory maintenance and risk-based replacement. All past construction--each pipe segment, pump, tank, valve, joint--must be re-examined, then ranked for risk of failure and prioritized for replacement.
 - **Interdependent water and energy infrastructure should no longer be managed as independent entities.**
 
-### **Response**
+## **Response**
 
 ### New data networks allows real-time management of risks and investment
 - New systems of high resolution satellite and drone surveillance, soil and seismic monitoring, geotechnical and hydrological testing and modeling, **ubiquitous sensor deployment and networked data acquisition** from all elements of our physical plant transform how we manage daily operations.  Data-based risk assessment shapes the replacement design of our critical infrastructure. **New data networks are orders of magnitude cheaper than past systems**; new tools of machine learning and data analysis **reveal developing vulnerabilities and risks in real time**. New materials, new methods of production, new technologies of construction, and new regulatory and reporting requirements are transforming the modern water and energy utility.

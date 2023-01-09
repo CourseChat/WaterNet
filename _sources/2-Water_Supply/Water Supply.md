@@ -1,7 +1,7 @@
 # Water Supply
 ## Overall source of all water for Northern California
 
-[Water Sources](Images/NCalWaterSource.png)
+![Water Sources](../Images/NCalWaterSource.png)
 
 ## Draw facts from images
 - Miles of transmission pipe; by pipe size, by water district; SMUD numbers

@@ -1,7 +1,7 @@
 # Why these lectures by UC Berkeley and East Bay Municipal Utility District are so important at this moment. 
 ![Underground](../Images/DM.cover.png)
 - Every water utility around the world invests to bring clean water to everyone.  Existing subsurface capital investments are in the trillions of dollars. But designs and budgets that worked in the past are no longer sufficient for maintaining global water supplies. The infrastructure is failing. Here's how to approach needed change.
-## Without nderground infrastructure, surface infrastructure does not work
+## Without underground infrastructure, surface infrastructure does not work
 ![Looking Up](../Images/DM.look.up.png)
 ### Water utilities require major new investments to keep clean water flowing. We must rebuild and extend our critical water infrastructure now.  But this investment is not yet funded. 
 - Past cost projections are proving to be wildly inaccurate due to new challenges of climate change and rapidly aging capital plant.

@@ -1,9 +1,73 @@
 # Table of contents
 # Learn more at https://jupyterbook.org/customize/toc.html
-
-format: jb-book
 root: intro
-chapters:
-- file: markdown
-- file: notebooks
-- file: markdown-notebooks
+format: jb-book
+#defaults:
+#  numbered: True
+# start parts; correspond to modules;
+parts:
+# Module 0
+  - caption: Navigation, Interaction, Active Data Analysis
+    numbered: True
+    chapters:
+    - file: 0-Web_of_Resources/Rebuilding_A_Castle_In_The_Air
+    - file: 0-Web_of_Resources/Active_Information
+    - file: 0-Web_of_Resources/Diagram of Paths
+# Module 1
+  - caption: 1 Overview
+    numbered: True
+    chapters:
+    - file: 1-Overview/_IntroOne
+    - file: 1-Overview/_IntroTwo
+    - file: 1-Overview/Challenges
+    - file: 1-Overview/Lecture Table
+    - file: 1-Overview/Table_of_links1
+# Module 2
+  - caption: 2 Water Supply in an era of drought and flood
+    numbered: True
+    chapters:
+    - file: 2-Water_Supply/Water Supply
+# Module 3
+  - caption: Design and Operation of water and waste water
+    numbered: True
+    chapters:
+    - file: 3-Design_and_Operation/How to operate
+# Module 4
+  - caption: Maintenance, Renewal, Replacement
+    numbered: True
+    chapters:
+    - file: 4-Maintenance_Renewal_Replacement/Maintenance
+    - file: 4-Maintenance_Renewal_Replacement/Infrastructure_investments_overview
+    - file: 4-Maintenance_Renewal_Replacement/Pipeline design fundamentals and use of innovative materials
+    - file: 4-Maintenance_Renewal_Replacement/Why Pipes Break
+    - file: 4-Maintenance_Renewal_Replacement/Innovations in pipeline maintenance
+# Module 5
+  - caption: Sustainability, Resilience, Climate Change
+    numbered: True
+    chapters:
+    - file: 5-Sustainability_and_Resilience/Sustainability
+# Module 6
+  - caption: Financing Water and Wastewater Utilities
+    chapters:
+    - file: 6-Financing_Water/Finance
+# Module 7
+  - caption: Interdependence of Water and Energy
+    chapters:
+    - file: 7-Interdependence/Water-Energy Nexus
+# Module 8
+  - caption: Design for Emergencies
+    chapters:
+    - file: 8-Emergencies/Emergencies
+# Module 9
+  - caption: New Technologies
+    chapters:
+    - file: 9-New_Technologies/Sensors, Networks, and Real-Time Operations
+# Module 10
+  - caption: 10-Jupyter Notebooks
+    chapters:
+    - file: notebooks
+    - file: dead
+    - file: markdown
+    - file: markdown-notebooks
+#      - file: test
+#      - file: mymarkdown

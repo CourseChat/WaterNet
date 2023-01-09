@@ -48,26 +48,36 @@ parts:
     - file: 5-Sustainability_and_Resilience/Sustainability
 # Module 6
   - caption: Financing Water and Wastewater Utilities
+    numbered: True
     chapters:
     - file: 6-Financing_Water/Finance
 # Module 7
   - caption: Interdependence of Water and Energy
+    numbered: True
     chapters:
     - file: 7-Interdependence/Water-Energy Nexus
 # Module 8
   - caption: Design for Emergencies
+    numbered: True
     chapters:
     - file: 8-Emergencies/Emergencies
 # Module 9
   - caption: New Technologies
+    numbered: True
     chapters:
     - file: 9-New_Technologies/Sensors, Networks, and Real-Time Operations
 # Module 10
   - caption: 10-Jupyter Notebooks
+    numbered: True
     chapters:
     - file: notebooks
     - file: dead
     - file: markdown
     - file: markdown-notebooks
-#      - file: test
-#      - file: mymarkdown
+# Module 11
+  - caption: Journalists, Politicians, Water Scientists and Engineers
+    numbered: True
+    chapters: 
+    - file: testOne
+    - file: test
+    - file: mymarkdown

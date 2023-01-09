@@ -33,6 +33,7 @@ parts:
     - file: 2-Water_Supply/Water Supply
     - file: 2-Water_Supply/Water Supply--Water and Natural Resources Management
     - file: 2-Water_Supply/Water Demand Forecasting
+    - file: 2-Water_Supply/Develop alternative water supply portfolios
 # Module 3
   - caption: Design and Operation of water and waste water
     numbered: True

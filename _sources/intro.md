@@ -1,5 +1,5 @@
-# Introduction to
-
+# Why these lectures by UC Berkeley and East Bay Municipal Utility District are so important at this moment. 
+- They outline the major effort facing water utilities around the world to bring clean water to every person. What worked in the past is no longer sufficient for maintaining global water supplies. Here's how to approach change.
 ## Water utilities require major new investments to keep clean water flowing. We must rebuild and extend our critical water infrastructure now.  This investment is not yet funded.
   - Dams, reservoirs, pipes, pumps, water collection systems and water and waste water purification **systems will require from two to five times more investment** than today's conservative financial models anticipate.
 ## Faced with massive challenges from climate change and ancient infrastructure, our utilities battle each day to protect our health. But thousands of water main breaks a day in California show we are losing ground.

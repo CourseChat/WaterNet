@@ -1,0 +1,25 @@
+# Introduction to
+
+## Water utilities require major new investments to keep clean water flowing. We must rebuild and extend our critical water infrastructure now.  This investment is not yet funded.
+  - Dams, reservoirs, pipes, pumps, water collection systems and water and waste water purification **systems will require from two to five times more investment** than today's conservative financial models anticipate.
+## Faced with massive challenges from climate change and ancient infrastructure, our utilities battle each day to protect our health. But thousands of water main breaks a day in California show we are losing ground.
+- Today's **aging, failing infrastructure** requires capital investment beyond existing budgets. Even the best-managed utilities see unanticipated shortfalls due to changing weather patterns, mounting energy costs, shifting water sources, new pollution challenges, and shocks to supply chains.
+  - **These investments can not be avoided or postponed.** (Think Ukraine this winter) (Insert total past capital investment, total required annual rebuilding estimates: US, EU, China, India, Sub-Saharan Africa, Japan, Korea, Brazil, Middle East)
+
+### **Challenge**: our most critical infrastructure is invisible, taken for granted, assumed just to work. But we are close to systemic failure.
+
+
+- **Unanticipated climate change** creates accelerating stress to interconnected water and energy systems. **Drought, fire, and flood** overwhelm existing planning models. Emergency planning fails to anticipate critical shortages.  We must completely reexamine water and energy infrastructure investments, taken together, to design and build a more sustainable future.
+-  **Political and governmental agencies** fail to understand inevitable impending water and energy shortages; inadequate analysis based on out-dated tools and assumptions leads to serious policy and planning mistakes.  New tools, new data, and new analysis must lead to more effective investments.
+- Today's **outmoded construction standards** create a major legacy of unanticipated costs.
+  - Mistaking reliability for resilience means our existing infrastructure is built in a way that makes rebuilding and replacement many times too expensive. Future construction plans must be re-evaluated and redesigned to enable ease of repair, real-time monitoring, anticipatory maintenance and risk-based replacement. All past construction--each pipe segment, pump, tank, valve, joint--must be re-examined, then ranked for risk of failure and prioritized for replacement.
+- **Interdependent water and energy infrastructure should no longer be managed as independent entities.**
+
+### **Response**
+
+### New data networks allows real-time management of risks and investment
+- New systems of high resolution satellite and drone surveillance, soil and seismic monitoring, geotechnical and hydrological testing and modeling, **ubiquitous sensor deployment and networked data acquisition** from all elements of our physical plant transform how we manage daily operations.  Data-based risk assessment shapes the replacement design of our critical infrastructure. **New data networks are orders of magnitude cheaper than past systems**; new tools of machine learning and data analysis **reveal developing vulnerabilities and risks in real time**. New materials, new methods of production, new technologies of construction, and new regulatory and reporting requirements are transforming the modern water and energy utility.
+- These new capabilities support targeted decision-making for risk-based investments. New data brings new opportunities for cost-effective civil engineering.  
+- **Change comes slowly in critical infrastructure engineering.** Innovations must be tested, over long time periods, before general adoption by those responsible for the basic functioning of modern society.
+- **Financial investment in often-invisible infrastructure must come from informed public opinion**, based on accurate assessments of costs.  But new circumstances require new initiatives.
+- **The global workforce that creates and maintains our most critical infrastructure must be given new resources, new tools,  new technologies, new training and career advancement, and a new regulatory framework**.

@@ -28,7 +28,7 @@ that is being called.
 Here is a "note" directive:
 
 ```{note}
-Here is a note
+EBMUD created lectures in coordination with Prof. Kenichi Soga
 ```
 
 It will be rendered in a special box when you build your book.
@@ -50,6 +50,14 @@ then the bibliography is inserted with:
 
 ```{bibliography}
 ```
+## Try some Jn
+add space
+
+``` {code-cell}
+print(2 + 47)
+```
+
+
 
 ## Learn more
 

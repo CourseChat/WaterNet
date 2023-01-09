@@ -34,11 +34,15 @@ parts:
     - file: 2-Water_Supply/Water Supply--Water and Natural Resources Management
     - file: 2-Water_Supply/Water Demand Forecasting
     - file: 2-Water_Supply/Develop alternative water supply portfolios
+    - file: 2-Water_Supply/Water Supply Resilience and Portfolio Design
 # Module 3
   - caption: Design and Operation of water and waste water
     numbered: True
     chapters:
     - file: 3-Design_and_Operation/How to operate
+    - file: 3-Design_and_Operation/Water and Wastewater Systems Operations
+    - file: 3-Design_and_Operation/Water Treatment Plant Design and Operations Overview
+    - file: 3-Design_and_Operation/Water Distribution System Design and Operations
 # Module 4
   - caption: Maintenance, Renewal, Replacement
     numbered: True

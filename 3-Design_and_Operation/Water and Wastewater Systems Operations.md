@@ -1,0 +1,23 @@
+- 9-19: **Dave Briggs**
+				- 09-19
+				- https://bcourses.berkeley.edu/courses/1516536/files/folder/Module%203%20-%20Water%20and%20wastewater%20systems%20operations?preview=84134967
+				- Water and Wastewater Systems Operations
+				- p.8: rainfall map vs population map; colored
+				- p.14: infectious disease rate: CDC; 1900-1996; chlorine: 1913; chart
+				- p.20: list of innovations: could show impact on system operation
+					- InPipe Energy
+					- Wedeco: UV reactor
+					- URS AECOM Hayward fault crossing
+				- p.22: GPR ground penetrating radar; could use data to build out street 3D diagrams; proximity data for breaks; 
+				- p.23: satellite leak; automated fire hydrant acoustic; manual acoustic; where does data go? how integrated into existing databases? JN to integrate? 
+				- p.31: pie chart: nitrogen in central SF bay: 10% stormwater; 20% EBMUD; 70% other treated: no source shown; find sources; find monitors; show real-time, from sensors; JN
+				- p.35; Recycling map; 
+				- p.37: WWTP: showing turbidity: real-time sensor data? JN
+				- p.39: Resource Recovery: septage: $1.75; Liquid Organic: $2.90; brine: $4.90; similar for SF? chart 2002 - 2022 showing recovery percent.
+				- p.42: urban runoff: 0.6 MGD: when? shows loading
+				- If we were going to build it today: different weighting of priorities:  similar to Clifford's resilience vs reliability;
+				- build JN to show 
+				- Water and wastewater system overview and innovations
+			- **Alicia Chakrabarti**
+				- Water and wastewater system overview and innovations
+                

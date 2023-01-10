@@ -1,4 +1,9 @@
 # Why these lectures by UC Berkeley and East Bay Municipal Utility District are so important at this moment. 
+
+```{code-cell} python
+print("intro.md", 4 + 5)
+```
+
 :::{contents}
 :::
 ![Underground](Images/DM.cover.png)

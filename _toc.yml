@@ -55,6 +55,7 @@ parts:
     - file: 4-Maintenance_Renewal_Replacement/Innovations in pipeline maintenance
     - file: 4-Maintenance_Renewal_Replacement/Preparing a Pipeline Design
     - file: 4-Maintenance_Renewal_Replacement/Field Pipeline Design--Offsets, Costs
+    - file: 4-Maintenance_Renewal_Replacement/Fundamental Documents.md
 # Module 5
   - caption: 5 Sustainability, Resilience, Climate Change--Major Impacts
     numbered: True

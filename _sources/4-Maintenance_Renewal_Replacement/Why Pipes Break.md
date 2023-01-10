@@ -1,11 +1,14 @@
 # Why Pipes Break, and How To Predict Breaks
-10-17: David Katzev and Clifford Chan
+10-17: **David Katzev** and **Clifford Chan**
 
 - 10-17
 - [Katzev/Chan video](https://bcourses.berkeley.edu/courses/1516536/files/folder/Module%204%20-%20Infrastructure%20maintenance%2C%20renewal%20and%20replacement?preview=84420282)
 - Why Pipes Break and Predictive Modeling
 - p.6: Primary Causes of Main Breaks: how to show JN for tension, compression, bending, corrosion, pressure?
 ## insert JN
+:::{code-cell} python
+install pandas as pd
+:::
 - p.8: chart of *cause* and *failure mode* by material: could pull data from failure db; fill chart with proportions;
 
 ````{div} full-width

@@ -1,0 +1,13 @@
+# Preparing a Pipeline Design
+- 10-19: **Carlton Chan**
+- 10-19
+- https://bcourses.berkeley.edu/courses/1516536/files/folder/Module%204%20-%20Infrastructure%20maintenance%2C%20renewal%20and%20replacement?preview=84445020
+- Preparing a Pipeline Design
+- p.8: Utilities: all other elements and requirements for trench design
+- p.12: Design Drawing Plan and Profile: JN to calculate lengths, offsets;
+- p.16: Final design 
+- p.18: As built design
+- p.20: 100 years in future
+- p.24,25,26: map of Bancroft; drawings
+- p.30: where is San Ramon petroleum line in drawing?
+- p.33: data on excavation Accidents: JN to call in data? 

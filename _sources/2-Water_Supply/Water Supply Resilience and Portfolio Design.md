@@ -11,3 +11,18 @@
 - p.16: groundwater banking: map, planned 1000 AF
 - p.22: Recycled plans; goal 20 MGD by 2040
 - model with JN; 
+- 09-14: Water Supply Management: WSMP 2040 plan; April 2012
+- Chart: Mokelumne River Water Supply Variability
+		- 1921-2021: 100 columns; 
+		- True Natural Flow; Million Acre Feet; MAF; Year; color coded: Normal; Below; Dry; Critical
+		- Isn't this controlled? 
+- Map of BARR: 8 largest water districts
+	- Groundwater: NASA GRACE 2002 2014; cumulative water storage changes; ??; SGMA 2014:
+		- Data? Cal update 2020; 266 TAF groundwater use; 1,316 TAF total use; sf region
+- Recycled: packaged plant: who? where?
+- 5 not-potable projects: 9.2 MGD; 20 MGD by 2040; 
+		- North Richmond WRP
+		- Richmond Advanced Recycled Expansion: RARE
+		- East Bayshore Phase 1A
+		- San Leandro WRP
+		- DERWA San Ramon Valley: Diablo CC  Satellite

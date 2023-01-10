@@ -19,29 +19,11 @@ kernelspec:
 -   https://bcourses.berkeley.edu/courses/1516536/files/folder/Module%202%20-%20Water%20supply%20and%20natural%20resources?preview=84056926
 -   Water Demand Forecasting
 -   p.5: Methods of forecasting: per capita: chart: by city in Bay Area; city by gallons per capita use
+
 :::{code-cell} python
-\#\# Download EBMUD historical water demand daily amounts by customer class
-    # HIDDEN
-# The standard set of libraries we need
-import numpy as np
-import matplotlib.pyplot as plt
-#%matplotlib inline
-
-# Make plots look a little bit more fancy
-#plt.style.use('fivethirtyeight')
-
-# The standard library for data in tables
-import pandas as pd
-
-# A tiny function to read a file directly from a URL
-from urllib.request import urlopen
-
-def read_url(url):
-    return urlopen(url).read().decode()
-    install pandas as pd
-    install url
 print("do math", 33 + 66)
 :::
+
 -   p.6: land usde forecasting:
 -   p.7: econometrics: chart function of variables, by year
 -   p.9: Base year and normalization: chart: Average daily water demand by year: 1970 to 2025: against population growth; gallons per capita per day; shows bands of drought years;

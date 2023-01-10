@@ -84,6 +84,7 @@ parts:
     - file: 8-Emergencies/Emergency Preparedness Overview and Interconnected Systems
     - file: 8-Emergencies/Planning and Understanding For Uncertainty and Hazards
     - file: 8-Emergencies/Cascading failures and community preparedness
+    - file: 8-Emergencies/DAM SAFETY &  EMERGENCY  PREPAREDNESS.md
 # Module 9
   - caption: 9 New Technologies--The System Comes Alive With AI
     numbered: True

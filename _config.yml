@@ -3,7 +3,7 @@
 
 title: Rebuilding Water Infrastructure--Lessons For The Next Century from a Major California Water Utility
 author: Water Infrastructure Future
-logo: ../Images/DM.cover.png
+logo: Images/DM.cover.png
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html

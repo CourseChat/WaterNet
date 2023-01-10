@@ -1,5 +1,6 @@
 ---
 jupytext:
+  cell_metadata_filter: -all
   formats: md:myst
   text_representation:
     extension: .md
@@ -20,11 +21,11 @@ kernelspec:
 -   Water Demand Forecasting
 -   p.5: Methods of forecasting: per capita: chart: by city in Bay Area; city by gallons per capita use
 
-:::{code-cell} python
+```{code-cell} python
 print("do math", 33 + 66)
-:::
+```
 
--   p.6: land usde forecasting:
+-   p.6: land use forecasting:
 -   p.7: econometrics: chart function of variables, by year
 -   p.9: Base year and normalization: chart: Average daily water demand by year: 1970 to 2025: against population growth; gallons per capita per day; shows bands of drought years;
 -   p10: base year and normalization: chart: Economic Index by year; 1975 to 2018; JN? : pull in Economic Cycles Research Institute data; show different indices?

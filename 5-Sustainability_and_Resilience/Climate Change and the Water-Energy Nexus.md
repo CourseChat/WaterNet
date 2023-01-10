@@ -1,0 +1,12 @@
+# Climate Change, and the Water/Energy Nexus
+- 10-26: **Chandra Johannesson**
+- Climate Change, and the Water/Energy Nexus
+- p.8: GHG reduction goals: 
+- p.11: GHG Inventory: Show Scope 1 direct; Scope 2 indirect; CO2; CH4; N2O;
+- p.15: chart of district performance: GHG tonnnes CO2; by year; 2006 - 2040
+- p.16-18: sector emissions
+- p.19: calculate generator v line power for 6-month construction: 2800 kWh/day x number of days x 160 lb CO2 / MWh
+- p.22: sea level rise: do alternative rate estimates
+- p.28: energy intensity of use: 
+- p.29: on-site generation: hydro, biogas, Solar;
+- more to come

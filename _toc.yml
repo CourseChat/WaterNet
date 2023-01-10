@@ -43,6 +43,7 @@ parts:
     - file: 3-Design_and_Operation/Water and Wastewater Systems Operations
     - file: 3-Design_and_Operation/Water Treatment Plant Design and Operations Overview
     - file: 3-Design_and_Operation/Water Distribution System Design and Operations
+    - file: 3-Design_and_Operation/Wastewater Treatment Design and Operations
 # Module 4
   - caption: Maintenance, Renewal, Replacement
     numbered: True
@@ -52,16 +53,21 @@ parts:
     - file: 4-Maintenance_Renewal_Replacement/Pipeline design fundamentals and use of innovative materials
     - file: 4-Maintenance_Renewal_Replacement/Why Pipes Break
     - file: 4-Maintenance_Renewal_Replacement/Innovations in pipeline maintenance
+    - file: 4-Maintenance_Renewal_Replacement/Preparing a Pipeline Design
+    - file: 4-Maintenance_Renewal_Replacement/Field Pipeline Design--Offsets, Costs
 # Module 5
   - caption: Sustainability, Resilience, Climate Change
     numbered: True
     chapters:
     - file: 5-Sustainability_and_Resilience/Sustainability
+    - file: 5-Sustainability_and_Resilience/Sustainability and Resilience--Overview and Innovations
+    - file: 5-Sustainability_and_Resilience/Climate Change and the Water-Energy Nexus.md
 # Module 6
   - caption: Financing Water and Wastewater Utilities
     numbered: True
     chapters:
     - file: 6-Financing_Water/Finance
+    - file: 6-Financing_Water/Water and Wastewater Financing – Capital and Operating Budgets, Rates and Charges.md
 # Module 7
   - caption: Interdependence of Water and Energy
     numbered: True

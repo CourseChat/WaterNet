@@ -19,7 +19,7 @@
 - Today's **aging, failing infrastructure** requires capital investment beyond existing budgets. Even the best-managed utilities see unanticipated shortfalls due to changing weather patterns, mounting energy costs, shifting water sources, new pollution challenges, and shocks to supply chains.
   - **These investments can not be avoided or postponed.** (Think Ukraine this winter) (Insert total past capital investment, total required annual rebuilding estimates: US, EU, China, India, Sub-Saharan Africa, Japan, Korea, Brazil, Middle East)
 
-## **Challenge**: our most critical infrastructure is invisible, taken for granted, assumed just to work. But we are close to systemic failure.
+## **Challenge**: our most critical infrastructure is invisible, taken for granted, assumed just to work. But we are moving closer to systemic failure.
 
 
 - **Unanticipated climate change** creates accelerating stress to interconnected water and energy systems. **Drought, fire, and flood** overwhelm existing planning models. Emergency planning fails to anticipate critical shortages.  We must completely reexamine water and energy infrastructure investments, taken together, to design and build a more sustainable future.

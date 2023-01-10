@@ -487,6 +487,35 @@ title="Toggle navigation"
         
     </div>
     <div class="header-article__right">
+<div class="menu-dropdown menu-dropdown-launch-buttons">
+  <button class="headerbtn menu-dropdown__trigger"
+      aria-label="Launch interactive content">
+      <i class="fas fa-rocket"></i>
+  </button>
+  <div class="menu-dropdown__content">
+    <ul>
+      <li>
+        <a href="https://mybinder.org/v2/gh/executablebooks/jupyter-book/main?urlpath=tree/docs/2-Water_Supply/Water Demand Forecasting.md"
+   class="headerbtn"
+   data-toggle="tooltip"
+data-placement="left"
+title="Launch on Binder"
+>
+  
+
+<span class="headerbtn__icon-container">
+  
+    <img src="../_static/images/logo_binder.svg">
+  </span>
+<span class="headerbtn__text-container">Binder</span>
+</a>
+
+      </li>
+      
+    </ul>
+  </div>
+</div>
+
 <button onclick="toggleFullScreen()"
   class="headerbtn"
   data-toggle="tooltip"
@@ -553,6 +582,23 @@ title="Open an issue"
   </button>
   <div class="menu-dropdown__content">
     <ul>
+      <li>
+        <a href="../_sources/2-Water_Supply/Water Demand Forecasting.ipynb"
+   class="headerbtn"
+   data-toggle="tooltip"
+data-placement="left"
+title="Download notebook file"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-code"></i>
+  </span>
+<span class="headerbtn__text-container">.ipynb</span>
+</a>
+
+      </li>
+      
       <li>
         <a href="../_sources/2-Water_Supply/Water Demand Forecasting.md"
    class="headerbtn"
@@ -629,28 +675,28 @@ title="Print to PDF"
 <li><p>p.7: econometrics: chart function of variables, by year</p></li>
 <li><p>p.9: Base year and normalization: chart: Average daily water demand by year: 1970 to 2025: against population growth; gallons per capita per day; shows bands of drought years;</p></li>
 <li><p>p10: base year and normalization: chart: Economic Index by year; 1975 to 2018; JN? : pull in Economic Cycles Research Institute data; show different indices?</p></li>
-<li><p>p.11: Driver Units: econometric analysis; JN  to pull in Oakland, Berkeley, BA Regional plans, forecasts;</p></li>
+<li><p>p.11: Driver Units: econometric analysis; JN to pull in Oakland, Berkeley, BA Regional plans, forecasts;</p></li>
 <li><p>p.12: US Census: JN pull in persons per square mile, other population; watch out for boundary definitions: polygons in Geopandas; use Association of Bay Area Governments regional data; JN pull in example data</p></li>
 <li><p>p.13: chart: water use by customer category: from EBMUD: JN to pull in metered consumption data? show customer classes: JN to show major users, ; SFR use for irrigation vs for HH; MultiFamily by other attributes, other data sources</p></li>
-<li><p>p.14: Account level:  table of business customer class code; water use by account; Time series 1975 to 2017: Parcel level : time series 2005 to 2017; JN to pull parcels?</p></li>
+<li><p>p.14: Account level: table of business customer class code; water use by account; Time series 1975 to 2017: Parcel level : time series 2005 to 2017; JN to pull parcels?</p></li>
 <li><p>p.15: Sources of data: consumption:chart: SFR: model calibration, validation and volumetric verification: ??? ; how to do this from EBMUD data: used 2005-6 to build model; used drought, recession years to build model; used 2016 to 2018 to validate;</p></li>
 <li><p>p.16: Large customers: note that UC is not listed:</p></li>
 <li><p>p.20: Hydraulic modeling: show how block hydraulic , meter data matches area forecasting; use PZ to model? use socioecoomic: JN?</p></li>
-<li><p>p.21: non revenue: leak, meter loss; unbilled: how to estimate: see <a class="reference external" href="https://wuedata.water.ca.gov/awwa_plans">https://wuedata.water.ca.gov/awwa_plans</a>;   how to asses leaks; JN?</p></li>
+<li><p>p.21: non revenue: leak, meter loss; unbilled: how to estimate: see <a class="reference external" href="https://wuedata.water.ca.gov/awwa_plans">https://wuedata.water.ca.gov/awwa_plans</a>; how to asses leaks; JN?</p></li>
 <li><p>p22: how to use recycled water, conservation in demand forecast: JN?</p></li>
 <li><p>ov/AWWA_plans</p></li>
 <li><p>How many JN?</p></li>
 <li><p>JN.1: small hydraulic block: get 41 meter readings over a year; link to what water passed through which pipes to get there; detail the 6-inch pipe, the 24-inch pipe; what pressure zone; what reservoir feeds;</p></li>
 <li><p>build up into a pressure zone model; aggregate into 21 demand model regions; Problem: census tract boundaries do not coincide with model region boundaries; need to interpolate data on population; income;</p></li>
-<li><p>JN.2: Demand Model Region; a SQL formula for each one to pull data?  Use each customer ID, pull into hydraulic model, pull into region; model all these as separate DATAFRAME;</p>
+<li><p>JN.2: Demand Model Region; a SQL formula for each one to pull data? Use each customer ID, pull into hydraulic model, pull into region; model all these as separate DATAFRAME;</p>
 <ul>
 <li><p>build from smallest behavioral unit; do homework with total demand pulled from subunits; use 21;</p></li>
 </ul>
 </li>
-<li><p>JN: 21 Region id; in each, allocate 400,000 /21; 20,000; assign to sector; 50% to SFR; MFR: 19%; start with 400000; assign breakdown by category; One column for category or sector.  why called “land use”? because land use determes water use?</p>
+<li><p>JN: 21 Region id; in each, allocate 400,000 /21; 20,000; assign to sector; 50% to SFR; MFR: 19%; start with 400000; assign breakdown by category; One column for category or sector. why called “land use”? because land use determes water use?</p>
 <ul>
 <li><p>in each region, assign a population; get demographic profile of each; 1</p></li>
-<li><p>import customer data; for each, have parcel, census block, census tract, system unique id; meter id; sector  or category; monthy usage, monthly bill; regulation regime; internal-attached-detached; year built; redevelopment; large customer;</p></li>
+<li><p>import customer data; for each, have parcel, census block, census tract, system unique id; meter id; sector or category; monthy usage, monthly bill; regulation regime; internal-attached-detached; year built; redevelopment; large customer;</p></li>
 <li><p>separate data; temp, rainfall, wind, fire, pandemic, transport miles/day; births; deaths; working; days not at home; land area or parcel use; square footage;</p></li>
 </ul>
 </li>
@@ -683,7 +729,7 @@ title="Print to PDF"
 </li>
 </ul>
 </li>
-<li><p>Chart: Economic index: Economic Cycles Research Institute:  ???</p>
+<li><p>Chart: Economic index: Economic Cycles Research Institute: ???</p>
 <ul>
 <li><p>1975 to 2018: Economic index, between -0.1 and +0.12</p></li>
 </ul>
@@ -720,24 +766,33 @@ title="Print to PDF"
 </li>
 </ul>
 </li>
-<li><p>Model calibration: Validation; volumetric validation;  do have volume data, can use for validation
-- chart: 2005-2006: normal : validation
-- 2007-2009: drought and recession
-- 2010- 2013: recovery
-- 2014-2015: drought
-- 2016-2018: volumetric validation
-- graph: calibration 2007-2018: show observed, predicted
-- graph: validation: show Jan2005 to Oct 2006: validation  unclear what this means; maybe normal year;</p></li>
-<li><p>Sources: large customers:
-- Oakland Airport; C&amp;H; Phillips 66; Chevron; Diablo Country Club; Coca Cola; Gatoraid; Cal;
-- high: 4.0 MGD; 1.3 MGD; 0.2 MGD;</p></li>
-<li><p>Need graphic like forecasting challenges: Demand Categories and Areas
-- Customer
-- Parcels
-- Census Blocks
-- Census Tract
-- System wide useage data;</p></li>
-<li><p>21 Demand Model Regions: 345 Census tracts;  hundreds of models, 1000’s of results!</p>
+<li><p>Model calibration: Validation; volumetric validation; do have volume data, can use for validation</p>
+<ul>
+<li><p>chart: 2005-2006: normal : validation</p></li>
+<li><p>2007-2009: drought and recession</p></li>
+<li><p>2010- 2013: recovery</p></li>
+<li><p>2014-2015: drought</p></li>
+<li><p>2016-2018: volumetric validation</p></li>
+<li><p>graph: calibration 2007-2018: show observed, predicted</p></li>
+<li><p>graph: validation: show Jan2005 to Oct 2006: validation unclear what this means; maybe normal year;</p></li>
+</ul>
+</li>
+<li><p>Sources: large customers:</p>
+<ul>
+<li><p>Oakland Airport; C&amp;H; Phillips 66; Chevron; Diablo Country Club; Coca Cola; Gatoraid; Cal;</p></li>
+<li><p>high: 4.0 MGD; 1.3 MGD; 0.2 MGD;</p></li>
+</ul>
+</li>
+<li><p>Need graphic like forecasting challenges: Demand Categories and Areas</p>
+<ul>
+<li><p>Customer</p></li>
+<li><p>Parcels</p></li>
+<li><p>Census Blocks</p></li>
+<li><p>Census Tract</p></li>
+<li><p>System wide useage data;</p></li>
+</ul>
+</li>
+<li><p>21 Demand Model Regions: 345 Census tracts; hundreds of models, 1000’s of results!</p>
 <ul>
 <li><p>Model Sectors:</p>
 <ul>
@@ -751,13 +806,16 @@ title="Print to PDF"
 </li>
 </ul>
 </li>
-<li><p>Show map with meters indicated: Hydraulic Modeling
-- shows a main going around a 24-inch and joining a 6 inch
-- allocate into hydraulic model????
-- relate meter data and demand area forecast: how? is goal to predict how many more big pipes will be needed for expanding residential growth? or big new factory?</p></li>
-<li><p>Non-revenue; leaks, theft, breaks; model
-- <a class="reference external" href="https://wuedata.water.ca.gov/awwa_plans">https://wuedata.water.ca.gov/awwa_plans</a></p>
+<li><p>Show map with meters indicated: Hydraulic Modeling</p>
 <ul>
+<li><p>shows a main going around a 24-inch and joining a 6 inch</p></li>
+<li><p>allocate into hydraulic model????</p></li>
+<li><p>relate meter data and demand area forecast: how? is goal to predict how many more big pipes will be needed for expanding residential growth? or big new factory?</p></li>
+</ul>
+</li>
+<li><p>Non-revenue; leaks, theft, breaks; model</p>
+<ul>
+<li><p><a class="reference external" href="https://wuedata.water.ca.gov/awwa_plans">https://wuedata.water.ca.gov/awwa_plans</a></p></li>
 <li><p>Incorporate Water Conservation Strategic Plan 2021</p></li>
 <li><p>Updated Recycled Water Master Plan feb 2019</p></li>
 </ul>

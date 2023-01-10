@@ -36,7 +36,7 @@ parts:
     - file: 2-Water_Supply/Develop alternative water supply portfolios
     - file: 2-Water_Supply/Water Supply Resilience and Portfolio Design
 # Module 3
-  - caption: Design and Operation of water and waste water
+  - caption: 3 Design and Operation of Water and Waste Water Systems
     numbered: True
     chapters:
     - file: 3-Design_and_Operation/How to operate
@@ -45,7 +45,7 @@ parts:
     - file: 3-Design_and_Operation/Water Distribution System Design and Operations
     - file: 3-Design_and_Operation/Wastewater Treatment Design and Operations
 # Module 4
-  - caption: Maintenance, Renewal, Replacement
+  - caption: 4 System Maintenance, Renewal, Replacement-Foundation of the Enterprise
     numbered: True
     chapters:
     - file: 4-Maintenance_Renewal_Replacement/Maintenance
@@ -56,35 +56,35 @@ parts:
     - file: 4-Maintenance_Renewal_Replacement/Preparing a Pipeline Design
     - file: 4-Maintenance_Renewal_Replacement/Field Pipeline Design--Offsets, Costs
 # Module 5
-  - caption: Sustainability, Resilience, Climate Change
+  - caption: 5 Sustainability, Resilience, Climate Change--Major Impacts
     numbered: True
     chapters:
     - file: 5-Sustainability_and_Resilience/Sustainability
     - file: 5-Sustainability_and_Resilience/Sustainability and Resilience--Overview and Innovations
     - file: 5-Sustainability_and_Resilience/Climate Change and the Water-Energy Nexus.md
 # Module 6
-  - caption: Financing Water and Wastewater Utilities
+  - caption: 6 Financing Water and Wastewater Utilities-Tariffs and Taxes
     numbered: True
     chapters:
     - file: 6-Financing_Water/Finance
     - file: 6-Financing_Water/Water and Wastewater Financing – Capital and Operating Budgets, Rates and Charges.md
 # Module 7
-  - caption: Interdependence of Water and Energy
+  - caption: 7 Interdependence of Water and Energy-Can't Have One Without The Other
     numbered: True
     chapters:
     - file: 7-Interdependence/Water-Energy Nexus
 # Module 8
-  - caption: Design for Emergencies
+  - caption: 8 Design for Emergencies-Systems Are Made To Be Broken
     numbered: True
     chapters:
     - file: 8-Emergencies/Emergencies
 # Module 9
-  - caption: New Technologies
+  - caption: 9 New Technologies--The System Comes Alive With AI
     numbered: True
     chapters:
     - file: 9-New_Technologies/Sensors, Networks, and Real-Time Operations
 # Module 10
-  - caption: 10-Jupyter Notebooks
+  - caption: 10-Jupyter Notebooks-Data And Real-Time Management
     numbered: True
     chapters:
     - file: notebooks
@@ -92,7 +92,7 @@ parts:
     - file: markdown
     - file: markdown-notebooks
 # Module 11
-  - caption: Journalists, Politicians, Water Scientists and Engineers
+  - caption: 11 Journalists, Politicians, Water Scientists, Engineers, Investors--Decide The Future
     numbered: True
     chapters: 
     - file: testOne

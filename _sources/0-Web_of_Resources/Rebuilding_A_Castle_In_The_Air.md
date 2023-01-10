@@ -1,3 +1,4 @@
+
 # Rebuilding The Foundations During The Earthquake
 ## Questions. Some answers based on fundamentals
 - What are the foundations?

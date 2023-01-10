@@ -1,3 +1,22 @@
+---
+jupyter:
+  jupytext:
+    text_representation:
+      extension: .md
+      format_name: myst
+      jupytext_version: 1.14.4
+      format_name: markdown
+      format_version: '1.1'
+  kernelspec:
+    display_name: Python 3
+    language: python
+    name: python3
+---
+
+
+
+
+
 # Why these lectures by UC Berkeley and East Bay Municipal Utility District are so important at this moment. 
 
 ```{code-cell} python

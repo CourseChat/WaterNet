@@ -1,4 +1,19 @@
+
 # Rebuilding Water Infrastructure: Lessons For The Next Century from a Major California Water Utility
+
+```{code-cell} python
+print("Executed today", 5 + 10)
+# An example input vector
+x = np.array(
+    [ 0.4967, -0.1383,  0.6477,  1.523 , -0.2342, -0.2341,  1.5792,
+      0.7674, -0.4695,  0.5426, -0.4634, -0.4657,  0.242 , -1.9133,
+      -1.7249, -0.5623, -1.0128,  0.3142, -0.908 , -1.4123,  1.4656,
+      -0.2258,  0.0675, -1.4247, -0.5444,  0.1109, -1.151 ,  0.3757,
+      -0.6006, -0.2917, -0.6017,  1.8523])
+N = len(x)
+
+plt.plot(x)
+```
 
 ```{contents}
 ```

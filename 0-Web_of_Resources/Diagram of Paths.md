@@ -1,3 +1,4 @@
+
 # Diagram of paths of innovation touching each category of plant capital resources
 - Technologies
     - Pipe materials

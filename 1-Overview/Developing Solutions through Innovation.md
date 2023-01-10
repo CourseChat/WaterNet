@@ -1,3 +1,4 @@
+
 # Developing Solutions through Innovation
 - 08-26 Katzev: Lab: sketch cycle
 - Developing Solutions through Innovation

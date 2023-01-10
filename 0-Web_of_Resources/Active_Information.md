@@ -1,3 +1,4 @@
+
 # How this resource is built
 - Lectures
     - PDF
@@ -5,4 +6,7 @@
     - Video
     - Transcript
 ## WonJun, this will be an outline of the project
-    
+
+```{code-cell} python
+print("Today", 7 * 6)
+```

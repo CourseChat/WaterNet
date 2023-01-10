@@ -789,17 +789,87 @@ title="Print to PDF"
 <h1><a class="toc-backref" href="#id7">Why these lectures by UC Berkeley and East Bay Municipal Utility District are so important at this moment.</a><a class="headerlink" href="#why-these-lectures-by-uc-berkeley-and-east-bay-municipal-utility-district-are-so-important-at-this-moment" title="Permalink to this headline">#</a></h1>
 <div class="cell docutils container">
 <div class="cell_input docutils container">
-<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1"># Import date class from datetime module</span>
-<span class="kn">from</span> <span class="nn">datetime</span> <span class="kn">import</span> <span class="n">date</span>
- 
-<span class="c1"># Returns the current local date</span>
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="kn">from</span> <span class="nn">datetime</span> <span class="kn">import</span> <span class="n">date</span>
+
 <span class="n">today</span> <span class="o">=</span> <span class="n">date</span><span class="o">.</span><span class="n">today</span><span class="p">()</span>
-<span class="nb">print</span><span class="p">(</span><span class="s2">&quot;Today date is: &quot;</span><span class="p">,</span> <span class="n">today</span><span class="p">)</span>
+
+<span class="c1"># dd/mm/YY</span>
+<span class="n">d1</span> <span class="o">=</span> <span class="n">today</span><span class="o">.</span><span class="n">strftime</span><span class="p">(</span><span class="s2">&quot;</span><span class="si">%d</span><span class="s2">/%m/%Y&quot;</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="s2">&quot;d1 =&quot;</span><span class="p">,</span> <span class="n">d1</span><span class="p">)</span>
+
+<span class="c1"># Textual month, day and year	</span>
+<span class="n">d2</span> <span class="o">=</span> <span class="n">today</span><span class="o">.</span><span class="n">strftime</span><span class="p">(</span><span class="s2">&quot;%B </span><span class="si">%d</span><span class="s2">, %Y %A&quot;</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="s2">&quot;d2 =&quot;</span><span class="p">,</span> <span class="n">d2</span><span class="p">)</span>
+
+<span class="c1"># mm/dd/y</span>
+<span class="n">d3</span> <span class="o">=</span> <span class="n">today</span><span class="o">.</span><span class="n">strftime</span><span class="p">(</span><span class="s2">&quot;%m/</span><span class="si">%d</span><span class="s2">/%y&quot;</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="s2">&quot;d3 =&quot;</span><span class="p">,</span> <span class="n">d3</span><span class="p">)</span>
+
+<span class="c1"># Month abbreviation, day and year	</span>
+<span class="n">d4</span> <span class="o">=</span> <span class="n">today</span><span class="o">.</span><span class="n">strftime</span><span class="p">(</span><span class="s2">&quot;%b-</span><span class="si">%d</span><span class="s2">-%Y&quot;</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="s2">&quot;d4 =&quot;</span><span class="p">,</span> <span class="n">d4</span><span class="p">)</span>
 </pre></div>
 </div>
 </div>
 <div class="cell_output docutils container">
-<div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>Today date is:  2023-01-10
+<div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>d1 = 10/01/2023
+d2 = January 10, 2023 Tuesday
+d3 = 01/10/23
+d4 = Jan-10-2023
+</pre></div>
+</div>
+</div>
+</div>
+<p>next</p>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="kn">from</span> <span class="nn">datetime</span> <span class="kn">import</span> <span class="n">datetime</span>
+
+<span class="c1"># datetime object containing current date and time</span>
+<span class="n">now</span> <span class="o">=</span> <span class="n">datetime</span><span class="o">.</span><span class="n">now</span><span class="p">()</span>
+ 
+<span class="nb">print</span><span class="p">(</span><span class="s2">&quot;now =&quot;</span><span class="p">,</span> <span class="n">now</span><span class="p">)</span>
+
+<span class="c1"># dd/mm/YY H:M:S</span>
+<span class="n">dt_string</span> <span class="o">=</span> <span class="n">now</span><span class="o">.</span><span class="n">strftime</span><span class="p">(</span><span class="s2">&quot;</span><span class="si">%d</span><span class="s2">/%m/%Y %A %H:%M:%S&quot;</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="s2">&quot;date and time =&quot;</span><span class="p">,</span> <span class="n">dt_string</span><span class="p">)</span>
+</pre></div>
+</div>
+</div>
+<div class="cell_output docutils container">
+<div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>now = 2023-01-10 22:02:42.626590
+date and time = 10/01/2023 Tuesday 22:02:42
+</pre></div>
+</div>
+</div>
+</div>
+<p>next</p>
+<div class="cell docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1"># Import date class from datetime module</span>
+<span class="kn">from</span> <span class="nn">datetime</span> <span class="kn">import</span> <span class="n">datetime</span>
+<span class="nb">print</span><span class="p">(</span><span class="s2">&quot;now&quot;</span><span class="p">,</span><span class="n">datetime</span><span class="o">.</span><span class="n">now</span><span class="p">())</span>
+<span class="c1">#print(&quot;time&quot;,datetime.time())</span>
+<span class="c1"># datetime object containing current date and time</span>
+<span class="n">now</span> <span class="o">=</span> <span class="n">datetime</span><span class="o">.</span><span class="n">now</span><span class="p">()</span>
+
+<span class="n">today</span> <span class="o">=</span> <span class="n">date</span><span class="o">.</span><span class="n">today</span><span class="p">()</span>
+<span class="nb">print</span><span class="p">(</span><span class="s2">&quot;Today&#39;s date is: &quot;</span><span class="p">,</span> <span class="n">today</span><span class="p">)</span>
+
+ 
+<span class="nb">print</span><span class="p">(</span><span class="s2">&quot;now2 =&quot;</span><span class="p">,</span> <span class="n">now</span><span class="p">)</span>
+
+<span class="n">dt_string</span> <span class="o">=</span> <span class="n">now</span><span class="o">.</span><span class="n">strftime</span><span class="p">(</span><span class="s2">&quot;%Y-%m-</span><span class="si">%d</span><span class="s2"> %A %H:%M:%S yearday=%-j Timezone= %z &quot;</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="s2">&quot;date and time =&quot;</span><span class="p">,</span> <span class="n">dt_string</span><span class="p">)</span>
+<span class="c1"># Returns the current local date</span>
+</pre></div>
+</div>
+</div>
+<div class="cell_output docutils container">
+<div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>now 2023-01-10 22:02:42.635024
+Today&#39;s date is:  2023-01-10
+now2 = 2023-01-10 22:02:42.635106
+date and time = 2023-01-10 Tuesday 22:02:42 yearday=10 Timezone=  
 </pre></div>
 </div>
 </div>

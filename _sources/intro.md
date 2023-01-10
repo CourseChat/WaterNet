@@ -13,17 +13,61 @@ kernelspec:
   name: python3
 ---
 
-
-
 # Why these lectures by UC Berkeley and East Bay Municipal Utility District are so important at this moment. 
+
+```{code-cell}
+from datetime import date
+
+today = date.today()
+
+# dd/mm/YY
+d1 = today.strftime("%d/%m/%Y")
+print("d1 =", d1)
+
+# Textual month, day and year	
+d2 = today.strftime("%B %d, %Y %A")
+print("d2 =", d2)
+
+# mm/dd/y
+d3 = today.strftime("%m/%d/%y")
+print("d3 =", d3)
+
+# Month abbreviation, day and year	
+d4 = today.strftime("%b-%d-%Y")
+print("d4 =", d4)
+```
+next
+```{code-cell}
+from datetime import datetime
+
+# datetime object containing current date and time
+now = datetime.now()
+ 
+print("now =", now)
+
+# dd/mm/YY H:M:S
+dt_string = now.strftime("%d/%m/%Y %A %H:%M:%S")
+print("date and time =", dt_string)
+```
+next
 
 ```{code-cell} python
 # Import date class from datetime module
-from datetime import date
- 
-# Returns the current local date
+from datetime import datetime
+print("now",datetime.now())
+#print("time",datetime.time())
+# datetime object containing current date and time
+now = datetime.now()
+
 today = date.today()
-print("Today date is: ", today)
+print("Today's date is: ", today)
+
+ 
+print("now2 =", now)
+
+dt_string = now.strftime("%Y-%m-%d %A %H:%M:%S yearday=%-j Timezone= %z ")
+print("date and time =", dt_string)
+# Returns the current local date
 
 ```
 

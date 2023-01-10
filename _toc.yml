@@ -62,13 +62,15 @@ parts:
     chapters:
     - file: 5-Sustainability_and_Resilience/Sustainability
     - file: 5-Sustainability_and_Resilience/Sustainability and Resilience--Overview and Innovations
-    - file: 5-Sustainability_and_Resilience/Climate Change and the Water-Energy Nexus.md
+    - file: 5-Sustainability_and_Resilience/Climate Change and the Water-Energy Nexus
 # Module 6
   - caption: 6 Financing Water and Wastewater Utilities-Tariffs and Taxes
     numbered: True
     chapters:
     - file: 6-Financing_Water/Finance
-    - file: 6-Financing_Water/Water and Wastewater Financing – Capital and Operating Budgets, Rates and Charges.md
+    - file: 6-Financing_Water/Water and Wastewater Financing – Capital and Operating Budgets, Rates and Charges
+    - file: 6-Financing_Water/Water and Wastewater Financing – Capital Financing.md
+    - file: 6-Financing_Water/Finance problem set.md
 # Module 7
   - caption: 7 Interdependence of Water and Energy-Can't Have One Without The Other
     numbered: True
@@ -79,6 +81,9 @@ parts:
     numbered: True
     chapters:
     - file: 8-Emergencies/Emergencies
+    - file: 8-Emergencies/Emergency Preparedness Overview and Interconnected Systems
+    - file: 8-Emergencies/Planning and Understanding For Uncertainty and Hazards
+    - file: 8-Emergencies/Cascading failures and community preparedness
 # Module 9
   - caption: 9 New Technologies--The System Comes Alive With AI
     numbered: True

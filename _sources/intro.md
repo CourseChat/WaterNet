@@ -15,12 +15,16 @@ kernelspec:
 
 
 
-
-
 # Why these lectures by UC Berkeley and East Bay Municipal Utility District are so important at this moment. 
 
 ```{code-cell} python
-print("intro.md", 4 + 5)
+# Import date class from datetime module
+from datetime import date
+ 
+# Returns the current local date
+today = date.today()
+print("Today date is: ", today)
+
 ```
 
 :::{contents}

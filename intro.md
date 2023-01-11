@@ -22,6 +22,8 @@ This book is interactive, which means components of a page pull in real-time dat
 ```
 ![Total System Storage WY 2023](./Images/TotalSystemStorageWY2023Annotated.png)
 
+```{note}
+Huge January rain volume will continue for two weeks. Graph shows model predictions under alternate possibilitiesfrom January to October 2023. Similar pattern last year had drought after March, so these predictions are conservative. Most of this rainfall cannot be stored. Some reservoirs must be drained to avoid overtopping. In future editions, today's system storage will draw directly from real-time levels at Pardee and other reservoirs.  Will add estimates of total water flow to Pacific.
 ```{code-cell}
 import os
 # Convert 630 Total Acre-Foot to gallons
@@ -32,9 +34,6 @@ print("630 Acre-Feet = ", gal , "gallons")
 #os.system('say{:,}'.format(gal1))
 ```
 
-```{note}
-This huge January rain volume is matched to model predictions from now to October 2023. In future editions, today's system storage will draw directly from Pardee and other reservoir actual levels.  The next two weeks will bring far more than we can store.
-```
 
 ```{code-cell}
 import folium

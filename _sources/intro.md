@@ -20,11 +20,16 @@ This book is interactive, which means components of a page pull in real-time dat
 
 ## What A Difference A Week Makes
 ```
-![Total System Storage WY 2023](./Images/TotalSystemStorageWY2023.png)
+![Total System Storage WY 2023](./Images/TotalSystemStorageWY2023Annotated.png)
 
 ```{code-cell}
-# Convert 630 TAF to gallons
-print("630 Acre-Feet = ", 630 * 325853.302098, "gallons")
+import os
+# Convert 630 Total Acre-Foot to gallons
+TAF = 630
+gallons = 630 * 325853.302098
+gal = f'{round(gallons):,}'
+print("630 Acre-Feet = ", gal , "gallons")
+#os.system('say{:,}'.format(gal1))
 ```
 
 ```{note}

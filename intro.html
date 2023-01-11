@@ -814,16 +814,21 @@ title="Print to PDF"
 <p class="admonition-title">Note</p>
 <p>This book is interactive, which means components of a page pull in real-time data from online sources, perform data analysis, and show the results. Data is open. How data becomes answers is clearly visible. The code is visible in active cells.</p>
 </div>
-<p><img alt="Total System Storage WY 2023" src="_images/TotalSystemStorageWY2023.png" /></p>
+<p><img alt="Total System Storage WY 2023" src="Images/TotalSystemStorageWY2023Annotated.png" /></p>
 <div class="cell docutils container">
 <div class="cell_input docutils container">
-<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1"># Convert 630 TAF to gallons</span>
-<span class="nb">print</span><span class="p">(</span><span class="s2">&quot;630 Acre-Feet = &quot;</span><span class="p">,</span> <span class="mi">630</span> <span class="o">*</span> <span class="mf">325853.302098</span><span class="p">,</span> <span class="s2">&quot;gallons&quot;</span><span class="p">)</span>
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="kn">import</span> <span class="nn">os</span>
+<span class="c1"># Convert 630 Total Acre-Foot to gallons</span>
+<span class="n">TAF</span> <span class="o">=</span> <span class="mi">630</span>
+<span class="n">gallons</span> <span class="o">=</span> <span class="mi">630</span> <span class="o">*</span> <span class="mf">325853.302098</span>
+<span class="n">gal</span> <span class="o">=</span> <span class="sa">f</span><span class="s1">&#39;</span><span class="si">{</span><span class="nb">round</span><span class="p">(</span><span class="n">gallons</span><span class="p">)</span><span class="si">:</span><span class="s1">,</span><span class="si">}</span><span class="s1">&#39;</span>
+<span class="nb">print</span><span class="p">(</span><span class="s2">&quot;630 Acre-Feet = &quot;</span><span class="p">,</span> <span class="n">gal</span> <span class="p">,</span> <span class="s2">&quot;gallons&quot;</span><span class="p">)</span>
+<span class="c1">#os.system(&#39;say{:,}&#39;.format(gal1))</span>
 </pre></div>
 </div>
 </div>
 <div class="cell_output docutils container">
-<div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>630 Acre-Feet =  205287580.32174 gallons
+<div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>630 Acre-Feet =  205,287,580 gallons
 </pre></div>
 </div>
 </div>

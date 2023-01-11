@@ -3,7 +3,7 @@
 # If you wish to continue using _config.yml, make edits to that file and
 # re-generate this one.
 ###############################################################################
-author = 'CE 112--Fall, 2022'
+author = 'Water Infrastructure Future'
 bibtex_bibfiles = ['references.bib']
 comments_config = {'hypothesis': False, 'utterances': False}
 copyright = '2022'
@@ -17,16 +17,17 @@ external_toc_exclude_missing = False
 external_toc_path = '_toc.yml'
 html_baseurl = ''
 html_favicon = ''
-html_logo = 'logo.png'
+html_logo = 'Images/DM.cover.png'
 html_sourcelink_suffix = ''
 html_theme = 'sphinx_book_theme'
-html_theme_options = {'search_bar_text': 'Search this book...', 'launch_buttons': {'notebook_interface': 'classic', 'binderhub_url': 'https://mybinder.org', 'jupyterhub_url': '', 'thebe': False, 'colab_url': ''}, 'path_to_docs': 'docs', 'repository_url': 'https://github.com/executablebooks/jupyter-book', 'repository_branch': 'master', 'google_analytics_id': '', 'extra_navbar': 'Powered by <a href="https://jupyterbook.org">Jupyter Book</a>', 'extra_footer': '', 'home_page_in_toc': True, 'announcement': '', 'use_repository_button': True, 'use_edit_page_button': False, 'use_issues_button': True}
-html_title = 'Rebuilding Water Infrastructure-Lessons For The Next Century from a Major California Water Utility'
+html_theme_options = {'search_bar_text': 'Search this book...', 'launch_buttons': {'notebook_interface': 'classic', 'binderhub_url': 'https://mybinder.org', 'jupyterhub_url': '', 'thebe': False, 'colab_url': ''}, 'path_to_docs': 'docs', 'repository_url': 'https://github.com/executablebooks/jupyter-book', 'repository_branch': 'main', 'google_analytics_id': '', 'extra_navbar': 'Powered by <a href="https://jupyterbook.org">Jupyter Book</a>', 'extra_footer': '', 'home_page_in_toc': True, 'announcement': '', 'use_repository_button': True, 'use_edit_page_button': False, 'use_issues_button': True}
+html_title = 'Rebuilding Water Infrastructure--Lessons For The Next Century from a Major California Water Utility'
 jupyter_cache = ''
 jupyter_execute_notebooks = 'force'
 latex_engine = 'pdflatex'
 myst_enable_extensions = ['colon_fence', 'dollarmath', 'linkify', 'substitution', 'tasklist']
 myst_url_schemes = ['mailto', 'http', 'https']
+nb_custom_formats = {'.mysuffix': 'mylibrary.converter_function'}
 nb_output_stderr = 'show'
 numfig = True
 pygments_style = 'sphinx'

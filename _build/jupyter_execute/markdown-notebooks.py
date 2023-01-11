@@ -1,9 +1,10 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # Notebooks with MyST Markdown
+# # Description of editing environment
+# ## Notebooks with MyST Markdown
 # 
-# Jupyter Book also lets you write text-based notebooks using MyST Markdown.
+# Jupyter Book lets you write text-based notebooks using MyST Markdown.
 # See [the Notebooks with MyST Markdown documentation](https://jupyterbook.org/file-types/myst-notebooks.html) for more detailed instructions.
 # This page shows off a notebook written in MyST Markdown.
 # 
@@ -14,7 +15,22 @@
 # In[1]:
 
 
-print(2 + 2)
+print(2 + 42)
+
+
+# In[2]:
+
+
+# An example input vector
+x = np.array(
+    [ 0.4967, -0.1383,  0.6477,  1.523 , -0.2342, -0.2341,  1.5792,
+      0.7674, -0.4695,  0.5426, -0.4634, -0.4657,  0.242 , -1.9133,
+      -1.7249, -0.5623, -1.0128,  0.3142, -0.908 , -1.4123,  1.4656,
+      -0.2258,  0.0675, -1.4247, -0.5444,  0.1109, -1.151 ,  0.3757,
+      -0.6006, -0.2917, -0.6017,  1.8523])
+N = len(x)
+
+plt.plot(x)
 
 
 # When your book is built, the contents of any `{code-cell}` blocks will be

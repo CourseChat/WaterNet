@@ -1,14 +1,22 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # Content with notebooks
+# # Jupyter Notebook Tutorial
+# The fastest way to begin is to spend two hours skimming the most popular course in UC Berkeley history: Data Science 8.
+# - You'll find it here: [UC Berkeley Data Science 8 text, slightly reworked](https://lisds.github.io/textbook/intro.html)
 # 
-# You can also create content with Jupyter Notebooks. This means that you can include
+# 
+# You can create content with Jupyter Notebooks. It can be configured to run locally, or perhaps at JupyterHub at UC Berkeley. This means that you can include
 # code blocks and their outputs in your book.
+# 
+# :::{code-block} markdown
+# ## Take an hour to read the Data Science 8 textbook. 
+# - You'll learn Python and Jupyter Notebooks.  And something about John Snow, and London water utilities contributing to cholera.
+# :::
 # 
 # ## Markdown + notebooks
 # 
-# As it is markdown, you can embed images, HTML, etc into your posts!
+# As it is markdown, you can embed images, HTML, etc into your posts!  But where is title?
 # 
 # ![](https://myst-parser.readthedocs.io/en/latest/_static/logo-wide.svg)
 # 
@@ -37,7 +45,7 @@
 # 
 # ## Code blocks and outputs
 # 
-# Jupyter Book will also embed your code blocks and output in your book.
+# Jupyter Book will embed your code blocks and output in your book.
 # For example, here's some sample Matplotlib code:
 
 # In[1]:
@@ -49,7 +57,7 @@ import numpy as np
 plt.ion()
 
 
-# In[ ]:
+# In[2]:
 
 
 # Fixing random state for reproducibility

@@ -13,6 +13,7 @@ parts:
     - file: 0-Web_of_Resources/Rebuilding_A_Castle_In_The_Air
     - file: 0-Web_of_Resources/Active_Information
     - file: 0-Web_of_Resources/Diagram of Paths
+    - file: 0-Web_of_Resources/Checklists_And_Dashboards.md
 # Module 1
   - caption: 1 Overview
     numbered: True

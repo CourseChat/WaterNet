@@ -14,3 +14,6 @@
 - Use all documents from Center for Smart Infrastructure as ChatGPT source documents; 
 - Add all AWWA documents
 - Add Metropolitan Tokyo documents; do multilingual ChatGPT
+- here's a link to ChatGPT to use EBMUD documents as the source of data
+    - https://github.com/openai/openai-cookbook/blob/main/examples/Question_answering_using_embeddings.ipynb
+    

@@ -13,44 +13,16 @@ kernelspec:
   name: python3
 ---
 
+
 # Why these lectures by UC Berkeley and East Bay Municipal Utility District are so important at this moment. 
 ```{note}
 This book is interactive, which means components of a page pull in real-time data from online sources, perform data analysis, and show the results. Data is open. How data becomes answers is clearly visible. The code is visible in active cells.
-
-```
-```{code-cell} python3
-import folium
-m = folium.Map(
-    location=[45.372, -121.6972],
-    zoom_start=12,
-    tiles='Stamen Terrain'
-)
-
-folium.Marker(
-    location=[45.3288, -121.6625],
-    popup='Mt. Hood Meadows',
-    icon=folium.Icon(icon='cloud')
-).add_to(m)
-
-folium.Marker(
-    location=[45.3311, -121.7113],
-    popup='Timberline Lodge',
-    icon=folium.Icon(color='green')
-).add_to(m)
-
-folium.Marker(
-    location=[45.3300, -121.6823],
-    popup='Some Other Location',
-    icon=folium.Icon(color='red', icon='info-sign')
-).add_to(m)
-
-m
 ```
 
 ```{code-cell}
 from datetime import date
 
-today = date.today()
+today = date.today()!!
 
 # dd/mm/YY
 d1 = today.strftime("%d/%m/%Y")

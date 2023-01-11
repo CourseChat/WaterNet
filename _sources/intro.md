@@ -22,6 +22,11 @@ This book is interactive, which means components of a page pull in real-time dat
 ```
 ![Total System Storage WY 2023](./Images/TotalSystemStorageWY2023.png)
 
+```{code-cell}
+# Convert 630 TAF to gallons
+print("630 Acre-Feet = ", 630 * 325853.302098, "gallons")
+```
+
 ```{note}
 This huge January rain volume is matched to model predictions from now to October 2023. In future editions, today's system storage will draw directly from Pardee and other reservoir actual levels.  The next two weeks will bring far more than we can store.
 ```

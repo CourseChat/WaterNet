@@ -22,7 +22,7 @@ This book is interactive, which means components of a page pull in real-time dat
 ```{code-cell}
 from datetime import date
 
-today = date.today()!!
+today = date.today()
 
 # dd/mm/YY
 d1 = today.strftime("%d/%m/%Y")

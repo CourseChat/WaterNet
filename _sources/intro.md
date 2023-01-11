@@ -22,6 +22,10 @@ This book is interactive, which means components of a page pull in real-time dat
 ```
 ![Total System Storage WY 2023](./Images/TotalSystemStorageWY2023.png)
 
+```note
+This huge January rain volume is matched to model predictions from now to October 2023. In future editions, today's system storage will draw directly from Pardee and other reservoir actual levels.  The next two weeks will bring far more than we can store.
+```
+
 ```{code-cell}
 import folium
 m = folium.Map(

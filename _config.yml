@@ -32,7 +32,3 @@ html:
   use_repository_button: true
   use_multitoc_numbering: false
 # added sphinx lines from Jupyterbook docs
-sphinx:
-  config:
-    nb_custom_formats:
-        .mysuffix: mylibrary.converter_function

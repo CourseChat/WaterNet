@@ -13,17 +13,16 @@ kernelspec:
   name: python3
 ---
 
+
 # Why these lectures by UC Berkeley and East Bay Municipal Utility District are so important at this moment. 
 ```{note}
 This book is interactive, which means components of a page pull in real-time data from online sources, perform data analysis, and show the results. Data is open. How data becomes answers is clearly visible. The code is visible in active cells.
-
 ```
-
 
 ```{code-cell}
 from datetime import date
 
-today = date.today()
+today = date.today()!!
 
 # dd/mm/YY
 d1 = today.strftime("%d/%m/%Y")

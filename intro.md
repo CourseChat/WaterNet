@@ -18,8 +18,37 @@ kernelspec:
 ```{note}
 This book is interactive, which means components of a page pull in real-time data from online sources, perform data analysis, and show the results. Data is open. How data becomes answers is clearly visible. The code is visible in active cells.
 ```
+```{code-cell}
+import folium
+m = folium.Map(
+    location=[37.801, -122.273],
+    zoom_start=10,
+    tiles='Stamen Terrain'
+)
+
+folium.Marker(
+    location=[37.8014, -122.273],
+    popup='Mt. Hood Meadows',
+    icon=folium.Icon(icon='cloud')
+).add_to(m)
+
+folium.Marker(
+    location=[37.8023, -122.273],
+    popup='Timberline Lodge',
+    icon=folium.Icon(color='green')
+).add_to(m)
+
+folium.Marker(
+    location=[37.8016, -122.2734],
+    popup='Some Other Location',
+    icon=folium.Icon(color='red', icon='info-sign')
+).add_to(m)
+
+m
+```
 
 ```{code-cell}
+# HIDDEN
 from datetime import date
 
 today = date.today()

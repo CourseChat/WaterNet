@@ -7,3 +7,6 @@
 - Uncertainty about when to employ Jupytext
 - Unclear how to manage kernels to mirror Python versions on home machine
 - Need guidance on updating modules and versions of Python
+## Sources of guidance
+- https://github.com/pabloinsente/jupyter-book-tutorial
+- Jupyter Book documentation

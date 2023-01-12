@@ -36,6 +36,7 @@ print("630 Acre-Feet = ", gal , "gallons")
 
 
 ```{code-cell}
+%pip install folium
 import folium
 m = folium.Map(
     location=[37.801, -122.273],

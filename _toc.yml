@@ -18,6 +18,9 @@ parts:
   - caption: 1 Overview
     numbered: True
     chapters:
+    - file: 1-Overview/intro-1.ipynb
+    - file: 1-Overview/intro-challenges.ipynb
+    - file: 1-Overview/intro-response.ipynb
     - file: 1-Overview/_IntroOne
     - file: 1-Overview/_IntroTwo
     - file: 1-Overview/Challenges

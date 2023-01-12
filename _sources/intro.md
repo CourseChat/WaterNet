@@ -13,7 +13,6 @@ kernelspec:
   name: python3
 ---
 
-
 # Why these lectures by UC Berkeley and East Bay Municipal Utility District are so important at this moment. 
 ```{note}
 This book is interactive, which means components of a page pull in real-time data from online sources, perform data analysis, and show the results. Data is open. How data becomes answers is clearly visible. The code is visible in active cells.
@@ -24,6 +23,8 @@ This book is interactive, which means components of a page pull in real-time dat
 
 ```{note}
 Huge January rain volume will continue for two weeks. Graph shows model predictions under alternate possibilitiesfrom January to October 2023. Similar pattern last year had drought after March, so these predictions are conservative. Most of this rainfall cannot be stored. Some reservoirs must be drained to avoid overtopping. In future editions, today's system storage will draw directly from real-time levels at Pardee and other reservoirs.  Will add estimates of total water flow to Pacific.
+```
+
 ```{code-cell}
 import os
 # Convert 630 Total Acre-Foot to gallons
@@ -36,7 +37,7 @@ print("630 Acre-Feet = ", gal , "gallons")
 
 
 ```{code-cell}
-%pip install folium
+
 import folium
 m = folium.Map(
     location=[37.801, -122.273],

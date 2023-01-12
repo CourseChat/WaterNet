@@ -9,7 +9,7 @@ jupytext:
     jupytext_version: 1.14.4
 kernelspec:
   display_name: Python 3 (ipykernel)
-  language: python
+  language: python3
   name: python3
 ---
 
@@ -35,13 +35,8 @@ print("630 Acre-Feet = ", gal , "gallons")
 #os.system('say{:,}'.format(gal1))
 ```
 
-
 ```{code-cell}
-{
-    "tags": [
-        "hide-input",
-    ]
-}
+
 %pip install folium
 import folium
 m = folium.Map(
@@ -70,6 +65,7 @@ folium.Marker(
 
 m
 ```
+end toggle
 
 ```{code-cell}
 # HIDDEN

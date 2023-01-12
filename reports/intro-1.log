@@ -17,7 +17,7 @@ Traceback (most recent call last):
     raise CellExecutionError.from_cell_and_msg(cell, exec_reply_content)
 nbclient.exceptions.CellExecutionError: An error occurred while executing the following cell:
 ------------------
-#%pip3 install folium
+%pip3 install folium
 import folium
 m = folium.Map(
     location=[37.701, -121.073],
@@ -32,7 +32,8 @@ folium.Marker(
 ).add_to(m)
 
 folium.Marker(
-    location=[37.8663, -122.143],
+    location=[37.8922222, -122.2011111],
+    37.8922222°N, -122.2011111°W
     popup='Orinda Water Treatment Plant',
     icon=folium.Icon(color='blue')
 ).add_to(m)
@@ -46,22 +47,10 @@ folium.Marker(
 m
 ------------------
 
-[0;31m---------------------------------------------------------------------------[0m
-[0;31mModuleNotFoundError[0m                       Traceback (most recent call last)
-Cell [0;32mIn[3], line 2[0m
-[1;32m      1[0m [38;5;66;03m#%pip3 install folium[39;00m
-[0;32m----> 2[0m [38;5;28;01mimport[39;00m [38;5;21;01mfolium[39;00m
-[1;32m      3[0m m [38;5;241m=[39m folium[38;5;241m.[39mMap(
-[1;32m      4[0m     location[38;5;241m=[39m[[38;5;241m37.701[39m, [38;5;241m-[39m[38;5;241m121.073[39m],
-[1;32m      5[0m     zoom_start[38;5;241m=[39m[38;5;241m8[39m,
-[1;32m      6[0m     tiles[38;5;241m=[39m[38;5;124m'[39m[38;5;124mStamen Terrain[39m[38;5;124m'[39m
-[1;32m      7[0m )
-[1;32m      9[0m folium[38;5;241m.[39mMarker(
-[1;32m     10[0m     location[38;5;241m=[39m[[38;5;241m38.2574[39m, [38;5;241m-[39m[38;5;241m120.8502[39m],
-[1;32m     11[0m     popup[38;5;241m=[39m[38;5;124m'[39m[38;5;124mPardee Dam[39m[38;5;124m'[39m,
-[1;32m     12[0m     icon[38;5;241m=[39mfolium[38;5;241m.[39mIcon(icon[38;5;241m=[39m[38;5;124m'[39m[38;5;124mcloud[39m[38;5;124m'[39m)
-[1;32m     13[0m )[38;5;241m.[39madd_to(m)
+[0;36m  Cell [0;32mIn[3], line 17[0;36m[0m
+[0;31m    37.8922222°N, -122.2011111°W[0m
+[0m               ^[0m
+[0;31mSyntaxError[0m[0;31m:[0m invalid character in identifier
 
-[0;31mModuleNotFoundError[0m: No module named 'folium'
-ModuleNotFoundError: No module named 'folium'
+SyntaxError: invalid character in identifier (2462899379.py, line 17)
 

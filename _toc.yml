@@ -1,6 +1,6 @@
 # Table of contents
 # Learn more at https://jupyterbook.org/customize/toc.html
-root: intro
+root: intro-1
 format: jb-book
 #defaults:
 #  numbered: True
@@ -18,7 +18,7 @@ parts:
   - caption: 1 Overview
     numbered: True
     chapters:
-    - file: 1-Overview/intro-1.ipynb
+   # - file: intro-1.ipynb
     - file: 1-Overview/intro-challenges.ipynb
     - file: 1-Overview/intro-response.ipynb
     - file: 1-Overview/_IntroOne

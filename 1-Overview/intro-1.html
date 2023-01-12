@@ -778,7 +778,22 @@ title="Print to PDF"
 <p><img alt="Total System Storage WY 2023" src="../_images/TotalSystemStorageWY2023Annotated.png" /></p>
 <div class="admonition note">
 <p class="admonition-title">Note</p>
-<p>Huge January rain volume will continue for two weeks. Graph shows model predictions under alternate possibilitiesfrom January to October 2023. Similar pattern last year had drought after March, so these predictions are conservative. Most of this rainfall cannot be stored. Some reservoirs must be drained to avoid overtopping. In future editions, today’s system storage will draw directly from real-time levels at Pardee and other reservoirs.  Will add estimates of total water flow to Pacific.</p>
+<p>One week of atmospherical river brought EBMUD out of drought restrictions. January rain volume continuing for two weeks, with Sierra snow depth doubling raises system storage to near-capacity. Graph shows model predictions under alternate possibilitiesfrom January to October 2023. Similar pattern last year had drought after March, so these predictions are conservative. Most of this rainfall cannot be stored. Some reservoirs must be drained to avoid overtopping. In future editions, today’s system storage will draw directly from real-time levels at Pardee and other reservoirs.  Will add estimates of total water flow to Pacific and groundwater replenishment.</p>
+</div>
+<div class="cell tag_hide-input docutils container">
+<div class="cell_input docutils container">
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="kn">from</span> <span class="nn">matplotlib</span> <span class="kn">import</span> <span class="n">rcParams</span><span class="p">,</span> <span class="n">cycler</span>
+<span class="kn">import</span> <span class="nn">matplotlib.pyplot</span> <span class="k">as</span> <span class="nn">plt</span>
+<span class="kn">import</span> <span class="nn">numpy</span> <span class="k">as</span> <span class="nn">np</span>
+<span class="n">plt</span><span class="o">.</span><span class="n">ion</span><span class="p">()</span>
+</pre></div>
+</div>
+</div>
+<div class="cell_output docutils container">
+<div class="output text_plain highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>&lt;contextlib.ExitStack at 0x7f94ec28a850&gt;
+</pre></div>
+</div>
+</div>
 </div>
 <div class="cell docutils container">
 <div class="cell_input docutils container">
@@ -798,31 +813,31 @@ title="Print to PDF"
 </div>
 </div>
 </div>
-<div class="cell docutils container">
+<div class="cell tag_&quot;hide-input&quot; docutils container">
 <div class="cell_input docutils container">
-<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="o">%</span><span class="k">pip</span> install folium
+<div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="c1">#%pip3 install folium</span>
 <span class="kn">import</span> <span class="nn">folium</span>
 <span class="n">m</span> <span class="o">=</span> <span class="n">folium</span><span class="o">.</span><span class="n">Map</span><span class="p">(</span>
-    <span class="n">location</span><span class="o">=</span><span class="p">[</span><span class="mf">37.801</span><span class="p">,</span> <span class="o">-</span><span class="mf">122.273</span><span class="p">],</span>
-    <span class="n">zoom_start</span><span class="o">=</span><span class="mi">10</span><span class="p">,</span>
+    <span class="n">location</span><span class="o">=</span><span class="p">[</span><span class="mf">37.701</span><span class="p">,</span> <span class="o">-</span><span class="mf">121.073</span><span class="p">],</span>
+    <span class="n">zoom_start</span><span class="o">=</span><span class="mi">8</span><span class="p">,</span>
     <span class="n">tiles</span><span class="o">=</span><span class="s1">&#39;Stamen Terrain&#39;</span>
 <span class="p">)</span>
 
 <span class="n">folium</span><span class="o">.</span><span class="n">Marker</span><span class="p">(</span>
-    <span class="n">location</span><span class="o">=</span><span class="p">[</span><span class="mf">37.8014</span><span class="p">,</span> <span class="o">-</span><span class="mf">122.273</span><span class="p">],</span>
-    <span class="n">popup</span><span class="o">=</span><span class="s1">&#39;Mt. Hood Meadows&#39;</span><span class="p">,</span>
+    <span class="n">location</span><span class="o">=</span><span class="p">[</span><span class="mf">38.2574</span><span class="p">,</span> <span class="o">-</span><span class="mf">120.8502</span><span class="p">],</span>
+    <span class="n">popup</span><span class="o">=</span><span class="s1">&#39;Pardee Dam&#39;</span><span class="p">,</span>
     <span class="n">icon</span><span class="o">=</span><span class="n">folium</span><span class="o">.</span><span class="n">Icon</span><span class="p">(</span><span class="n">icon</span><span class="o">=</span><span class="s1">&#39;cloud&#39;</span><span class="p">)</span>
 <span class="p">)</span><span class="o">.</span><span class="n">add_to</span><span class="p">(</span><span class="n">m</span><span class="p">)</span>
 
 <span class="n">folium</span><span class="o">.</span><span class="n">Marker</span><span class="p">(</span>
-    <span class="n">location</span><span class="o">=</span><span class="p">[</span><span class="mf">37.8023</span><span class="p">,</span> <span class="o">-</span><span class="mf">122.273</span><span class="p">],</span>
-    <span class="n">popup</span><span class="o">=</span><span class="s1">&#39;Timberline Lodge&#39;</span><span class="p">,</span>
-    <span class="n">icon</span><span class="o">=</span><span class="n">folium</span><span class="o">.</span><span class="n">Icon</span><span class="p">(</span><span class="n">color</span><span class="o">=</span><span class="s1">&#39;green&#39;</span><span class="p">)</span>
+    <span class="n">location</span><span class="o">=</span><span class="p">[</span><span class="mf">37.8663</span><span class="p">,</span> <span class="o">-</span><span class="mf">122.143</span><span class="p">],</span>
+    <span class="n">popup</span><span class="o">=</span><span class="s1">&#39;Orinda Water Treatment Plant&#39;</span><span class="p">,</span>
+    <span class="n">icon</span><span class="o">=</span><span class="n">folium</span><span class="o">.</span><span class="n">Icon</span><span class="p">(</span><span class="n">color</span><span class="o">=</span><span class="s1">&#39;blue&#39;</span><span class="p">)</span>
 <span class="p">)</span><span class="o">.</span><span class="n">add_to</span><span class="p">(</span><span class="n">m</span><span class="p">)</span>
 
 <span class="n">folium</span><span class="o">.</span><span class="n">Marker</span><span class="p">(</span>
     <span class="n">location</span><span class="o">=</span><span class="p">[</span><span class="mf">37.8016</span><span class="p">,</span> <span class="o">-</span><span class="mf">122.2734</span><span class="p">],</span>
-    <span class="n">popup</span><span class="o">=</span><span class="s1">&#39;Some Other Location&#39;</span><span class="p">,</span>
+    <span class="n">popup</span><span class="o">=</span><span class="s1">&#39;EBMUD Headquarters&#39;</span><span class="p">,</span>
     <span class="n">icon</span><span class="o">=</span><span class="n">folium</span><span class="o">.</span><span class="n">Icon</span><span class="p">(</span><span class="n">color</span><span class="o">=</span><span class="s1">&#39;red&#39;</span><span class="p">,</span> <span class="n">icon</span><span class="o">=</span><span class="s1">&#39;info-sign&#39;</span><span class="p">)</span>
 <span class="p">)</span><span class="o">.</span><span class="n">add_to</span><span class="p">(</span><span class="n">m</span><span class="p">)</span>
 
@@ -831,187 +846,26 @@ title="Print to PDF"
 </div>
 </div>
 <div class="cell_output docutils container">
-<div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>Collecting folium
+<div class="output traceback highlight-ipythontb notranslate"><div class="highlight"><pre><span></span><span class="gt">---------------------------------------------------------------------------</span>
+<span class="ne">ModuleNotFoundError</span><span class="g g-Whitespace">                       </span>Traceback (most recent call last)
+<span class="n">Cell</span> <span class="n">In</span><span class="p">[</span><span class="mi">3</span><span class="p">],</span> <span class="n">line</span> <span class="mi">2</span>
+<span class="g g-Whitespace">      </span><span class="mi">1</span> <span class="c1">#%pip3 install folium</span>
+<span class="ne">----&gt; </span><span class="mi">2</span> <span class="kn">import</span> <span class="nn">folium</span>
+<span class="g g-Whitespace">      </span><span class="mi">3</span> <span class="n">m</span> <span class="o">=</span> <span class="n">folium</span><span class="o">.</span><span class="n">Map</span><span class="p">(</span>
+<span class="g g-Whitespace">      </span><span class="mi">4</span>     <span class="n">location</span><span class="o">=</span><span class="p">[</span><span class="mf">37.701</span><span class="p">,</span> <span class="o">-</span><span class="mf">121.073</span><span class="p">],</span>
+<span class="g g-Whitespace">      </span><span class="mi">5</span>     <span class="n">zoom_start</span><span class="o">=</span><span class="mi">8</span><span class="p">,</span>
+<span class="g g-Whitespace">      </span><span class="mi">6</span>     <span class="n">tiles</span><span class="o">=</span><span class="s1">&#39;Stamen Terrain&#39;</span>
+<span class="g g-Whitespace">      </span><span class="mi">7</span> <span class="p">)</span>
+<span class="g g-Whitespace">      </span><span class="mi">9</span> <span class="n">folium</span><span class="o">.</span><span class="n">Marker</span><span class="p">(</span>
+<span class="g g-Whitespace">     </span><span class="mi">10</span>     <span class="n">location</span><span class="o">=</span><span class="p">[</span><span class="mf">38.2574</span><span class="p">,</span> <span class="o">-</span><span class="mf">120.8502</span><span class="p">],</span>
+<span class="g g-Whitespace">     </span><span class="mi">11</span>     <span class="n">popup</span><span class="o">=</span><span class="s1">&#39;Pardee Dam&#39;</span><span class="p">,</span>
+<span class="g g-Whitespace">     </span><span class="mi">12</span>     <span class="n">icon</span><span class="o">=</span><span class="n">folium</span><span class="o">.</span><span class="n">Icon</span><span class="p">(</span><span class="n">icon</span><span class="o">=</span><span class="s1">&#39;cloud&#39;</span><span class="p">)</span>
+<span class="g g-Whitespace">     </span><span class="mi">13</span> <span class="p">)</span><span class="o">.</span><span class="n">add_to</span><span class="p">(</span><span class="n">m</span><span class="p">)</span>
+
+<span class="ne">ModuleNotFoundError</span>: No module named &#39;folium&#39;
 </pre></div>
 </div>
-<div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>  Downloading folium-0.14.0-py2.py3-none-any.whl (102 kB)
-?25l     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ <span class=" -Color -Color-Green">0.0/102.3 kB</span> <span class=" -Color -Color-Red">?</span> eta <span class=" -Color -Color-Cyan">-:--:--</span>
-</pre></div>
 </div>
-<div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ <span class=" -Color -Color-Green">102.3/102.3 kB</span> <span class=" -Color -Color-Red">2.9 MB/s</span> eta <span class=" -Color -Color-Cyan">0:00:00</span>
-?25hCollecting branca&gt;=0.6.0
-  Downloading branca-0.6.0-py3-none-any.whl (24 kB)
-</pre></div>
-</div>
-<div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>Requirement already satisfied: numpy in /opt/hostedtoolcache/Python/3.8.15/x64/lib/python3.8/site-packages (from folium) (1.24.1)
-Requirement already satisfied: requests in /opt/hostedtoolcache/Python/3.8.15/x64/lib/python3.8/site-packages (from folium) (2.28.1)
-Requirement already satisfied: jinja2&gt;=2.9 in /opt/hostedtoolcache/Python/3.8.15/x64/lib/python3.8/site-packages (from folium) (3.1.2)
-Requirement already satisfied: MarkupSafe&gt;=2.0 in /opt/hostedtoolcache/Python/3.8.15/x64/lib/python3.8/site-packages (from jinja2&gt;=2.9-&gt;folium) (2.1.1)
-Requirement already satisfied: urllib3&lt;1.27,&gt;=1.21.1 in /opt/hostedtoolcache/Python/3.8.15/x64/lib/python3.8/site-packages (from requests-&gt;folium) (1.26.14)
-Requirement already satisfied: charset-normalizer&lt;3,&gt;=2 in /opt/hostedtoolcache/Python/3.8.15/x64/lib/python3.8/site-packages (from requests-&gt;folium) (2.1.1)
-Requirement already satisfied: idna&lt;4,&gt;=2.5 in /opt/hostedtoolcache/Python/3.8.15/x64/lib/python3.8/site-packages (from requests-&gt;folium) (3.4)
-Requirement already satisfied: certifi&gt;=2017.4.17 in /opt/hostedtoolcache/Python/3.8.15/x64/lib/python3.8/site-packages (from requests-&gt;folium) (2022.12.7)
-</pre></div>
-</div>
-<div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>Installing collected packages: branca, folium
-</pre></div>
-</div>
-<div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>Successfully installed branca-0.6.0 folium-0.14.0
-</pre></div>
-</div>
-<div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>Note: you may need to restart the kernel to use updated packages.
-</pre></div>
-</div>
-<div class="output text_html"><div style="width:100%;"><div style="position:relative;width:100%;height:0;padding-bottom:60%;"><span style="color:#565656">Make this Notebook Trusted to load map: File -> Trust Notebook</span><iframe srcdoc="&lt;!DOCTYPE html&gt;
-&lt;html&gt;
-&lt;head&gt;
-
-    &lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot; /&gt;
-
-        &lt;script&gt;
-            L_NO_TOUCH = false;
-            L_DISABLE_3D = false;
-        &lt;/script&gt;
-
-    &lt;style&gt;html, body {width: 100%;height: 100%;margin: 0;padding: 0;}&lt;/style&gt;
-    &lt;style&gt;#map {position:absolute;top:0;bottom:0;right:0;left:0;}&lt;/style&gt;
-    &lt;script src=&quot;https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js&quot;&gt;&lt;/script&gt;
-    &lt;script src=&quot;https://code.jquery.com/jquery-1.12.4.min.js&quot;&gt;&lt;/script&gt;
-    &lt;script src=&quot;https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js&quot;&gt;&lt;/script&gt;
-    &lt;script src=&quot;https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js&quot;&gt;&lt;/script&gt;
-    &lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css&quot;/&gt;
-    &lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css&quot;/&gt;
-    &lt;link rel=&quot;stylesheet&quot; href=&quot;https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css&quot;/&gt;
-    &lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css&quot;/&gt;
-    &lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css&quot;/&gt;
-    &lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css&quot;/&gt;
-
-            &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width,
-                initial-scale=1.0, maximum-scale=1.0, user-scalable=no&quot; /&gt;
-            &lt;style&gt;
-                #map_c17cdb01aa02f6869090b7d6c326fa76 {
-                    position: relative;
-                    width: 100.0%;
-                    height: 100.0%;
-                    left: 0.0%;
-                    top: 0.0%;
-                }
-                .leaflet-container { font-size: 1rem; }
-            &lt;/style&gt;
-
-&lt;/head&gt;
-&lt;body&gt;
-
-
-            &lt;div class=&quot;folium-map&quot; id=&quot;map_c17cdb01aa02f6869090b7d6c326fa76&quot; &gt;&lt;/div&gt;
-
-&lt;/body&gt;
-&lt;script&gt;
-
-
-            var map_c17cdb01aa02f6869090b7d6c326fa76 = L.map(
-                &quot;map_c17cdb01aa02f6869090b7d6c326fa76&quot;,
-                {
-                    center: [37.801, -122.273],
-                    crs: L.CRS.EPSG3857,
-                    zoom: 10,
-                    zoomControl: true,
-                    preferCanvas: false,
-                }
-            );
-
-
-
-
-
-            var tile_layer_a6fa5bf8bc5516aa2f8a27a46249a161 = L.tileLayer(
-                &quot;https://stamen-tiles-{s}.a.ssl.fastly.net/terrain/{z}/{x}/{y}.jpg&quot;,
-                {&quot;attribution&quot;: &quot;Map tiles by \u003ca target=\&quot;_blank\&quot; href=\&quot;http://stamen.com\&quot;\u003eStamen Design\u003c/a\u003e, under \u003ca target=\&quot;_blank\&quot; href=\&quot;http://creativecommons.org/licenses/by/3.0\&quot;\u003eCC BY 3.0\u003c/a\u003e. Data by \u0026copy; \u003ca target=\&quot;_blank\&quot; href=\&quot;http://openstreetmap.org\&quot;\u003eOpenStreetMap\u003c/a\u003e, under \u003ca target=\&quot;_blank\&quot; href=\&quot;http://creativecommons.org/licenses/by-sa/3.0\&quot;\u003eCC BY SA\u003c/a\u003e.&quot;, &quot;detectRetina&quot;: false, &quot;maxNativeZoom&quot;: 18, &quot;maxZoom&quot;: 18, &quot;minZoom&quot;: 0, &quot;noWrap&quot;: false, &quot;opacity&quot;: 1, &quot;subdomains&quot;: &quot;abc&quot;, &quot;tms&quot;: false}
-            ).addTo(map_c17cdb01aa02f6869090b7d6c326fa76);
-
-
-            var marker_896b6e42d00467e64ffe3f3fb856151b = L.marker(
-                [37.8014, -122.273],
-                {}
-            ).addTo(map_c17cdb01aa02f6869090b7d6c326fa76);
-
-
-            var icon_d4e1951602f6aa48524f0a169b39e6d9 = L.AwesomeMarkers.icon(
-                {&quot;extraClasses&quot;: &quot;fa-rotate-0&quot;, &quot;icon&quot;: &quot;cloud&quot;, &quot;iconColor&quot;: &quot;white&quot;, &quot;markerColor&quot;: &quot;blue&quot;, &quot;prefix&quot;: &quot;glyphicon&quot;}
-            );
-            marker_896b6e42d00467e64ffe3f3fb856151b.setIcon(icon_d4e1951602f6aa48524f0a169b39e6d9);
-
-
-        var popup_9b2221d750eef66355227be0e9582a11 = L.popup({&quot;maxWidth&quot;: &quot;100%&quot;});
-
-
-
-                var html_dc80e003df8a050de0901f8dc0a33d6d = $(`&lt;div id=&quot;html_dc80e003df8a050de0901f8dc0a33d6d&quot; style=&quot;width: 100.0%; height: 100.0%;&quot;&gt;Mt. Hood Meadows&lt;/div&gt;`)[0];
-                popup_9b2221d750eef66355227be0e9582a11.setContent(html_dc80e003df8a050de0901f8dc0a33d6d);
-
-
-
-        marker_896b6e42d00467e64ffe3f3fb856151b.bindPopup(popup_9b2221d750eef66355227be0e9582a11)
-        ;
-
-
-
-
-            var marker_21c452a1f50dfa729996cf5d3bceff3a = L.marker(
-                [37.8023, -122.273],
-                {}
-            ).addTo(map_c17cdb01aa02f6869090b7d6c326fa76);
-
-
-            var icon_cbe76e82946dfa52eff4da9f1f5375c5 = L.AwesomeMarkers.icon(
-                {&quot;extraClasses&quot;: &quot;fa-rotate-0&quot;, &quot;icon&quot;: &quot;info-sign&quot;, &quot;iconColor&quot;: &quot;white&quot;, &quot;markerColor&quot;: &quot;green&quot;, &quot;prefix&quot;: &quot;glyphicon&quot;}
-            );
-            marker_21c452a1f50dfa729996cf5d3bceff3a.setIcon(icon_cbe76e82946dfa52eff4da9f1f5375c5);
-
-
-        var popup_9d5ac37949fbdd3336b6be9d029f89d9 = L.popup({&quot;maxWidth&quot;: &quot;100%&quot;});
-
-
-
-                var html_a1ac1531b9c10c363281dc251c5ce1e4 = $(`&lt;div id=&quot;html_a1ac1531b9c10c363281dc251c5ce1e4&quot; style=&quot;width: 100.0%; height: 100.0%;&quot;&gt;Timberline Lodge&lt;/div&gt;`)[0];
-                popup_9d5ac37949fbdd3336b6be9d029f89d9.setContent(html_a1ac1531b9c10c363281dc251c5ce1e4);
-
-
-
-        marker_21c452a1f50dfa729996cf5d3bceff3a.bindPopup(popup_9d5ac37949fbdd3336b6be9d029f89d9)
-        ;
-
-
-
-
-            var marker_277fccde0bff548ea84c155bfc4bb63b = L.marker(
-                [37.8016, -122.2734],
-                {}
-            ).addTo(map_c17cdb01aa02f6869090b7d6c326fa76);
-
-
-            var icon_f41471b68bf18ef46b8e0d6474c7b24b = L.AwesomeMarkers.icon(
-                {&quot;extraClasses&quot;: &quot;fa-rotate-0&quot;, &quot;icon&quot;: &quot;info-sign&quot;, &quot;iconColor&quot;: &quot;white&quot;, &quot;markerColor&quot;: &quot;red&quot;, &quot;prefix&quot;: &quot;glyphicon&quot;}
-            );
-            marker_277fccde0bff548ea84c155bfc4bb63b.setIcon(icon_f41471b68bf18ef46b8e0d6474c7b24b);
-
-
-        var popup_f35bd68a34d8e8a63e88275b9b149e7c = L.popup({&quot;maxWidth&quot;: &quot;100%&quot;});
-
-
-
-                var html_074120eac05f5fdd8b9a1bc4c42862c5 = $(`&lt;div id=&quot;html_074120eac05f5fdd8b9a1bc4c42862c5&quot; style=&quot;width: 100.0%; height: 100.0%;&quot;&gt;Some Other Location&lt;/div&gt;`)[0];
-                popup_f35bd68a34d8e8a63e88275b9b149e7c.setContent(html_074120eac05f5fdd8b9a1bc4c42862c5);
-
-
-
-        marker_277fccde0bff548ea84c155bfc4bb63b.bindPopup(popup_f35bd68a34d8e8a63e88275b9b149e7c)
-        ;
-
-
-
-&lt;/script&gt;
-&lt;/html&gt;" style="position:absolute;width:100%;height:100%;left:0;top:0;border:none !important;" allowfullscreen webkitallowfullscreen mozallowfullscreen></iframe></div></div></div></div>
 </div>
 <div class="cell docutils container">
 <div class="cell_input docutils container">
@@ -1039,10 +893,10 @@ Requirement already satisfied: certifi&gt;=2017.4.17 in /opt/hostedtoolcache/Pyt
 </div>
 </div>
 <div class="cell_output docutils container">
-<div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>d1 = 12/01/2023
-d2 = January 12, 2023 Thursday
-d3 = 01/12/23
-d4 = Jan-12-2023
+<div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>d1 = 11/01/2023
+d2 = January 11, 2023 Wednesday
+d3 = 01/11/23
+d4 = Jan-11-2023
 </pre></div>
 </div>
 </div>
@@ -1063,8 +917,8 @@ d4 = Jan-12-2023
 </div>
 </div>
 <div class="cell_output docutils container">
-<div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>now = 2023-01-12 06:04:41.893382
-date and time = 12/01/2023 Thursday 06:04:41
+<div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>now = 2023-01-11 22:22:10.359090
+date and time = 11/01/2023 Wednesday 22:22:10
 </pre></div>
 </div>
 </div>
@@ -1091,10 +945,10 @@ date and time = 12/01/2023 Thursday 06:04:41
 </div>
 </div>
 <div class="cell_output docutils container">
-<div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>now 2023-01-12 06:04:41.900074
-Today&#39;s date is:  2023-01-12
-now2 = 2023-01-12 06:04:41.900144
-date and time = 2023-01-12 Thursday 06:04:41 yearday=12 Timezone=  
+<div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>now 2023-01-11 22:22:10.383483
+Today&#39;s date is:  2023-01-11
+now2 = 2023-01-11 22:22:10.383510
+date and time = 2023-01-11 Wednesday 22:22:10 yearday=11 Timezone=  
 </pre></div>
 </div>
 </div>

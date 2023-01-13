@@ -789,7 +789,7 @@ title="Print to PDF"
 </div>
 </div>
 <div class="cell_output docutils container">
-<div class="output text_plain highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>&lt;contextlib.ExitStack at 0x7fc8806970d0&gt;
+<div class="output text_plain highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>&lt;contextlib.ExitStack at 0x7f8ebc917550&gt;
 </pre></div>
 </div>
 </div>
@@ -804,23 +804,13 @@ title="Print to PDF"
 <span class="nb">print</span><span class="p">(</span><span class="nb">type</span><span class="p">(</span><span class="n">gal</span><span class="p">))</span>
 <span class="nb">print</span><span class="p">(</span><span class="s2">&quot;630 Acre-Feet = &quot;</span><span class="p">,</span> <span class="n">gal</span> <span class="p">,</span> <span class="s2">&quot;gallons&quot;</span><span class="p">)</span>
 <span class="c1">#os.system(&#39;say{:,}&#39;.format(gal))</span>
-<span class="n">os</span><span class="o">.</span><span class="n">system</span><span class="p">(</span><span class="s1">&#39;say</span><span class="si">{:,}</span><span class="s1">&#39;</span><span class="o">.</span><span class="n">format</span><span class="p">(</span><span class="n">gal</span><span class="p">)</span>  <span class="p">)</span>
+<span class="c1">#os.system(&#39;say{:,}&#39;.format(gal)  )</span>
 </pre></div>
 </div>
 </div>
 <div class="cell_output docutils container">
 <div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>&lt;class &#39;str&#39;&gt;
 630 Acre-Feet =  205,287,580 gallons
-</pre></div>
-</div>
-<div class="output traceback highlight-ipythontb notranslate"><div class="highlight"><pre><span></span><span class="gt">---------------------------------------------------------------------------</span>
-<span class="ne">ValueError</span><span class="g g-Whitespace">                                </span>Traceback (most recent call last)
-<span class="n">Cell</span> <span class="n">In</span><span class="p">[</span><span class="mi">2</span><span class="p">],</span> <span class="n">line</span> <span class="mi">9</span>
-<span class="g g-Whitespace">      </span><span class="mi">7</span> <span class="nb">print</span><span class="p">(</span><span class="s2">&quot;630 Acre-Feet = &quot;</span><span class="p">,</span> <span class="n">gal</span> <span class="p">,</span> <span class="s2">&quot;gallons&quot;</span><span class="p">)</span>
-<span class="g g-Whitespace">      </span><span class="mi">8</span> <span class="c1">#os.system(&#39;say{:,}&#39;.format(gal))</span>
-<span class="ne">----&gt; </span><span class="mi">9</span> <span class="n">os</span><span class="o">.</span><span class="n">system</span><span class="p">(</span><span class="s1">&#39;say</span><span class="si">{:,}</span><span class="s1">&#39;</span><span class="o">.</span><span class="n">format</span><span class="p">(</span><span class="n">gal</span><span class="p">)</span>  <span class="p">)</span>
-
-<span class="ne">ValueError</span>: Cannot specify &#39;,&#39; with &#39;s&#39;.
 </pre></div>
 </div>
 </div>
@@ -858,17 +848,19 @@ title="Print to PDF"
 </div>
 </div>
 <div class="cell_output docutils container">
-<div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>Requirement already satisfied: folium in /Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages (0.14.0)
-Requirement already satisfied: branca&gt;=0.6.0 in /Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages (from folium) (0.6.0)
-Requirement already satisfied: jinja2&gt;=2.9 in /Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages (from folium) (3.1.2)
-Requirement already satisfied: numpy in /Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages (from folium) (1.24.1)
-Requirement already satisfied: requests in /Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages (from folium) (2.28.1)
-Requirement already satisfied: MarkupSafe&gt;=2.0 in /Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages (from jinja2&gt;=2.9-&gt;folium) (2.1.1)
-Requirement already satisfied: charset-normalizer&lt;3,&gt;=2 in /Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages (from requests-&gt;folium) (2.1.1)
-Requirement already satisfied: idna&lt;4,&gt;=2.5 in /Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages (from requests-&gt;folium) (3.4)
-Requirement already satisfied: urllib3&lt;1.27,&gt;=1.21.1 in /Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages (from requests-&gt;folium) (1.26.13)
-Requirement already satisfied: certifi&gt;=2017.4.17 in /Library/Frameworks/Python.framework/Versions/3.11/lib/python3.11/site-packages (from requests-&gt;folium) (2022.12.7)
-Note: you may need to restart the kernel to use updated packages.
+<div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>Requirement already satisfied: folium in /opt/hostedtoolcache/Python/3.8.15/x64/lib/python3.8/site-packages (0.14.0)
+Requirement already satisfied: jinja2&gt;=2.9 in /opt/hostedtoolcache/Python/3.8.15/x64/lib/python3.8/site-packages (from folium) (3.1.2)
+Requirement already satisfied: branca&gt;=0.6.0 in /opt/hostedtoolcache/Python/3.8.15/x64/lib/python3.8/site-packages (from folium) (0.6.0)
+Requirement already satisfied: requests in /opt/hostedtoolcache/Python/3.8.15/x64/lib/python3.8/site-packages (from folium) (2.28.2)
+Requirement already satisfied: numpy in /opt/hostedtoolcache/Python/3.8.15/x64/lib/python3.8/site-packages (from folium) (1.24.1)
+Requirement already satisfied: MarkupSafe&gt;=2.0 in /opt/hostedtoolcache/Python/3.8.15/x64/lib/python3.8/site-packages (from jinja2&gt;=2.9-&gt;folium) (2.1.1)
+Requirement already satisfied: charset-normalizer&lt;4,&gt;=2 in /opt/hostedtoolcache/Python/3.8.15/x64/lib/python3.8/site-packages (from requests-&gt;folium) (3.0.1)
+Requirement already satisfied: idna&lt;4,&gt;=2.5 in /opt/hostedtoolcache/Python/3.8.15/x64/lib/python3.8/site-packages (from requests-&gt;folium) (3.4)
+Requirement already satisfied: certifi&gt;=2017.4.17 in /opt/hostedtoolcache/Python/3.8.15/x64/lib/python3.8/site-packages (from requests-&gt;folium) (2022.12.7)
+Requirement already satisfied: urllib3&lt;1.27,&gt;=1.21.1 in /opt/hostedtoolcache/Python/3.8.15/x64/lib/python3.8/site-packages (from requests-&gt;folium) (1.26.14)
+</pre></div>
+</div>
+<div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>Note: you may need to restart the kernel to use updated packages.
 </pre></div>
 </div>
 <div class="output text_html"><div style="width:100%;"><div style="position:relative;width:100%;height:0;padding-bottom:60%;"><span style="color:#565656">Make this Notebook Trusted to load map: File -> Trust Notebook</span><iframe srcdoc="&lt;!DOCTYPE html&gt;
@@ -898,7 +890,7 @@ Note: you may need to restart the kernel to use updated packages.
             &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width,
                 initial-scale=1.0, maximum-scale=1.0, user-scalable=no&quot; /&gt;
             &lt;style&gt;
-                #map_00025b7a52afefb1cc9a779c2c078428 {
+                #map_24f797b692663a8636f4341694f2ab7c {
                     position: relative;
                     width: 100.0%;
                     height: 100.0%;
@@ -912,14 +904,14 @@ Note: you may need to restart the kernel to use updated packages.
 &lt;body&gt;
 
 
-            &lt;div class=&quot;folium-map&quot; id=&quot;map_00025b7a52afefb1cc9a779c2c078428&quot; &gt;&lt;/div&gt;
+            &lt;div class=&quot;folium-map&quot; id=&quot;map_24f797b692663a8636f4341694f2ab7c&quot; &gt;&lt;/div&gt;
 
 &lt;/body&gt;
 &lt;script&gt;
 
 
-            var map_00025b7a52afefb1cc9a779c2c078428 = L.map(
-                &quot;map_00025b7a52afefb1cc9a779c2c078428&quot;,
+            var map_24f797b692663a8636f4341694f2ab7c = L.map(
+                &quot;map_24f797b692663a8636f4341694f2ab7c&quot;,
                 {
                     center: [37.701, -121.073],
                     crs: L.CRS.EPSG3857,
@@ -933,88 +925,88 @@ Note: you may need to restart the kernel to use updated packages.
 
 
 
-            var tile_layer_d8ca26d47baf720d0e0b828d02ce7ce8 = L.tileLayer(
+            var tile_layer_9c26ef21a136399d3a52845f05de2039 = L.tileLayer(
                 &quot;https://stamen-tiles-{s}.a.ssl.fastly.net/terrain/{z}/{x}/{y}.jpg&quot;,
                 {&quot;attribution&quot;: &quot;Map tiles by \u003ca target=\&quot;_blank\&quot; href=\&quot;http://stamen.com\&quot;\u003eStamen Design\u003c/a\u003e, under \u003ca target=\&quot;_blank\&quot; href=\&quot;http://creativecommons.org/licenses/by/3.0\&quot;\u003eCC BY 3.0\u003c/a\u003e. Data by \u0026copy; \u003ca target=\&quot;_blank\&quot; href=\&quot;http://openstreetmap.org\&quot;\u003eOpenStreetMap\u003c/a\u003e, under \u003ca target=\&quot;_blank\&quot; href=\&quot;http://creativecommons.org/licenses/by-sa/3.0\&quot;\u003eCC BY SA\u003c/a\u003e.&quot;, &quot;detectRetina&quot;: false, &quot;maxNativeZoom&quot;: 18, &quot;maxZoom&quot;: 18, &quot;minZoom&quot;: 0, &quot;noWrap&quot;: false, &quot;opacity&quot;: 1, &quot;subdomains&quot;: &quot;abc&quot;, &quot;tms&quot;: false}
-            ).addTo(map_00025b7a52afefb1cc9a779c2c078428);
+            ).addTo(map_24f797b692663a8636f4341694f2ab7c);
 
 
-            var marker_5a8d00dba99ebcb39e851644a58317ba = L.marker(
+            var marker_b6db99236c2cab542ccab857f603a993 = L.marker(
                 [38.2574, -120.8502],
                 {}
-            ).addTo(map_00025b7a52afefb1cc9a779c2c078428);
+            ).addTo(map_24f797b692663a8636f4341694f2ab7c);
 
 
-            var icon_3edf150c1fb35875d2d3343d23f9ed3e = L.AwesomeMarkers.icon(
+            var icon_7fb7a1b72c70956f5a33c6b0f3dfc579 = L.AwesomeMarkers.icon(
                 {&quot;extraClasses&quot;: &quot;fa-rotate-0&quot;, &quot;icon&quot;: &quot;cloud&quot;, &quot;iconColor&quot;: &quot;white&quot;, &quot;markerColor&quot;: &quot;blue&quot;, &quot;prefix&quot;: &quot;glyphicon&quot;}
             );
-            marker_5a8d00dba99ebcb39e851644a58317ba.setIcon(icon_3edf150c1fb35875d2d3343d23f9ed3e);
+            marker_b6db99236c2cab542ccab857f603a993.setIcon(icon_7fb7a1b72c70956f5a33c6b0f3dfc579);
 
 
-        var popup_cd538e6c59913dc9414c7a6b3940939f = L.popup({&quot;maxWidth&quot;: &quot;100%&quot;});
-
-
-
-                var html_6b9e130184ee978b461644ef4d89d4c7 = $(`&lt;div id=&quot;html_6b9e130184ee978b461644ef4d89d4c7&quot; style=&quot;width: 100.0%; height: 100.0%;&quot;&gt;Pardee Dam&lt;/div&gt;`)[0];
-                popup_cd538e6c59913dc9414c7a6b3940939f.setContent(html_6b9e130184ee978b461644ef4d89d4c7);
+        var popup_03dbbb5aa553adce18d97e63465f1889 = L.popup({&quot;maxWidth&quot;: &quot;100%&quot;});
 
 
 
-        marker_5a8d00dba99ebcb39e851644a58317ba.bindPopup(popup_cd538e6c59913dc9414c7a6b3940939f)
+                var html_a9f4d0dd5e91510e1bec304fe457075f = $(`&lt;div id=&quot;html_a9f4d0dd5e91510e1bec304fe457075f&quot; style=&quot;width: 100.0%; height: 100.0%;&quot;&gt;Pardee Dam&lt;/div&gt;`)[0];
+                popup_03dbbb5aa553adce18d97e63465f1889.setContent(html_a9f4d0dd5e91510e1bec304fe457075f);
+
+
+
+        marker_b6db99236c2cab542ccab857f603a993.bindPopup(popup_03dbbb5aa553adce18d97e63465f1889)
         ;
 
 
 
 
-            var marker_346bd86d5d70b8c5d01147a921c653be = L.marker(
+            var marker_2813ba48f1fa2e91dfb1836d4ede629d = L.marker(
                 [37.8922222, -122.2011111],
                 {}
-            ).addTo(map_00025b7a52afefb1cc9a779c2c078428);
+            ).addTo(map_24f797b692663a8636f4341694f2ab7c);
 
 
-            var icon_3aefb2b08f4e4dfa714533822385a8c7 = L.AwesomeMarkers.icon(
+            var icon_c937195285240a94311816f03ed30d94 = L.AwesomeMarkers.icon(
                 {&quot;extraClasses&quot;: &quot;fa-rotate-0&quot;, &quot;icon&quot;: &quot;info-sign&quot;, &quot;iconColor&quot;: &quot;white&quot;, &quot;markerColor&quot;: &quot;blue&quot;, &quot;prefix&quot;: &quot;glyphicon&quot;}
             );
-            marker_346bd86d5d70b8c5d01147a921c653be.setIcon(icon_3aefb2b08f4e4dfa714533822385a8c7);
+            marker_2813ba48f1fa2e91dfb1836d4ede629d.setIcon(icon_c937195285240a94311816f03ed30d94);
 
 
-        var popup_f88beca3efe9be7ca33ab74aebb4b33f = L.popup({&quot;maxWidth&quot;: &quot;100%&quot;});
-
-
-
-                var html_3b2bb1ee8c0e33df1326fa869605f570 = $(`&lt;div id=&quot;html_3b2bb1ee8c0e33df1326fa869605f570&quot; style=&quot;width: 100.0%; height: 100.0%;&quot;&gt;Orinda Water Treatment Plant&lt;/div&gt;`)[0];
-                popup_f88beca3efe9be7ca33ab74aebb4b33f.setContent(html_3b2bb1ee8c0e33df1326fa869605f570);
+        var popup_4d0b77bbdad50a44fa295f4aac2ca684 = L.popup({&quot;maxWidth&quot;: &quot;100%&quot;});
 
 
 
-        marker_346bd86d5d70b8c5d01147a921c653be.bindPopup(popup_f88beca3efe9be7ca33ab74aebb4b33f)
+                var html_87223b6bf5543a0f72a915850944b61f = $(`&lt;div id=&quot;html_87223b6bf5543a0f72a915850944b61f&quot; style=&quot;width: 100.0%; height: 100.0%;&quot;&gt;Orinda Water Treatment Plant&lt;/div&gt;`)[0];
+                popup_4d0b77bbdad50a44fa295f4aac2ca684.setContent(html_87223b6bf5543a0f72a915850944b61f);
+
+
+
+        marker_2813ba48f1fa2e91dfb1836d4ede629d.bindPopup(popup_4d0b77bbdad50a44fa295f4aac2ca684)
         ;
 
 
 
 
-            var marker_bc68c635e946b9af429f60a3ceaab966 = L.marker(
+            var marker_6de2d6a3799f1c857d069b22b8ce23e5 = L.marker(
                 [37.8016, -122.2734],
                 {}
-            ).addTo(map_00025b7a52afefb1cc9a779c2c078428);
+            ).addTo(map_24f797b692663a8636f4341694f2ab7c);
 
 
-            var icon_0bcb6a6c43f808e4609dc60de1080b07 = L.AwesomeMarkers.icon(
+            var icon_f51844f36c0f881ce616b4bd2a386ff9 = L.AwesomeMarkers.icon(
                 {&quot;extraClasses&quot;: &quot;fa-rotate-0&quot;, &quot;icon&quot;: &quot;info-sign&quot;, &quot;iconColor&quot;: &quot;white&quot;, &quot;markerColor&quot;: &quot;red&quot;, &quot;prefix&quot;: &quot;glyphicon&quot;}
             );
-            marker_bc68c635e946b9af429f60a3ceaab966.setIcon(icon_0bcb6a6c43f808e4609dc60de1080b07);
+            marker_6de2d6a3799f1c857d069b22b8ce23e5.setIcon(icon_f51844f36c0f881ce616b4bd2a386ff9);
 
 
-        var popup_5c4560bccf7880f70758ef4cff72368e = L.popup({&quot;maxWidth&quot;: &quot;100%&quot;});
-
-
-
-                var html_00724e4f3072d9c74c5b1dc27c0a909b = $(`&lt;div id=&quot;html_00724e4f3072d9c74c5b1dc27c0a909b&quot; style=&quot;width: 100.0%; height: 100.0%;&quot;&gt;EBMUD Headquarters&lt;/div&gt;`)[0];
-                popup_5c4560bccf7880f70758ef4cff72368e.setContent(html_00724e4f3072d9c74c5b1dc27c0a909b);
+        var popup_1b211a4b2631193cea940bb811647650 = L.popup({&quot;maxWidth&quot;: &quot;100%&quot;});
 
 
 
-        marker_bc68c635e946b9af429f60a3ceaab966.bindPopup(popup_5c4560bccf7880f70758ef4cff72368e)
+                var html_377ac024d9359309128765c0f6d46ae7 = $(`&lt;div id=&quot;html_377ac024d9359309128765c0f6d46ae7&quot; style=&quot;width: 100.0%; height: 100.0%;&quot;&gt;EBMUD Headquarters&lt;/div&gt;`)[0];
+                popup_1b211a4b2631193cea940bb811647650.setContent(html_377ac024d9359309128765c0f6d46ae7);
+
+
+
+        marker_6de2d6a3799f1c857d069b22b8ce23e5.bindPopup(popup_1b211a4b2631193cea940bb811647650)
         ;
 
 
@@ -1048,10 +1040,10 @@ Note: you may need to restart the kernel to use updated packages.
 </div>
 </div>
 <div class="cell_output docutils container">
-<div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>d1 = 11/01/2023
-d2 = January 11, 2023 Wednesday
-d3 = 01/11/23
-d4 = Jan-11-2023
+<div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>d1 = 13/01/2023
+d2 = January 13, 2023 Friday
+d3 = 01/13/23
+d4 = Jan-13-2023
 </pre></div>
 </div>
 </div>
@@ -1072,8 +1064,8 @@ d4 = Jan-11-2023
 </div>
 </div>
 <div class="cell_output docutils container">
-<div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>now = 2023-01-11 22:22:10.359090
-date and time = 11/01/2023 Wednesday 22:22:10
+<div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>now = 2023-01-13 03:45:13.901516
+date and time = 13/01/2023 Friday 03:45:13
 </pre></div>
 </div>
 </div>
@@ -1086,28 +1078,30 @@ date and time = 11/01/2023 Wednesday 22:22:10
 <span class="c1">#print(&quot;time&quot;,datetime.time())</span>
 <span class="c1"># datetime object containing current date and time</span>
 <span class="n">now</span> <span class="o">=</span> <span class="n">datetime</span><span class="o">.</span><span class="n">now</span><span class="p">()</span>
+<span class="n">datetime</span><span class="o">.</span><span class="n">today</span><span class="p">()</span>
 
-<span class="n">today</span> <span class="o">=</span> <span class="n">date</span><span class="o">.</span><span class="n">today</span><span class="p">()</span>
+<span class="n">today</span> <span class="o">=</span> <span class="n">datetime</span><span class="o">.</span><span class="n">today</span><span class="p">()</span>
 <span class="nb">print</span><span class="p">(</span><span class="s2">&quot;Today&#39;s date is: &quot;</span><span class="p">,</span> <span class="n">today</span><span class="p">)</span>
 
  
 <span class="nb">print</span><span class="p">(</span><span class="s2">&quot;now2 =&quot;</span><span class="p">,</span> <span class="n">now</span><span class="p">)</span>
 
-<span class="n">dt_string</span> <span class="o">=</span> <span class="n">now</span><span class="o">.</span><span class="n">strftime</span><span class="p">(</span><span class="s2">&quot;%Y-%m-</span><span class="si">%d</span><span class="s2"> %A %H:%M:%S yearday=%-j Timezone= %z &quot;</span><span class="p">)</span>
+<span class="n">dt_string</span> <span class="o">=</span> <span class="n">now</span><span class="o">.</span><span class="n">strftime</span><span class="p">(</span><span class="s2">&quot;%Y-%m-</span><span class="si">%d</span><span class="s2"> %A %H:%M:%S yearday=%-j Timezone= %Z &quot;</span><span class="p">)</span>
 <span class="nb">print</span><span class="p">(</span><span class="s2">&quot;date and time =&quot;</span><span class="p">,</span> <span class="n">dt_string</span><span class="p">)</span>
 <span class="c1"># Returns the current local date</span>
 </pre></div>
 </div>
 </div>
 <div class="cell_output docutils container">
-<div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>now 2023-01-11 22:22:10.383483
-Today&#39;s date is:  2023-01-11
-now2 = 2023-01-11 22:22:10.383510
-date and time = 2023-01-11 Wednesday 22:22:10 yearday=11 Timezone=  
+<div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>now 2023-01-13 03:45:13.910896
+Today&#39;s date is:  2023-01-13 03:45:13.911023
+now2 = 2023-01-13 03:45:13.910972
+date and time = 2023-01-13 Friday 03:45:13 yearday=13 Timezone=  
 </pre></div>
 </div>
 </div>
 </div>
+<p>Invisible investment</p>
 <div class="contents topic" id="contents">
 <p class="topic-title">Contents</p>
 <ul class="simple">
@@ -1139,15 +1133,17 @@ date and time = 2023-01-11 Wednesday 22:22:10 yearday=11 Timezone=
 <section id="water-utilities-require-major-new-investments-to-keep-clean-water-flowing-we-must-rebuild-and-extend-our-critical-water-infrastructure-now-but-this-investment-is-not-yet-funded">
 <h3><a class="toc-backref" href="#id11">Water utilities require major new investments to keep clean water flowing. We must rebuild and extend our critical water infrastructure now.  But this investment is not yet funded.</a><a class="headerlink" href="#water-utilities-require-major-new-investments-to-keep-clean-water-flowing-we-must-rebuild-and-extend-our-critical-water-infrastructure-now-but-this-investment-is-not-yet-funded" title="Permalink to this headline">#</a></h3>
 <ul class="simple">
-<li><p>Past cost projections are proving to be wildly inaccurate due to new challenges of climate change and rapidly aging capital plant.</p></li>
+<li><p>Past cost projections are proving to be insufficient due to accelerating challenges of climate change and aging capital plant.</p></li>
 <li><p>Dams, reservoirs, pipes, pumps, water collection systems and water and waste water purification <strong>systems will require from two to five times more investment</strong> than today’s conservative financial models anticipate. <a class="footnote-reference brackets" href="#id4" id="id1">1</a></p></li>
 </ul>
 <ul class="simple">
-<li><p>This site will build increasingly detailed cost projections for complete system renewal. With current technologies, rebuilding a system similar to EBMUD–1.5 million daily users, $1 billion annual expenses, ….. MGD flow, …. MG storage–over a 25-year period, will cost $20 billion in 2022 dollars.</p></li>
-<li><p>We will build the outline of the necessary campaign to finance this cost, by tax, by rate change, by bond issue, by cost savings, by redesign of capital plant.  Financing this amount is possible only by building an extremely accurate estimate of costs, to enable an accurate comparison to the costs of not rebuilding. Rebuilding at today’s rate will take 140 years.<a class="footnote-reference brackets" href="#id5" id="id2">2</a></p></li>
+<li><p>This site builds increasingly detailed cost projections for complete system renewal. With current technologies, rebuilding a system similar to EBMUD–1.5 million daily users, $1 billion annual expenses, 80 MGD flow, 250 MG storage–over a 25-year period, will cost $20 billion in 2022 dollars.</p></li>
+<li><p>We will outline the necessary campaign to finance this cost: by tax, by rate change, by bond issue, by cost savings, by redesign of capital plant.  Financing is possible only by building an accurate estimate of costs, to enable investors to make an accurate comparison to the costs of not rebuilding. Rebuilding at today’s rate will take 140 years.<a class="footnote-reference brackets" href="#id5" id="id2">2</a></p></li>
 </ul>
 <ul class="simple">
-<li><p>But, what if innovation could cut projected costs by a factor of two? That is, save $10 billion of projected investment. Could fundamental realignment of management of underground critical infrastructure change how we invest? As contrast, examine urban infrastructure in cities that built new systems in the past thirty years.<a class="footnote-reference brackets" href="#id6" id="id3">3</a></p></li>
+<li><p>But, if innovation could cut projected costs by a factor of two, the challenge to find necessary investment can be met. That is, save $10 billion of needed investment, and public investment is attractive.</p></li>
+<li><p>Could fundamental realignment of all entities building and maintaining underground critical infrastructure change how we invest?  That is, can we merge public and investor-owned utilities?</p></li>
+<li><p>As examples, examine urban infrastructure in cities that built new utility systems in the past thirty years.<a class="footnote-reference brackets" href="#id6" id="id3">3</a></p></li>
 </ul>
 </section>
 <section id="faced-with-massive-challenges-from-climate-change-and-ancient-infrastructure-our-utilities-battle-each-day-to-protect-our-health-but-hundreds-of-water-main-breaks-a-day-in-california-show-we-are-losing-ground-what-is-our-best-investment">
@@ -1168,7 +1164,7 @@ date and time = 2023-01-11 Wednesday 22:22:10 yearday=11 Timezone=
 <dd><p>From EBMUD Capital Investments Plan, 2022–at rate of 30 pipeline miles replaced each year, over 4,500 miles of existing distribtion pipe network</p>
 </dd>
 <dt class="label" id="id6"><span class="brackets"><a class="fn-backref" href="#id3">3</a></span></dt>
-<dd><p>Hong Kong, Singapore, Putrajaya <a class="reference external" href="https://en.wikipedia.org/wiki/Water_supply_and_sanitation_in_Malaysia">Water Utilities</a>, <a class="reference external" href="https://washdata.org/">United Nations Water Joint Monitoring</a></p>
+<dd><p>Hong Kong, Singapore, Putrajaya <a class="reference external" href="https://en.wikipedia.org/wiki/Water_supply_and_sanitation_in_Malaysia">Water Utilities</a>, <a class="reference external" href="https://washdata.org/">United Nations Water Joint Monitoring</a>, Tokyo Municipal</p>
 </dd>
 </dl>
 </section>

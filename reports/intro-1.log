@@ -22,16 +22,18 @@ import os
 TAF = 630
 gallons = 630 * 325853.302098
 gal = f'{round(gallons):,}'
+print(type(gal))
 print("630 Acre-Feet = ", gal , "gallons")
-os.system('say{:,}'.format(gal))
+#os.system('say{:,}'.format(gal))
+os.system('say{:,}'.format(gal)  )
 ------------------
 
 [0;31m---------------------------------------------------------------------------[0m
 [0;31mValueError[0m                                Traceback (most recent call last)
-Cell [0;32mIn[2], line 7[0m
-[1;32m      5[0m gal [38;5;241m=[39m [38;5;124mf[39m[38;5;124m'[39m[38;5;132;01m{[39;00m[38;5;28mround[39m(gallons)[38;5;132;01m:[39;00m[38;5;124m,[39m[38;5;132;01m}[39;00m[38;5;124m'[39m
-[1;32m      6[0m [38;5;28mprint[39m([38;5;124m"[39m[38;5;124m630 Acre-Feet = [39m[38;5;124m"[39m, gal , [38;5;124m"[39m[38;5;124mgallons[39m[38;5;124m"[39m)
-[0;32m----> 7[0m os[38;5;241m.[39msystem([38;5;124;43m'[39;49m[38;5;124;43msay[39;49m[38;5;132;43;01m{:,}[39;49;00m[38;5;124;43m'[39;49m[38;5;241;43m.[39;49m[43mformat[49m[43m([49m[43mgal[49m[43m)[49m)
+Cell [0;32mIn[2], line 9[0m
+[1;32m      7[0m [38;5;28mprint[39m([38;5;124m"[39m[38;5;124m630 Acre-Feet = [39m[38;5;124m"[39m, gal , [38;5;124m"[39m[38;5;124mgallons[39m[38;5;124m"[39m)
+[1;32m      8[0m [38;5;66;03m#os.system('say{:,}'.format(gal))[39;00m
+[0;32m----> 9[0m os[38;5;241m.[39msystem([38;5;124;43m'[39;49m[38;5;124;43msay[39;49m[38;5;132;43;01m{:,}[39;49;00m[38;5;124;43m'[39;49m[38;5;241;43m.[39;49m[43mformat[49m[43m([49m[43mgal[49m[43m)[49m  )
 
 [0;31mValueError[0m: Cannot specify ',' with 's'.
 ValueError: Cannot specify ',' with 's'.

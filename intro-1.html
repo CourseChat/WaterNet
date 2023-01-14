@@ -790,7 +790,7 @@ title="Print to PDF"
 </div>
 </div>
 <div class="cell_output docutils container">
-<div class="output text_plain highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>&lt;contextlib.ExitStack at 0x7f24046184c0&gt;
+<div class="output text_plain highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>&lt;contextlib.ExitStack at 0x7f07f0b57e50&gt;
 </pre></div>
 </div>
 </div>
@@ -850,17 +850,15 @@ title="Print to PDF"
 </div>
 <div class="cell_output docutils container">
 <div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>Requirement already satisfied: folium in /opt/hostedtoolcache/Python/3.8.15/x64/lib/python3.8/site-packages (0.14.0)
-Requirement already satisfied: requests in /opt/hostedtoolcache/Python/3.8.15/x64/lib/python3.8/site-packages (from folium) (2.28.2)
 Requirement already satisfied: numpy in /opt/hostedtoolcache/Python/3.8.15/x64/lib/python3.8/site-packages (from folium) (1.24.1)
-</pre></div>
-</div>
-<div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>Requirement already satisfied: branca&gt;=0.6.0 in /opt/hostedtoolcache/Python/3.8.15/x64/lib/python3.8/site-packages (from folium) (0.6.0)
 Requirement already satisfied: jinja2&gt;=2.9 in /opt/hostedtoolcache/Python/3.8.15/x64/lib/python3.8/site-packages (from folium) (3.1.2)
+Requirement already satisfied: branca&gt;=0.6.0 in /opt/hostedtoolcache/Python/3.8.15/x64/lib/python3.8/site-packages (from folium) (0.6.0)
+Requirement already satisfied: requests in /opt/hostedtoolcache/Python/3.8.15/x64/lib/python3.8/site-packages (from folium) (2.28.2)
 Requirement already satisfied: MarkupSafe&gt;=2.0 in /opt/hostedtoolcache/Python/3.8.15/x64/lib/python3.8/site-packages (from jinja2&gt;=2.9-&gt;folium) (2.1.1)
-Requirement already satisfied: certifi&gt;=2017.4.17 in /opt/hostedtoolcache/Python/3.8.15/x64/lib/python3.8/site-packages (from requests-&gt;folium) (2022.12.7)
 Requirement already satisfied: idna&lt;4,&gt;=2.5 in /opt/hostedtoolcache/Python/3.8.15/x64/lib/python3.8/site-packages (from requests-&gt;folium) (3.4)
-Requirement already satisfied: urllib3&lt;1.27,&gt;=1.21.1 in /opt/hostedtoolcache/Python/3.8.15/x64/lib/python3.8/site-packages (from requests-&gt;folium) (1.26.14)
 Requirement already satisfied: charset-normalizer&lt;4,&gt;=2 in /opt/hostedtoolcache/Python/3.8.15/x64/lib/python3.8/site-packages (from requests-&gt;folium) (3.0.1)
+Requirement already satisfied: certifi&gt;=2017.4.17 in /opt/hostedtoolcache/Python/3.8.15/x64/lib/python3.8/site-packages (from requests-&gt;folium) (2022.12.7)
+Requirement already satisfied: urllib3&lt;1.27,&gt;=1.21.1 in /opt/hostedtoolcache/Python/3.8.15/x64/lib/python3.8/site-packages (from requests-&gt;folium) (1.26.14)
 </pre></div>
 </div>
 <div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>Note: you may need to restart the kernel to use updated packages.
@@ -893,7 +891,7 @@ Requirement already satisfied: charset-normalizer&lt;4,&gt;=2 in /opt/hostedtool
             &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width,
                 initial-scale=1.0, maximum-scale=1.0, user-scalable=no&quot; /&gt;
             &lt;style&gt;
-                #map_a3d8d45a4ad6ed075a791e1446c5e63b {
+                #map_29a1df6e694ab5ba0cfc89e59f8e15ab {
                     position: relative;
                     width: 100.0%;
                     height: 100.0%;
@@ -907,14 +905,14 @@ Requirement already satisfied: charset-normalizer&lt;4,&gt;=2 in /opt/hostedtool
 &lt;body&gt;
 
 
-            &lt;div class=&quot;folium-map&quot; id=&quot;map_a3d8d45a4ad6ed075a791e1446c5e63b&quot; &gt;&lt;/div&gt;
+            &lt;div class=&quot;folium-map&quot; id=&quot;map_29a1df6e694ab5ba0cfc89e59f8e15ab&quot; &gt;&lt;/div&gt;
 
 &lt;/body&gt;
 &lt;script&gt;
 
 
-            var map_a3d8d45a4ad6ed075a791e1446c5e63b = L.map(
-                &quot;map_a3d8d45a4ad6ed075a791e1446c5e63b&quot;,
+            var map_29a1df6e694ab5ba0cfc89e59f8e15ab = L.map(
+                &quot;map_29a1df6e694ab5ba0cfc89e59f8e15ab&quot;,
                 {
                     center: [37.701, -121.073],
                     crs: L.CRS.EPSG3857,
@@ -928,88 +926,88 @@ Requirement already satisfied: charset-normalizer&lt;4,&gt;=2 in /opt/hostedtool
 
 
 
-            var tile_layer_1af25dbbe3b2a8194306e6e2f3cae7ec = L.tileLayer(
+            var tile_layer_6f89e9bf180bc688700223fb6fbdde41 = L.tileLayer(
                 &quot;https://stamen-tiles-{s}.a.ssl.fastly.net/terrain/{z}/{x}/{y}.jpg&quot;,
                 {&quot;attribution&quot;: &quot;Map tiles by \u003ca target=\&quot;_blank\&quot; href=\&quot;http://stamen.com\&quot;\u003eStamen Design\u003c/a\u003e, under \u003ca target=\&quot;_blank\&quot; href=\&quot;http://creativecommons.org/licenses/by/3.0\&quot;\u003eCC BY 3.0\u003c/a\u003e. Data by \u0026copy; \u003ca target=\&quot;_blank\&quot; href=\&quot;http://openstreetmap.org\&quot;\u003eOpenStreetMap\u003c/a\u003e, under \u003ca target=\&quot;_blank\&quot; href=\&quot;http://creativecommons.org/licenses/by-sa/3.0\&quot;\u003eCC BY SA\u003c/a\u003e.&quot;, &quot;detectRetina&quot;: false, &quot;maxNativeZoom&quot;: 18, &quot;maxZoom&quot;: 18, &quot;minZoom&quot;: 0, &quot;noWrap&quot;: false, &quot;opacity&quot;: 1, &quot;subdomains&quot;: &quot;abc&quot;, &quot;tms&quot;: false}
-            ).addTo(map_a3d8d45a4ad6ed075a791e1446c5e63b);
+            ).addTo(map_29a1df6e694ab5ba0cfc89e59f8e15ab);
 
 
-            var marker_533bc8d2fb984855dbf5525a396b9e9b = L.marker(
+            var marker_14f71fd320a1ffe4d72aba9c0ca7f67e = L.marker(
                 [38.2574, -120.8502],
                 {}
-            ).addTo(map_a3d8d45a4ad6ed075a791e1446c5e63b);
+            ).addTo(map_29a1df6e694ab5ba0cfc89e59f8e15ab);
 
 
-            var icon_49609cb1fd2b2ce290e6132e09e7eefe = L.AwesomeMarkers.icon(
+            var icon_efeabdc83925fcbfe40375c9b64a3068 = L.AwesomeMarkers.icon(
                 {&quot;extraClasses&quot;: &quot;fa-rotate-0&quot;, &quot;icon&quot;: &quot;cloud&quot;, &quot;iconColor&quot;: &quot;white&quot;, &quot;markerColor&quot;: &quot;blue&quot;, &quot;prefix&quot;: &quot;glyphicon&quot;}
             );
-            marker_533bc8d2fb984855dbf5525a396b9e9b.setIcon(icon_49609cb1fd2b2ce290e6132e09e7eefe);
+            marker_14f71fd320a1ffe4d72aba9c0ca7f67e.setIcon(icon_efeabdc83925fcbfe40375c9b64a3068);
 
 
-        var popup_4315b73d7b5c75ca097f160f36e62fc2 = L.popup({&quot;maxWidth&quot;: &quot;100%&quot;});
-
-
-
-                var html_7cf999642f27d5038a8376d0ec7cdb23 = $(`&lt;div id=&quot;html_7cf999642f27d5038a8376d0ec7cdb23&quot; style=&quot;width: 100.0%; height: 100.0%;&quot;&gt;Pardee Dam&lt;/div&gt;`)[0];
-                popup_4315b73d7b5c75ca097f160f36e62fc2.setContent(html_7cf999642f27d5038a8376d0ec7cdb23);
+        var popup_5b155bddac611c674928fd3b39b9dcff = L.popup({&quot;maxWidth&quot;: &quot;100%&quot;});
 
 
 
-        marker_533bc8d2fb984855dbf5525a396b9e9b.bindPopup(popup_4315b73d7b5c75ca097f160f36e62fc2)
+                var html_eef6b00587ecb58e986832f8619f3587 = $(`&lt;div id=&quot;html_eef6b00587ecb58e986832f8619f3587&quot; style=&quot;width: 100.0%; height: 100.0%;&quot;&gt;Pardee Dam&lt;/div&gt;`)[0];
+                popup_5b155bddac611c674928fd3b39b9dcff.setContent(html_eef6b00587ecb58e986832f8619f3587);
+
+
+
+        marker_14f71fd320a1ffe4d72aba9c0ca7f67e.bindPopup(popup_5b155bddac611c674928fd3b39b9dcff)
         ;
 
 
 
 
-            var marker_786cfec073b081d599f25bbaeb00b0c8 = L.marker(
+            var marker_df1c784456ee9834efe98e211cd9763d = L.marker(
                 [37.8922222, -122.2011111],
                 {}
-            ).addTo(map_a3d8d45a4ad6ed075a791e1446c5e63b);
+            ).addTo(map_29a1df6e694ab5ba0cfc89e59f8e15ab);
 
 
-            var icon_c156d311c32b63dc7c0d83f7657b717c = L.AwesomeMarkers.icon(
+            var icon_d399581f56b45dbcd682ed4bbb014c03 = L.AwesomeMarkers.icon(
                 {&quot;extraClasses&quot;: &quot;fa-rotate-0&quot;, &quot;icon&quot;: &quot;info-sign&quot;, &quot;iconColor&quot;: &quot;white&quot;, &quot;markerColor&quot;: &quot;blue&quot;, &quot;prefix&quot;: &quot;glyphicon&quot;}
             );
-            marker_786cfec073b081d599f25bbaeb00b0c8.setIcon(icon_c156d311c32b63dc7c0d83f7657b717c);
+            marker_df1c784456ee9834efe98e211cd9763d.setIcon(icon_d399581f56b45dbcd682ed4bbb014c03);
 
 
-        var popup_c4d63b09df15c4d6dc65dbc92c72e728 = L.popup({&quot;maxWidth&quot;: &quot;100%&quot;});
-
-
-
-                var html_1cd8222ffb5294485d47f8b44c61e826 = $(`&lt;div id=&quot;html_1cd8222ffb5294485d47f8b44c61e826&quot; style=&quot;width: 100.0%; height: 100.0%;&quot;&gt;Orinda Water Treatment Plant&lt;/div&gt;`)[0];
-                popup_c4d63b09df15c4d6dc65dbc92c72e728.setContent(html_1cd8222ffb5294485d47f8b44c61e826);
+        var popup_190151982b521228015f015c779c99f2 = L.popup({&quot;maxWidth&quot;: &quot;100%&quot;});
 
 
 
-        marker_786cfec073b081d599f25bbaeb00b0c8.bindPopup(popup_c4d63b09df15c4d6dc65dbc92c72e728)
+                var html_fc253fecbb6405c345286fe2dba5d62b = $(`&lt;div id=&quot;html_fc253fecbb6405c345286fe2dba5d62b&quot; style=&quot;width: 100.0%; height: 100.0%;&quot;&gt;Orinda Water Treatment Plant&lt;/div&gt;`)[0];
+                popup_190151982b521228015f015c779c99f2.setContent(html_fc253fecbb6405c345286fe2dba5d62b);
+
+
+
+        marker_df1c784456ee9834efe98e211cd9763d.bindPopup(popup_190151982b521228015f015c779c99f2)
         ;
 
 
 
 
-            var marker_acdb9e2c8eb0ad3e16ce56c2dc15d75f = L.marker(
+            var marker_d248c9e0ddaa519f44a04cc55e90b61c = L.marker(
                 [37.8016, -122.2734],
                 {}
-            ).addTo(map_a3d8d45a4ad6ed075a791e1446c5e63b);
+            ).addTo(map_29a1df6e694ab5ba0cfc89e59f8e15ab);
 
 
-            var icon_b80184230025bb656f9bdbc2edf246b1 = L.AwesomeMarkers.icon(
+            var icon_7b5889ab4963a65a4a15c7b44c268e15 = L.AwesomeMarkers.icon(
                 {&quot;extraClasses&quot;: &quot;fa-rotate-0&quot;, &quot;icon&quot;: &quot;info-sign&quot;, &quot;iconColor&quot;: &quot;white&quot;, &quot;markerColor&quot;: &quot;red&quot;, &quot;prefix&quot;: &quot;glyphicon&quot;}
             );
-            marker_acdb9e2c8eb0ad3e16ce56c2dc15d75f.setIcon(icon_b80184230025bb656f9bdbc2edf246b1);
+            marker_d248c9e0ddaa519f44a04cc55e90b61c.setIcon(icon_7b5889ab4963a65a4a15c7b44c268e15);
 
 
-        var popup_2afeef9c10359df068f81cdde22e276e = L.popup({&quot;maxWidth&quot;: &quot;100%&quot;});
-
-
-
-                var html_9552010ddb9ef358341ca03c034c8519 = $(`&lt;div id=&quot;html_9552010ddb9ef358341ca03c034c8519&quot; style=&quot;width: 100.0%; height: 100.0%;&quot;&gt;EBMUD Headquarters&lt;/div&gt;`)[0];
-                popup_2afeef9c10359df068f81cdde22e276e.setContent(html_9552010ddb9ef358341ca03c034c8519);
+        var popup_0b0fb2813a407a2d556a011f9830a861 = L.popup({&quot;maxWidth&quot;: &quot;100%&quot;});
 
 
 
-        marker_acdb9e2c8eb0ad3e16ce56c2dc15d75f.bindPopup(popup_2afeef9c10359df068f81cdde22e276e)
+                var html_c532edb6e7dfa089b064a34e21c35bb2 = $(`&lt;div id=&quot;html_c532edb6e7dfa089b064a34e21c35bb2&quot; style=&quot;width: 100.0%; height: 100.0%;&quot;&gt;EBMUD Headquarters&lt;/div&gt;`)[0];
+                popup_0b0fb2813a407a2d556a011f9830a861.setContent(html_c532edb6e7dfa089b064a34e21c35bb2);
+
+
+
+        marker_d248c9e0ddaa519f44a04cc55e90b61c.bindPopup(popup_0b0fb2813a407a2d556a011f9830a861)
         ;
 
 
@@ -1067,8 +1065,8 @@ d4 = Jan-14-2023
 </div>
 </div>
 <div class="cell_output docutils container">
-<div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>now = 2023-01-14 02:34:20.784310
-date and time = 14/01/2023 Saturday 02:34:20
+<div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>now = 2023-01-14 02:37:55.597454
+date and time = 14/01/2023 Saturday 02:37:55
 </pre></div>
 </div>
 </div>
@@ -1096,10 +1094,10 @@ date and time = 14/01/2023 Saturday 02:34:20
 </div>
 </div>
 <div class="cell_output docutils container">
-<div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>now 2023-01-14 02:34:20.792402
-Today&#39;s date is:  2023-01-14 02:34:20.792522
-now2 = 2023-01-14 02:34:20.792475
-date and time = 2023-01-14 Saturday 02:34:20 yearday=14 Timezone=  
+<div class="output stream highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>now 2023-01-14 02:37:55.608453
+Today&#39;s date is:  2023-01-14 02:37:55.608651
+now2 = 2023-01-14 02:37:55.608551
+date and time = 2023-01-14 Saturday 02:37:55 yearday=14 Timezone=  
 </pre></div>
 </div>
 </div>

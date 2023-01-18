@@ -13,15 +13,19 @@ parts:
     - file: 0-Web_of_Resources/Rebuilding_A_Castle_In_The_Air
     - file: 0-Web_of_Resources/Active_Information
     - file: 0-Web_of_Resources/Diagram of Paths
-    - file: 0-Web_of_Resources/Checklists_And_Dashboards.md
+    - file: 0-Web_of_Resources/Checklists_And_Dashboards.
 # Module 1
   - caption: 1 Overview
     numbered: True
     chapters:
-   # - file: intro-1.ipynb
-    - file: 1-Overview/intro-challenges.ipynb
-    - file: 1-Overview/intro-response.ipynb
+    #WaterNet/_toc.yml
+#/Users/johngage/JBook/8-24-slides.ipynb   # - file: intro-1.ipynb
+    - file: 1-Overview/08-24 Lecture 1 (1)
+    - file: 1-Overview/8-24-slides.ipynb
+    - file: 1-Overview/intro-challenges
+    - file: 1-Overview/intro-response
     - file: 1-Overview/_IntroOne
+    
     - file: 1-Overview/_IntroTwo
     - file: 1-Overview/Challenges
     - file: 1-Overview/Lecture Table

@@ -1,4 +1,11 @@
 # Checklists And Dashboards
+## For readers from water utilites, this section should provide a quick checklist of operational capabilies and resources
+- Overall indicators of water supply, water quality, vulnerability to flood and fire
+- Financial picture: costs, cost to customer, outstanding loans, capital plan
+- Plant overview: 
+- Distribution overview
+- Regulatory and political overview
+## For the general reader, provide a self-checklist of knowledge of general water facts, and of the water condition in the reader's home area
 - With ChatGPT, we can create the ever-changing book to respond to the reader's needs; 
 - Goal: present what is needed, when it is needed.
 - Change the book as the challenges change

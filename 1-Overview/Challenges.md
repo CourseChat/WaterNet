@@ -1,35 +1,9 @@
-#---
-#jupytext:
-#  cell_metadata_filter: -all
-#  formats: md:myst
-#  text_representation:
-#    extension: .md
-#    format_name: myst
-#    format_version: 0.13
-#    jupytext_version: 1.14.4
-#kernelspec:
-#  display_name: Python 3 (ipykernel)
-#  language: python
-#  name: python3
-#  
-#---
----
-jupytext:
-  formats: md:myst
-  text_representation:
-    extension: .md
-    format_name: myst
-kernelspec:
-  display_name: Python 3
-  language: python
-  name: python3
----
-
-
+# What is this
 
 # Rebuilding Water Infrastructure: Lessons For The Next Century from a Major California Water Utility
 
 ```{code-cell} python
+import numpy as np
 print("Executed today", 5 + 10)
 # An example input vector
 x = np.array(
@@ -42,6 +16,7 @@ N = len(x)
 
 plt.plot(x)
 ```
+
 
 ```{contents}
 ```

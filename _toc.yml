@@ -22,7 +22,7 @@ parts:
 #/Users/johngage/JBook/8-24-slides.ipynb   # - file: intro-1.ipynb
     #- file: 1-Overview/08-24 Lecture 1 (1)
    # - file: 1-Overview/8-24-slides
-    - file: ./Images/pages/08-24Lecture1.pdf-page7.png
+    - file: 1-Overview/08-24_-pages.md
     - file: 1-Overview/8-24 Web Lecture Slides
     - file: 1-Overview/08-24 -wed
     - file: 1-Overview/08-26 -wed

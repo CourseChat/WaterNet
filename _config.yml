@@ -32,3 +32,6 @@ html:
   use_repository_button: true
   use_multitoc_numbering: false
 # added sphinx lines from Jupyterbook docs
+#launch buttons
+launch_buttons:
+  colab_url: "https://colab.research.google.com"

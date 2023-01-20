@@ -13,7 +13,7 @@ parts:
     - file: 0-Web_of_Resources/Rebuilding_A_Castle_In_The_Air
     - file: 0-Web_of_Resources/Active_Information
     - file: 0-Web_of_Resources/Diagram of Paths
-    - file: 0-Web_of_Resources/Checklists_And_Dashboards.
+    - file: 0-Web_of_Resources/Checklists_And_Dashboards
 # Module 1
   - caption: 1 Overview
     numbered: True
@@ -22,11 +22,12 @@ parts:
 #/Users/johngage/JBook/8-24-slides.ipynb   # - file: intro-1.ipynb
     #- file: 1-Overview/08-24 Lecture 1 (1)
    # - file: 1-Overview/8-24-slides
+    - file: ./Images/pages/08-24Lecture1.pdf-page7.png
+    - file: 1-Overview/8-24 Web Lecture Slides
     - file: 1-Overview/08-24 -wed
     - file: 1-Overview/08-26 -wed
     - file: 1-Overview/08-29 -wed
     - file: 1-Overview/08-31 -wed
-    - file: 1-Overview/08-26
     - file: 1-Overview/intro-challenges
     - file: 1-Overview/intro-response
    # - file: 1-Overview/_IntroOne
@@ -119,7 +120,6 @@ parts:
     - file: dead
     - file: markdown
     - file: markdown-notebooks
-    - file: Onotebooks.ipynb
 # Module 11
   - caption: 11 Journalists, Politicians, Water Scientists, Engineers, Investors--Decide The Future
     numbered: True

@@ -1,5 +1,5 @@
 # Lectures: Fall, 2022 CE 112A
-## Table might not be far enough
+##  working list for adding JN to each lecture
 
 
 | Presentation, Module|Link| Link to Video, Transcript| Pages w/ numerical data | Logged | Chart | JN start | JN run | DB needed |

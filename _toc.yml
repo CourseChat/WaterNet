@@ -22,12 +22,11 @@ parts:
 #/Users/johngage/JBook/8-24-slides.ipynb   # - file: intro-1.ipynb
     #- file: 1-Overview/08-24 Lecture 1 (1)
    # - file: 1-Overview/8-24-slides
-    - file: 1-Overview/08-24_-pages.md
-    - file: 1-Overview/8-24 Web Lecture Slides
-    - file: 1-Overview/08-24 -wed
-    - file: 1-Overview/08-26 -wed
-    - file: 1-Overview/08-29 -wed
-    - file: 1-Overview/08-31 -wed
+    - file: 1-Overview/08-24_-pages
+    #- file: 1-Overview/08-24 -wed
+   # - file: 1-Overview/08-26 -wed
+   # - file: 1-Overview/08-29 -wed
+    #- file: 1-Overview/08-31 -wed
     - file: 1-Overview/intro-challenges
     - file: 1-Overview/intro-response
    # - file: 1-Overview/_IntroOne

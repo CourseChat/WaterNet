@@ -1,5 +1,3 @@
-# What is this
-
 # Rebuilding Water Infrastructure: Lessons For The Next Century from a Major California Water Utility
 
 ```{code-cell} python

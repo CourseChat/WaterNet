@@ -8,16 +8,16 @@ format: jb-book
 parts:
 # Module 0
   - caption: Building the Computational Book
-    numbered: True
+    numbered: False
     chapters:
     - file: 0-Web_of_Resources/Computational_Book
       sections:
       - file: 0-Web_of_Resources/Active_Information
       - file: 0-Web_of_Resources/Diagram of Paths
       - file: 0-Web_of_Resources/Checklists_And_Dashboards
-# Module 1
-  - caption: 1 Survey of Califoria Water
-    numbered: True
+  #  Module 1
+  - caption: First Lectures--Survey of California Water
+    numbered: False
     chapters:
     - file: 1-Overview/Slides
       sections: 
@@ -40,15 +40,13 @@ parts:
       - file: 1-Overview/intro-challenges
       - file: 1-Overview/intro-response
       - file: 1-Overview/_IntroTwo
-    
-   # - file: 1-Overview/Table_of_links1
-
+  # file: 1-Overview/Table_of_links1
 # Module 2
-  - caption: 2 Water Supply in an era of drought and flood
-    numbered: True
+  - caption: 2 Water Supply in an era of drought, flood, and fire
+    numbered: False
     chapters:
     - file: 2-Water_Supply/Slides
-    sections: 
+      sections: 
       - file: 2-Water_Supply/09-07_-pages
       - file: 2-Water_Supply/09-12_-pages
       - file: 2-Water_Supply/09-14_-pages
@@ -60,37 +58,50 @@ parts:
       - file: 2-Water_Supply/Water Demand Forecasting
       - file: 2-Water_Supply/Develop alternative water supply portfolios
       - file: 2-Water_Supply/Water Supply Resilience and Portfolio Design
-# Module 3
-  - caption: 3 Design and Operation of Water and Waste Water Systems
+  # Module 3
+  - caption: 3 Design and Operation of Water and Waste Water Systems-Think 100 Years Ahead
     numbered: True
     chapters:
-    - file: 3-Design_and_Operation/09-19_-pages
-    - file: 3-Design_and_Operation/09-21_-pages
-    - file: 3-Design_and_Operation/09-26_-pages
-    - file: 3-Design_and_Operation/09-28_-pages
-    - file: 3-Design_and_Operation/09-19 -wed
-    - file: 3-Design_and_Operation/09-21 -wed
-    - file: 3-Design_and_Operation/09-26 -wed
-    - file: 3-Design_and_Operation/09-28 -wed
-    - file: 3-Design_and_Operation/How to operate
-    - file: 3-Design_and_Operation/Water and Wastewater Systems Operations
-    - file: 3-Design_and_Operation/Water Treatment Plant Design and Operations Overview
-    - file: 3-Design_and_Operation/Water Distribution System Design and Operations
-    - file: 3-Design_and_Operation/Wastewater Treatment Design and Operations
-# Module 4
-  - caption: 4 System Maintenance, Renewal, Replacement-Foundation of the Enterprise
+    - file: 3-Design_and_Operation/Slides
+      sections:
+      - file: 3-Design_and_Operation/09-19_-pages
+      - file: 3-Design_and_Operation/09-21_-pages
+      - file: 3-Design_and_Operation/09-26_-pages
+      - file: 3-Design_and_Operation/09-28_-pages
+    - file: 3-Design_and_Operation/JN
+      sections: 
+      - file: 3-Design_and_Operation/09-19 -wed
+      - file: 3-Design_and_Operation/09-21 -wed
+      - file: 3-Design_and_Operation/09-26 -wed
+      - file: 3-Design_and_Operation/09-28 -wed
+      - file: 3-Design_and_Operation/other
+    sections:
+      - file: 3-Design_and_Operation/How to operate
+      - file: 3-Design_and_Operation/Water and Wastewater Systems Operations
+      - file: 3-Design_and_Operation/Water Treatment Plant Design and Operations Overview
+      - file: 3-Design_and_Operation/Water Distribution System Design and Operations
+      - file: 3-Design_and_Operation/Wastewater Treatment Design and Operations
+  # Module 4
+  - caption: 4 System Maintenance, Renewal, Replacement- Heartbeat of the Enterprise
     numbered: True
     chapters:
-    - file: 4-Maintenance_Renewal_Replacement/09-07 -wed
-    - file: 4-Maintenance_Renewal_Replacement/10-03 -wed
-    - file: 4-Maintenance_Renewal_Replacement/Maintenance
-    - file: 4-Maintenance_Renewal_Replacement/Infrastructure_investments_overview
-    - file: 4-Maintenance_Renewal_Replacement/Pipeline design fundamentals and use of innovative materials
-    - file: 4-Maintenance_Renewal_Replacement/Why Pipes Break
-    - file: 4-Maintenance_Renewal_Replacement/Innovations in pipeline maintenance
-    - file: 4-Maintenance_Renewal_Replacement/Preparing a Pipeline Design
-    - file: 4-Maintenance_Renewal_Replacement/Field Pipeline Design--Offsets, Costs
-    - file: 4-Maintenance_Renewal_Replacement/Fundamental Documents.md
+    - file: 4-Maintenance_Renewal_Replacement/Slides
+    sections: 
+    # need slide
+    - file: 4-Maintenance_Renewal_Replacement/JN
+      sections:
+      - file: 4-Maintenance_Renewal_Replacement/09-07 -wed
+      - file: 4-Maintenance_Renewal_Replacement/10-03 -wed
+    - file: 4-Maintenance_Renewal_Replacement/other
+      sections: 
+      - file: 4-Maintenance_Renewal_Replacement/Maintenance
+      - file: 4-Maintenance_Renewal_Replacement/Infrastructure_investments_overview
+      - file: 4-Maintenance_Renewal_Replacement/Pipeline design fundamentals and use of innovative materials
+      - file: 4-Maintenance_Renewal_Replacement/Why Pipes Break
+      - file: 4-Maintenance_Renewal_Replacement/Innovations in pipeline maintenance
+      - file: 4-Maintenance_Renewal_Replacement/Preparing a Pipeline Design
+      - file: 4-Maintenance_Renewal_Replacement/Field Pipeline Design--Offsets, Costs
+      - file: 4-Maintenance_Renewal_Replacement/Fundamental Documents.md
 # Module 5
   - caption: 5 Sustainability, Resilience, Climate Change--Major Impacts
     numbered: True
@@ -111,7 +122,7 @@ parts:
     numbered: True
     chapters:
     - file: 7-Interdependence/Water-Energy Nexus
-# Module 8
+# Module 8 
   - caption: 8 Design for Emergencies-Systems Are Made To Be Broken
     numbered: True
     chapters:
@@ -120,20 +131,20 @@ parts:
     - file: 8-Emergencies/Planning and Understanding For Uncertainty and Hazards
     - file: 8-Emergencies/Cascading failures and community preparedness
     - file: 8-Emergencies/DAM SAFETY &  EMERGENCY  PREPAREDNESS.md
-# Module 9
+  # Module 9
   - caption: 9 New Technologies--The System Comes Alive With AI
     numbered: True
     chapters:
     - file: 9-New_Technologies/Sensors, Networks, and Real-Time Operations
-# Module 10
+  # Module 10
   - caption: 10-Jupyter Notebooks-Data And Real-Time Management
     numbered: True
     chapters:
     - file: notebooks
     - file: dead
     - file: markdown
-# Module 11
-  - caption: 11 Journalists, Politicians, Water Scientists, Engineers, Investors--Decide The Future
+  # Module 11
+  - caption: '11 Journalists, Politicians, Water Scientists, Engineers, Investors--Decide The Future'
     numbered: True
     chapters: 
    # - file: testOne

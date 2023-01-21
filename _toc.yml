@@ -7,55 +7,59 @@ format: jb-book
 # start parts; correspond to modules;
 parts:
 # Module 0
-  - caption: Navigation, Interaction, Active Data Analysis
+  - caption: Building the Computational Book
     numbered: True
     chapters:
-    - file: 0-Web_of_Resources/Rebuilding_A_Castle_In_The_Air
-    - file: 0-Web_of_Resources/Active_Information
-    - file: 0-Web_of_Resources/Diagram of Paths
-    - file: 0-Web_of_Resources/Checklists_And_Dashboards
+    - file: 0-Web_of_Resources/Computational_Book
+      sections:
+      - file: 0-Web_of_Resources/Active_Information
+      - file: 0-Web_of_Resources/Diagram of Paths
+      - file: 0-Web_of_Resources/Checklists_And_Dashboards
 # Module 1
-  - caption: 1 Overview
+  - caption: 1 Survey of Califoria Water
     numbered: True
     chapters:
-    #WaterNet/_toc.yml
-#/Users/johngage/JBook/8-24-slides.ipynb   # - file: intro-1.ipynb
-    #- file: 1-Overview/08-24 Lecture 1 (1)
-   # - file: 1-Overview/8-24-slides
-    - file: 1-Overview/08-24_-pages
-    - file: 1-Overview/08-26_-pages
-    - file: 1-Overview/08-29_-pages
-    - file: 1-Overview/08-31_-pages
-    #- file: 1-Overview/08-24 -wed
-   # - file: 1-Overview/08-26 -wed
-   # - file: 1-Overview/08-29 -wed
-    #- file: 1-Overview/08-31 -wed
-    - file: 1-Overview/intro-challenges
-    - file: 1-Overview/intro-response
-   # - file: 1-Overview/_IntroOne
-    - file: 1-Overview/_IntroTwo
-    - file: 1-Overview/Challenges
-    - file: 1-Overview/Lecture Table
-    - file: 1-Overview/Overview of California Water and Wastewater Systems
-    - file: 1-Overview/Developing Solutions through Innovation
-    - file: 1-Overview/Group Work assignments
-    - file: 1-Overview/Group Work Assignments--expand to thirty topics
+    - file: 1-Overview/Slides
+      sections: 
+      - file: 1-Overview/08-24_-pages
+      - file: 1-Overview/08-26_-pages
+      - file: 1-Overview/08-29_-pages
+      - file: 1-Overview/08-31_-pages
+    - file: 1-Overview/table
+      sections: 
+      - file: 1-Overview/Lecture Table
+    - file: 1-Overview/text_and_video
+      sections:
+      - file: 1-Overview/Overview of California Water and Wastewater Systems
+      - file: 1-Overview/Developing Solutions through Innovation
+      - file: 1-Overview/Group Work assignments
+      - file: 1-Overview/Group Work Assignments--expand to thirty topics
+    - file: 1-Overview/Other_texts
+      sections: 
+      - file: 1-Overview/Challenges
+      - file: 1-Overview/intro-challenges
+      - file: 1-Overview/intro-response
+      - file: 1-Overview/_IntroTwo
+    
    # - file: 1-Overview/Table_of_links1
 
 # Module 2
   - caption: 2 Water Supply in an era of drought and flood
     numbered: True
     chapters:
-    - file: 2-Water_Supply/09-07_-pages
-    - file: 2-Water_Supply/09-12_-pages
-    - file: 2-Water_Supply/09-14_-pages
-    - file: 2-Water_Supply/09-12 -wed
-    - file: 2-Water_Supply/09-14 -wed.ipynb
-    - file: 2-Water_Supply/Water Supply
-    - file: 2-Water_Supply/Water Supply--Water and Natural Resources Management
-    - file: 2-Water_Supply/Water Demand Forecasting
-    - file: 2-Water_Supply/Develop alternative water supply portfolios
-    - file: 2-Water_Supply/Water Supply Resilience and Portfolio Design
+    - file: 2-Water_Supply/Slides
+    sections: 
+      - file: 2-Water_Supply/09-07_-pages
+      - file: 2-Water_Supply/09-12_-pages
+      - file: 2-Water_Supply/09-14_-pages
+      - file: 2-Water_Supply/other
+     # - file: 2-Water_Supply/09-12 -wed
+     # - file: 2-Water_Supply/09-14 -wed
+      - file: 2-Water_Supply/Water Supply
+      - file: 2-Water_Supply/Water Supply--Water and Natural Resources Management
+      - file: 2-Water_Supply/Water Demand Forecasting
+      - file: 2-Water_Supply/Develop alternative water supply portfolios
+      - file: 2-Water_Supply/Water Supply Resilience and Portfolio Design
 # Module 3
   - caption: 3 Design and Operation of Water and Waste Water Systems
     numbered: True

@@ -1,10 +1,19 @@
 # Lecture notes for 09-28_
+
+
 ![Page 0]( ../Images/pages/09-28_Lecture.pdf-page0.png )
+```{margin} JN Challenge
+Specify data source; use pandas
+```
+
+
 ![Page 1]( ../Images/pages/09-28_Lecture.pdf-page1.png )
 ![Page 2]( ../Images/pages/09-28_Lecture.pdf-page2.png )
 ![Page 3]( ../Images/pages/09-28_Lecture.pdf-page3.png )
 ![Page 4]( ../Images/pages/09-28_Lecture.pdf-page4.png )
 ![Page 5]( ../Images/pages/09-28_Lecture.pdf-page5.png )
+
+
 ![Page 6]( ../Images/pages/09-28_Lecture.pdf-page6.png )
 ![Page 7]( ../Images/pages/09-28_Lecture.pdf-page7.png )
 ![Page 8]( ../Images/pages/09-28_Lecture.pdf-page8.png )
@@ -33,4 +42,5 @@
 ![Page 31]( ../Images/pages/09-28_Lecture.pdf-page31.png )
 ![Page 32]( ../Images/pages/09-28_Lecture.pdf-page32.png )
 ![Page 33]( ../Images/pages/09-28_Lecture.pdf-page33.png )
+<hr color= green>
 ![Page 34]( ../Images/pages/09-28_Lecture.pdf-page34.png )

@@ -1,4 +1,4 @@
-# Lecture Slides for 8-24
+# Lecture notes for 08-24_
 ![Page 0]( ../Images/pages/08-24_Lecture_1.pdf-page0.png )
 ![Page 1]( ../Images/pages/08-24_Lecture_1.pdf-page1.png )
 ![Page 2]( ../Images/pages/08-24_Lecture_1.pdf-page2.png )

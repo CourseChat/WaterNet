@@ -23,6 +23,9 @@ parts:
     #- file: 1-Overview/08-24 Lecture 1 (1)
    # - file: 1-Overview/8-24-slides
     - file: 1-Overview/08-24_-pages
+    - file: 1-Overview/08-26_-pages
+    - file: 1-Overview/08-29_-pages
+    - file: 1-Overview/08-31_-pages
     #- file: 1-Overview/08-24 -wed
    # - file: 1-Overview/08-26 -wed
    # - file: 1-Overview/08-29 -wed
@@ -43,6 +46,9 @@ parts:
   - caption: 2 Water Supply in an era of drought and flood
     numbered: True
     chapters:
+    - file: 2-Water_Supply/09-07_-pages
+    - file: 2-Water_Supply/09-12_-pages
+    - file: 2-Water_Supply/09-14_-pages
     - file: 2-Water_Supply/09-12 -wed
     - file: 2-Water_Supply/09-14 -wed.ipynb
     - file: 2-Water_Supply/Water Supply
@@ -54,6 +60,10 @@ parts:
   - caption: 3 Design and Operation of Water and Waste Water Systems
     numbered: True
     chapters:
+    - file: 3-Design_and_Operation/09-19_-pages
+    - file: 3-Design_and_Operation/09-21_-pages
+    - file: 3-Design_and_Operation/09-26_-pages
+    - file: 3-Design_and_Operation/09-28_-pages
     - file: 3-Design_and_Operation/09-19 -wed
     - file: 3-Design_and_Operation/09-21 -wed
     - file: 3-Design_and_Operation/09-26 -wed

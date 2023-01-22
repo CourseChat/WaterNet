@@ -19,7 +19,12 @@ kernelspec:
     - Notes
     - Video
     - Transcript
-## WonJun, this will be an outline of the project
+## Discuss best way to recruit JN coders from DS8, DS100 GSI's, past instructors
+- Mental image: create a series of DS100 homework assignments that draw on EBMUD, SIMLAB, and CSI data
+- Extend partnership to UCLA, Stanford, other elements of UCB Water Center
+- Enlist LADWP, Municipal, SF Public Utilities, California Public Utilities; California Water Boards;
+## WonJun, this will be an interactive outline of the project progress
+- Useful for quick updates of Kenichi, Clifford, Dave, and JN team members
 
 ```{code-cell} python
 # Import date class from datetime module

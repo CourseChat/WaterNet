@@ -1,8 +1,11 @@
 # Checklists And Dashboards
-## For readers from water utilites, this section should provide a quick checklist of operational capabilies and resources
+## For readers from water utilites, this section should provide a quick checklist of operational capabilies and resources of their utility
+- To spark their interest, use ChatGPT or GoogleAI to generate report on their system from simple input
+  - Name of utility; location; Water sources; regulatory agencies overseeing utility; annual budget; population served; lawsuits; 
+### Ask readers for: 
 - Overall indicators of water supply, water quality, vulnerability to flood and fire
 - Financial picture: costs, cost to customer, outstanding loans, capital plan
-- Plant overview: 
+- Plant overview: age of plant; maintenance budget;
 - Distribution overview
 - Regulatory and political overview
 ## For the general reader, provide a self-checklist of knowledge of general water facts, and of the water condition in the reader's home area

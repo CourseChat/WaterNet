@@ -15,8 +15,10 @@ parts:
       - file: 0-Web_of_Resources/Active_Information
       - file: 0-Web_of_Resources/Diagram of Paths
       - file: 0-Web_of_Resources/Checklists_And_Dashboards
+      - file: 0-Web_of_Resources/Lecture Table
+
   #  Module 1
-  - caption: First Lectures--Survey of California Water
+  - caption: Module 1--Survey of California Water
     numbered: False
     chapters:
     - file: 1-Overview/Slides
@@ -27,7 +29,7 @@ parts:
       - file: 1-Overview/08-31_-pages
     - file: 1-Overview/table
       sections: 
-      - file: 1-Overview/Lecture Table
+      - file: 1-Overview/Table_of_links1
     - file: 1-Overview/text_and_video
       sections:
       - file: 1-Overview/Overview of California Water and Wastewater Systems
@@ -42,7 +44,7 @@ parts:
       - file: 1-Overview/_IntroTwo
   # file: 1-Overview/Table_of_links1
 # Module 2
-  - caption: 2 Water Supply in an era of drought, flood, and fire
+  - caption: Module 2--Water Supply in an era of drought, flood, and fire
     numbered: False
     chapters:
     - file: 2-Water_Supply/Slides
@@ -50,17 +52,20 @@ parts:
       - file: 2-Water_Supply/09-07_-pages
       - file: 2-Water_Supply/09-12_-pages
       - file: 2-Water_Supply/09-14_-pages
-      - file: 2-Water_Supply/other
-     # - file: 2-Water_Supply/09-12 -wed
-     # - file: 2-Water_Supply/09-14 -wed
+    - file: 2-Water_Supply/JN
+      sections:
+      - file: 2-Water_Supply/09-12 -wed
+      - file: 2-Water_Supply/09-14 -wed
+    - file: 2-Water_Supply/other
+      sections: 
       - file: 2-Water_Supply/Water Supply
       - file: 2-Water_Supply/Water Supply--Water and Natural Resources Management
       - file: 2-Water_Supply/Water Demand Forecasting
       - file: 2-Water_Supply/Develop alternative water supply portfolios
       - file: 2-Water_Supply/Water Supply Resilience and Portfolio Design
   # Module 3
-  - caption: 3 Design and Operation of Water and Waste Water Systems-Think 100 Years Ahead
-    numbered: True
+  - caption: Module 3--Design and Operation of Water and Waste Water Systems-Next 100 Years
+    numbered: False
     chapters:
     - file: 3-Design_and_Operation/Slides
       sections:
@@ -74,16 +79,16 @@ parts:
       - file: 3-Design_and_Operation/09-21 -wed
       - file: 3-Design_and_Operation/09-26 -wed
       - file: 3-Design_and_Operation/09-28 -wed
-      - file: 3-Design_and_Operation/other
-    sections:
+    - file: 3-Design_and_Operation/other
+      sections:
       - file: 3-Design_and_Operation/How to operate
       - file: 3-Design_and_Operation/Water and Wastewater Systems Operations
       - file: 3-Design_and_Operation/Water Treatment Plant Design and Operations Overview
       - file: 3-Design_and_Operation/Water Distribution System Design and Operations
       - file: 3-Design_and_Operation/Wastewater Treatment Design and Operations
   # Module 4
-  - caption: 4 System Maintenance, Renewal, Replacement- Heartbeat of the Enterprise
-    numbered: True
+  - caption: Module 4--System Maintenance, Renewal, Replacement- The Heartbeat of the Enterprise
+    numbered: False
     chapters:
     - file: 4-Maintenance_Renewal_Replacement/Slides
     sections: 

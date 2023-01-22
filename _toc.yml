@@ -130,35 +130,56 @@ parts:
       - file: 5-Sustainability_and_Resilience/Sustainability and Resilience--Overview and Innovations
       - file: 5-Sustainability_and_Resilience/Climate Change and the Water-Energy Nexus
 # Module 6
-  - caption: 6 Financing Water and Wastewater Utilities-Tariffs and Taxes
-    numbered: True
+  - caption: Module 6--Financing Water and Wastewater Utilities-Tariffs and Taxes
+    numbered: False
     chapters:
-    - file: 6-Financing_Water/Finance
-    - file: 6-Financing_Water/Water and Wastewater Financing – Capital and Operating Budgets, Rates and Charges
-    - file: 6-Financing_Water/Water and Wastewater Financing – Capital Financing.md
-    - file: 6-Financing_Water/Finance problem set.md
+    - file: 6-Financing_Water/Slides
+      sections:
+      - file: 6-Financing_Water/10-31_-pages
+      - file: 6-Financing_Water/11-02_-pages
+    - file: 6-Financing_Water/JN
+      sections: 
+      - file: 6-Financing_Water/JN_Finance
+    - file: 6-Financing_Water/Other
+      sections: 
+       - file: 6-Financing_Water/Finance
+       - file: 6-Financing_Water/Water and Wastewater Financing - Capital and Operating Budgets, Rates and Charges
+       - file: 6-Financing_Water/Water and Wastewater Financing - Capital Financing
+       - file: 6-Financing_Water/Finance problem set
 # Module 7
   - caption: 7 Interdependence of Water and Energy-Can't Have One Without The Other
-    numbered: True
+    numbered: False
     chapters:
     - file: 7-Interdependence/Water-Energy Nexus
 # Module 8 
-  - caption: 8 Design for Emergencies-Systems Are Made To Be Broken
-    numbered: True
+  - caption: Module 8--Design for Emergencies-Systems Are Made To Be Broken
+    numbered: False
     chapters:
-    - file: 8-Emergencies/Emergencies
-    - file: 8-Emergencies/Emergency Preparedness Overview and Interconnected Systems
-    - file: 8-Emergencies/Planning and Understanding For Uncertainty and Hazards
-    - file: 8-Emergencies/Cascading failures and community preparedness
-    - file: 8-Emergencies/DAM SAFETY &  EMERGENCY  PREPAREDNESS.md
+    - file: 8-Emergencies/Slides
+      sections:
+      - file: 8-Emergencies/11-14_-pages
+      - file: 8-Emergencies/11-16_-pages
+      - file: 8-Emergencies/11-21_-pages
+      - file: 8-Emergencies/11-28_-pages
+    - file: 8-Emergencies/JN
+      sections:
+      - file: 8-Emergencies/EmergenciesJN
+      - file: 8-Emergencies/plot_1D_dambreak
+    - file: 8-Emergencies/Other
+      sections:
+      - file: 8-Emergencies/Emergencies
+      - file: 8-Emergencies/Emergency Preparedness Overview and Interconnected Systems
+      - file: 8-Emergencies/Planning and Understanding For Uncertainty and Hazards
+      - file: 8-Emergencies/Cascading failures and community preparedness
+      - file: 8-Emergencies/DAM SAFETY &  EMERGENCY  PREPAREDNESS.md
   # Module 9
   - caption: 9 New Technologies--The System Comes Alive With AI
-    numbered: True
+    numbered: False
     chapters:
     - file: 9-New_Technologies/Sensors, Networks, and Real-Time Operations
   # Module 10
   - caption: 10-Jupyter Notebooks-Data And Real-Time Management
-    numbered: True
+    numbered: False
     chapters:
     - file: notebooks
     - file: dead

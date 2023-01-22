@@ -1,2 +1,2 @@
-# Class Presentations: 7 at least
+# Class Presentations: 7 
 - try interactive map

@@ -1,3 +1,2 @@
 # Finance
-Headings from Skoda
-drop in all text from pdf
+- Market analysis from  Sophia Skoda

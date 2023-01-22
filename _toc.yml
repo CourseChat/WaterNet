@@ -44,7 +44,7 @@ parts:
       - file: 1-Overview/_IntroTwo
   # file: 1-Overview/Table_of_links1
 # Module 2
-  - caption: Module 2--Water Supply in an era of drought, flood, and fire
+  - caption: Module 2--Water Supply in an era of drought, flood, and fires
     numbered: False
     chapters:
     - file: 2-Water_Supply/Slides

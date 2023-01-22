@@ -91,8 +91,14 @@ parts:
     numbered: False
     chapters:
     - file: 4-Maintenance_Renewal_Replacement/Slides
-    sections: 
-    # need slide
+      sections:
+      - file: 4-Maintenance_Renewal_Replacement/10-03_-pages
+      - file: 4-Maintenance_Renewal_Replacement/10-05_-pages
+      - file: 4-Maintenance_Renewal_Replacement/10-10_-pages
+      - file: 4-Maintenance_Renewal_Replacement/10-12_-pages
+      - file: 4-Maintenance_Renewal_Replacement/10-17_-pages
+      - file: 4-Maintenance_Renewal_Replacement/10-19_-pages
+      - file: 4-Maintenance_Renewal_Replacement/10-21_-pages
     - file: 4-Maintenance_Renewal_Replacement/JN
       sections:
       - file: 4-Maintenance_Renewal_Replacement/09-07 -wed
@@ -108,12 +114,21 @@ parts:
       - file: 4-Maintenance_Renewal_Replacement/Field Pipeline Design--Offsets, Costs
       - file: 4-Maintenance_Renewal_Replacement/Fundamental Documents.md
 # Module 5
-  - caption: 5 Sustainability, Resilience, Climate Change--Major Impacts
-    numbered: True
+  - caption: Module 5--Sustainability, Resilience, Climate Change--Major Impacts
+    numbered: False
     chapters:
-    - file: 5-Sustainability_and_Resilience/Sustainability
-    - file: 5-Sustainability_and_Resilience/Sustainability and Resilience--Overview and Innovations
-    - file: 5-Sustainability_and_Resilience/Climate Change and the Water-Energy Nexus
+    - file: 5-Sustainability_and_Resilience/Slides
+      sections: 
+      - file: 5-Sustainability_and_Resilience/10-24_-pages
+      - file: 5-Sustainability_and_Resilience/10-26_-pages
+    - file: 5-Sustainability_and_Resilience/JN
+      sections: 
+      - file: 5-Sustainability_and_Resilience/Module-5
+    - file: 5-Sustainability_and_Resilience/Other
+      sections: 
+      - file: 5-Sustainability_and_Resilience/Sustainability
+      - file: 5-Sustainability_and_Resilience/Sustainability and Resilience--Overview and Innovations
+      - file: 5-Sustainability_and_Resilience/Climate Change and the Water-Energy Nexus
 # Module 6
   - caption: 6 Financing Water and Wastewater Utilities-Tariffs and Taxes
     numbered: True

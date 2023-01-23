@@ -1,4 +1,4 @@
-# 11-14: Emergency Preparedness Overview and Interconnected Systems
+# 11-14: Emergency Preparedness Overview and Interconnected Systems 
 
 ![Page 0]( ../Images/pages/11-14_Lecture.pdf-page0.png )
 <hr color = yellow>

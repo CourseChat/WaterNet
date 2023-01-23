@@ -44,6 +44,14 @@
   -  Oliver Laughland 
   - Katharine Gammon (LA)
 ### France
+- Le Monde
+  - [Stéphane Foucart](https://www.lemonde.fr/signataires/stephane-foucart/)
+  - [Olivier Hébrard]
+  - [Martine Valo](https://www.lemonde.fr/signataires/martine-valo/)
+  - [Claire Mayer]
+  - [Richard Schittly]
+  - [Frédéric Lemaître]
+  - [Claire Leys](https://www.lemonde.fr/signataires/claire-leys/)
 ### Germany
 ### Switzerland
 ### China

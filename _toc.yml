@@ -1,6 +1,6 @@
 # Table of contents
 # Learn more at https://jupyterbook.org/customize/toc.html
-root: CE112 Syllabus-Fall 2022
+root: CE112_Syllabus-Fall_2022
 format: jb-book
 #defaults:
 #  numbered: True

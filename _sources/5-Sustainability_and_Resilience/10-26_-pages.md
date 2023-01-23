@@ -1,5 +1,6 @@
-# Lecture notes for 10-26_
+# **10-26:   **
 ![Page 0]( ../Images/pages/10-26_Lecture.pdf-page0.png )
+
 ![Page 1]( ../Images/pages/10-26_Lecture.pdf-page1.png )
 ![Page 2]( ../Images/pages/10-26_Lecture.pdf-page2.png )
 ![Page 3]( ../Images/pages/10-26_Lecture.pdf-page3.png )

@@ -32,6 +32,7 @@
 - Wall Street Journal
 - USA Today
 - Associated Press
+- Reuters
   - JIM SALTER AND MICHAEL PHILLIS
 ### UK
 - [The Guardian]

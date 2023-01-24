@@ -2,7 +2,11 @@
 # CE112 Water & Wastewater Systems Design and Operation 
 
 :::{note}
-This Syllabus will be linked to major modules
+Module listings in this Syllabus will be linked to major Modules in the Table of Contents (TOC). This book added several new Modules, so that will be noted.
+:::
+
+:::{note}
+At the moment, each Module in the TOC has a section for Jupyter Notebooks prepared for that Module. In future, these may all be gathered in a separate Module for computational resources.
 :::
 
 Fall 2022 

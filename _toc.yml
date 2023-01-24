@@ -184,6 +184,7 @@ parts:
     - file: dead
     - file: markdown
     - file: intro-1a
+    - file: GrabBag
   # Module 11
   - caption: 11 Journalists, Politicians, Water Scientists, Engineers, Investors--Decide The Future
     numbered: False

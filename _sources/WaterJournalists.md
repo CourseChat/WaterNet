@@ -55,4 +55,7 @@
   - [Claire Leys](https://www.lemonde.fr/signataires/claire-leys/)
 ### Germany
 ### Switzerland
+- [NZZ](https://www.nzz.ch/)
+  - [Sven Titz]
+]
 ### China

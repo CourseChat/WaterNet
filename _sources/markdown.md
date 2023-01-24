@@ -63,3 +63,14 @@ print(2 + 47)
 
 This is just a simple starter to get you started.
 You can learn a lot more at [jupyterbook.org](https://jupyterbook.org).
+
+<hr color=green>
+## Here is .png doc; may contain all Json to create drawing;
+- the links in the buttons do not work; 
+- 
+
+![Drawing from jan  24](2023-01-24%20TuesdayEPclass.excalidraw.png)
+
+But this doesn't matter: 
+
+[CE112-8-24](1-Overview/08-24_-pages.md)

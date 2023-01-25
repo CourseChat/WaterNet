@@ -6,16 +6,10 @@ format: jb-book
 #  numbered: True
 # start parts; correspond to modules;
 parts:
-# Module 0
-  - caption: Building the Computational Book
+  - caption: See all presentations
     numbered: False
     chapters:
-    - file: 0-Web_of_Resources/Computational_Book
-      sections:
-      - file: 0-Web_of_Resources/Active_Information
-      - file: 0-Web_of_Resources/Diagram of Paths
-      - file: 0-Web_of_Resources/Checklists_And_Dashboards
-      - file: 0-Web_of_Resources/Lecture Table
+    - file: all_images.md
 
   #  Module 1
   - caption: Module 1--Survey of California Water
@@ -176,6 +170,7 @@ parts:
     numbered: False
     chapters:
     - file: 9-New_Technologies/Sensors, Networks, and Real-Time Operations
+    - file: 9-New_Technologies/Slides
   # Module 10
   - caption: 10-Jupyter Notebooks-Data And Real-Time Management
     numbered: False
@@ -197,3 +192,13 @@ parts:
     numbered: False
     chapters: 
     - file: List of Reports
+# Module 0
+  - caption: Building the Computational Book
+    numbered: False
+    chapters:
+    - file: A-Web_of_Resources/Computational_Book
+      sections:
+      - file: A-Web_of_Resources/Active_Information
+      - file: A-Web_of_Resources/Diagram of Paths
+      - file: A-Web_of_Resources/Checklists_And_Dashboards
+      - file: A-Web_of_Resources/Lecture Table

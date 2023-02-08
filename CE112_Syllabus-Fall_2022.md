@@ -2,11 +2,11 @@
 # CE112 Water & Wastewater Systems Design and Operation 
 
 :::{note}
-Part A of this JupyterBook recreates all presentations made in Fall, 2022 in Civil Engineering 112: _Water and Wastewater Systems Design and Operation_. In a carefully designed collaboratin with UC Berkeley faculty, thirty senior engineers from EBMUD present the core planning, design, operation, and financing of a one-billion-dollar annual operating budget organization responsible for continuous clean water supply to a million and a half person population. EBMUD, in partnership with nine cities, treats wastewater for half that population.
+Part A of this JupyterBook recreates all presentations made in Fall, 2022 in Civil Engineering 112: _Water and Wastewater Systems Design and Operation_. In a carefully designed collaboration with UC Berkeley faculty, thirty senior engineers from EBMUD present the core planning, design, operation, and financing of a one-billion-dollar annual operating budget organization responsible for continuous clean water supply to a million and a half person population in Northern California. EBMUD, in partnership with nine cities, treats wastewater for half that population, and leads a state-wide coalition exploring innovations in critical smart infrastructure.
 :::
 
 :::{note}
-Part B of this JupyterBook builds on this foundation to explore innovations and challenges for the next 100 years. Its goal: explore new research on water engineering: materials, construction, water quality, water reuse, water efficiency.  Incorporate new tools of real-time data flows and analysis, develop responsive models of the operating plant as it responds to changes in weather, climate, and potential disasters, and explore new ways of rebuilding for resilience. Evaluate the financial impact of rising sea level and groundwater tables, drought, and the challenge of rebuilding critical water and power infrastructure. Recent extreme weather events lend urgency to the fundamental challenge: how to provide clean, healthy water and sanitation to everyone with justice, equal access, and an equitable sharing of costs and risks. 
+Part B of this JupyterBook builds on this foundation to explore innovations and challenges for the next 100 years. Its goal: explore new research on water engineering: materials, construction, water quality, water reuse, water efficiency.  Sections focus on how to incorporate new tools of real-time data analysis, how to develop responsive models of the operating plant as changes in weather, climate, and potential disasters affect it, and how to rebuild the plant for resilience and justice. Sections will analyze the financial impact of rising sea level and groundwater tables, drought, and the challenge of rebuilding critical water and power infrastructure. Recent extreme weather events lend urgency to the fundamental challenge: how to provide clean, healthy water and sanitation to everyone with justice, equal access, and an equitable sharing of costs and risks. 
 :::
 
 Fall 2022 
@@ -30,7 +30,7 @@ https://ce.berkeley.edu/people/faculty/soga
 Office Hours: Monday 9:30-11:00am, or by appointment 
   E-mail : wonjun.cha@berkeley.edu 
  
-Industry instructors: **Clifford Chan**
+Industry instructors: **Dr. Clifford Chan**
   General Manager 
   East Bay Municipal Utility District 
   clifford.chan@ebmud.com 

@@ -6,7 +6,7 @@ format: jb-book
 #  numbered: True
 # start parts; correspond to modules;
 parts:
-  - caption: See all presentations
+  - caption: Part A- See all thirty presentations
     numbered: False
     chapters:
     - file: all_images.md
@@ -165,6 +165,11 @@ parts:
       - file: 8-Emergencies/Planning and Understanding For Uncertainty and Hazards
       - file: 8-Emergencies/Cascading failures and community preparedness
       - file: 8-Emergencies/DAM SAFETY &  EMERGENCY  PREPAREDNESS.md
+  # Part B: Developing interactive engineering
+  - caption: Part B- Building for Resilience 
+    numbered: False
+    chapters:
+    - file: intro.md
   # Module 9
   - caption: 9 New Technologies--The System Comes Alive With AI
     numbered: False

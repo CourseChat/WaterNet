@@ -2,11 +2,11 @@
 # CE112 Water & Wastewater Systems Design and Operation 
 
 :::{note}
-Module listings in this Syllabus will be linked to major Modules in the Table of Contents (TOC). This book added several new Modules, so that will be noted.
+Part A of this JupyterBook recreates all presentations made in Fall, 2022 in Civil Engineering 112: _Water and Wastewater Systems Design and Operation_. In a carefully designed collaboratin with UC Berkeley faculty, thirty senior engineers from EBMUD present the core planning, design, operation, and financing of a one-billion-dollar annual operating budget organization responsible for continuous clean water supply to a million and a half person population. EBMUD, in partnership with nine cities, treats wastewater for half that population.
 :::
 
 :::{note}
-At the moment, each Module in the TOC has a section for Jupyter Notebooks prepared for that Module. In future, these may all be gathered in a separate Module for computational resources.
+Part B of this JupyterBook builds on this foundation to explore innovations and challenges for the next 100 years. Its goal: explore new research on water engineering: materials, construction, water quality, water reuse, water efficiency.  Incorporate new tools of real-time data flows and analysis, develop responsive models of the operating plant as it responds to changes in weather, climate, and potential disasters, and explore new ways of rebuilding for resilience. Evaluate the financial impact of rising sea level and groundwater tables, drought, and the challenge of rebuilding critical water and power infrastructure. Recent extreme weather events lend urgency to the fundamental challenge: how to provide clean, healthy water and sanitation to everyone with justice, equal access, and an equitable sharing of costs and risks. 
 :::
 
 Fall 2022 

@@ -1,8 +1,8 @@
 ![08-24_Lecture_1.pdf-page0](Images/pages/08-24_Lecture_1.pdf-page0.png "08-24_Lecture_1.pdf-page0")
 ▪️▫️ 
-![08-24_Lecture_1.pdf-page10](Images/pages/08-24_Lecture_1.pdf-page10.png "08-24_Lecture_1.pdf-page10")
-▪️▫️ 
 ![08-24_Lecture_1.pdf-page1](Images/pages/08-24_Lecture_1.pdf-page1.png "08-24_Lecture_1.pdf-page1")
+▪️▫️ 
+![08-24_Lecture_1.pdf-page10](Images/pages/08-24_Lecture_1.pdf-page10.png "08-24_Lecture_1.pdf-page10")
 ▪️▫️ 
 ![08-24_Lecture_1.pdf-page11](Images/pages/08-24_Lecture_1.pdf-page11.png "08-24_Lecture_1.pdf-page11")
 ▪️▫️ 
@@ -20,9 +20,9 @@
 ▪️▫️ 
 ![08-24_Lecture_1.pdf-page18](Images/pages/08-24_Lecture_1.pdf-page18.png "08-24_Lecture_1.pdf-page18")
 ▪️▫️ 
-![08-24_Lecture_1.pdf-page19](Images/pages/08-24_Lecture_1.pdf-page19.png "08-24_Lecture_1.pdf-page19")
-▪️▫️ 
 ![08-24_Lecture_1.pdf-page2](Images/pages/08-24_Lecture_1.pdf-page2.png "08-24_Lecture_1.pdf-page2")
+▪️▫️ 
+![08-24_Lecture_1.pdf-page19](Images/pages/08-24_Lecture_1.pdf-page19.png "08-24_Lecture_1.pdf-page19")
 ▪️▫️ 
 ![08-24_Lecture_1.pdf-page20](Images/pages/08-24_Lecture_1.pdf-page20.png "08-24_Lecture_1.pdf-page20")
 ▪️▫️ 
@@ -76,11 +76,11 @@
 ▪️▫️ 
 ![08-24_Lecture_1.pdf-page43](Images/pages/08-24_Lecture_1.pdf-page43.png "08-24_Lecture_1.pdf-page43")
 ▪️▫️ 
+![08-24_Lecture_1.pdf-page6](Images/pages/08-24_Lecture_1.pdf-page6.png "08-24_Lecture_1.pdf-page6")
+▪️▫️ 
 ![08-24_Lecture_1.pdf-page5](Images/pages/08-24_Lecture_1.pdf-page5.png "08-24_Lecture_1.pdf-page5")
 ▪️▫️ 
 ![08-24_Lecture_1.pdf-page7](Images/pages/08-24_Lecture_1.pdf-page7.png "08-24_Lecture_1.pdf-page7")
-▪️▫️ 
-![08-24_Lecture_1.pdf-page6](Images/pages/08-24_Lecture_1.pdf-page6.png "08-24_Lecture_1.pdf-page6")
 ▪️▫️ 
 ![08-24_Lecture_1.pdf-page8](Images/pages/08-24_Lecture_1.pdf-page8.png "08-24_Lecture_1.pdf-page8")
 ▪️▫️ 
@@ -106,11 +106,11 @@
 ▪️▫️ 
 ![08-26_Lab_1.pdf-page17](Images/pages/08-26_Lab_1.pdf-page17.png "08-26_Lab_1.pdf-page17")
 ▪️▫️ 
+![08-26_Lab_1.pdf-page18](Images/pages/08-26_Lab_1.pdf-page18.png "08-26_Lab_1.pdf-page18")
+▪️▫️ 
 ![08-26_Lab_1.pdf-page19](Images/pages/08-26_Lab_1.pdf-page19.png "08-26_Lab_1.pdf-page19")
 ▪️▫️ 
 ![08-26_Lab_1.pdf-page2](Images/pages/08-26_Lab_1.pdf-page2.png "08-26_Lab_1.pdf-page2")
-▪️▫️ 
-![08-26_Lab_1.pdf-page18](Images/pages/08-26_Lab_1.pdf-page18.png "08-26_Lab_1.pdf-page18")
 ▪️▫️ 
 ![08-26_Lab_1.pdf-page20](Images/pages/08-26_Lab_1.pdf-page20.png "08-26_Lab_1.pdf-page20")
 ▪️▫️ 
@@ -122,9 +122,9 @@
 ▪️▫️ 
 ![08-26_Lab_1.pdf-page23](Images/pages/08-26_Lab_1.pdf-page23.png "08-26_Lab_1.pdf-page23")
 ▪️▫️ 
-![08-26_Lab_1.pdf-page25](Images/pages/08-26_Lab_1.pdf-page25.png "08-26_Lab_1.pdf-page25")
-▪️▫️ 
 ![08-26_Lab_1.pdf-page26](Images/pages/08-26_Lab_1.pdf-page26.png "08-26_Lab_1.pdf-page26")
+▪️▫️ 
+![08-26_Lab_1.pdf-page25](Images/pages/08-26_Lab_1.pdf-page25.png "08-26_Lab_1.pdf-page25")
 ▪️▫️ 
 ![08-26_Lab_1.pdf-page27](Images/pages/08-26_Lab_1.pdf-page27.png "08-26_Lab_1.pdf-page27")
 ▪️▫️ 
@@ -160,9 +160,9 @@
 ▪️▫️ 
 ![08-29_Lecture.pdf-page10](Images/pages/08-29_Lecture.pdf-page10.png "08-29_Lecture.pdf-page10")
 ▪️▫️ 
-![08-29_Lecture.pdf-page11](Images/pages/08-29_Lecture.pdf-page11.png "08-29_Lecture.pdf-page11")
-▪️▫️ 
 ![08-29_Lecture.pdf-page12](Images/pages/08-29_Lecture.pdf-page12.png "08-29_Lecture.pdf-page12")
+▪️▫️ 
+![08-29_Lecture.pdf-page11](Images/pages/08-29_Lecture.pdf-page11.png "08-29_Lecture.pdf-page11")
 ▪️▫️ 
 ![08-29_Lecture.pdf-page13](Images/pages/08-29_Lecture.pdf-page13.png "08-29_Lecture.pdf-page13")
 ▪️▫️ 
@@ -182,9 +182,9 @@
 ▪️▫️ 
 ![08-29_Lecture.pdf-page20](Images/pages/08-29_Lecture.pdf-page20.png "08-29_Lecture.pdf-page20")
 ▪️▫️ 
-![08-29_Lecture.pdf-page22](Images/pages/08-29_Lecture.pdf-page22.png "08-29_Lecture.pdf-page22")
-▪️▫️ 
 ![08-29_Lecture.pdf-page21](Images/pages/08-29_Lecture.pdf-page21.png "08-29_Lecture.pdf-page21")
+▪️▫️ 
+![08-29_Lecture.pdf-page22](Images/pages/08-29_Lecture.pdf-page22.png "08-29_Lecture.pdf-page22")
 ▪️▫️ 
 ![08-29_Lecture.pdf-page23](Images/pages/08-29_Lecture.pdf-page23.png "08-29_Lecture.pdf-page23")
 ▪️▫️ 
@@ -210,9 +210,9 @@
 ▪️▫️ 
 ![08-29_Lecture.pdf-page9](Images/pages/08-29_Lecture.pdf-page9.png "08-29_Lecture.pdf-page9")
 ▪️▫️ 
-![08-31_Lecture.pdf-page1](Images/pages/08-31_Lecture.pdf-page1.png "08-31_Lecture.pdf-page1")
-▪️▫️ 
 ![08-31_Lecture.pdf-page0](Images/pages/08-31_Lecture.pdf-page0.png "08-31_Lecture.pdf-page0")
+▪️▫️ 
+![08-31_Lecture.pdf-page1](Images/pages/08-31_Lecture.pdf-page1.png "08-31_Lecture.pdf-page1")
 ▪️▫️ 
 ![08-31_Lecture.pdf-page10](Images/pages/08-31_Lecture.pdf-page10.png "08-31_Lecture.pdf-page10")
 ▪️▫️ 
@@ -254,9 +254,9 @@
 ▪️▫️ 
 ![08-31_Lecture.pdf-page7](Images/pages/08-31_Lecture.pdf-page7.png "08-31_Lecture.pdf-page7")
 ▪️▫️ 
-![08-31_Lecture.pdf-page8](Images/pages/08-31_Lecture.pdf-page8.png "08-31_Lecture.pdf-page8")
-▪️▫️ 
 ![08-31_Lecture.pdf-page9](Images/pages/08-31_Lecture.pdf-page9.png "08-31_Lecture.pdf-page9")
+▪️▫️ 
+![08-31_Lecture.pdf-page8](Images/pages/08-31_Lecture.pdf-page8.png "08-31_Lecture.pdf-page8")
 ▪️▫️ 
 ![09-07_Lecture.pdf-page1](Images/pages/09-07_Lecture.pdf-page1.png "09-07_Lecture.pdf-page1")
 ▪️▫️ 
@@ -304,9 +304,9 @@
 ▪️▫️ 
 ![09-07_Lecture.pdf-page4](Images/pages/09-07_Lecture.pdf-page4.png "09-07_Lecture.pdf-page4")
 ▪️▫️ 
-![09-07_Lecture.pdf-page5](Images/pages/09-07_Lecture.pdf-page5.png "09-07_Lecture.pdf-page5")
-▪️▫️ 
 ![09-07_Lecture.pdf-page6](Images/pages/09-07_Lecture.pdf-page6.png "09-07_Lecture.pdf-page6")
+▪️▫️ 
+![09-07_Lecture.pdf-page5](Images/pages/09-07_Lecture.pdf-page5.png "09-07_Lecture.pdf-page5")
 ▪️▫️ 
 ![09-07_Lecture.pdf-page7](Images/pages/09-07_Lecture.pdf-page7.png "09-07_Lecture.pdf-page7")
 ▪️▫️ 
@@ -330,9 +330,9 @@
 ▪️▫️ 
 ![09-12_Lecture.pdf-page15](Images/pages/09-12_Lecture.pdf-page15.png "09-12_Lecture.pdf-page15")
 ▪️▫️ 
-![09-12_Lecture.pdf-page16](Images/pages/09-12_Lecture.pdf-page16.png "09-12_Lecture.pdf-page16")
-▪️▫️ 
 ![09-12_Lecture.pdf-page17](Images/pages/09-12_Lecture.pdf-page17.png "09-12_Lecture.pdf-page17")
+▪️▫️ 
+![09-12_Lecture.pdf-page16](Images/pages/09-12_Lecture.pdf-page16.png "09-12_Lecture.pdf-page16")
 ▪️▫️ 
 ![09-12_Lecture.pdf-page18](Images/pages/09-12_Lecture.pdf-page18.png "09-12_Lecture.pdf-page18")
 ▪️▫️ 
@@ -412,9 +412,9 @@
 ▪️▫️ 
 ![09-19_Lecture.pdf-page1](Images/pages/09-19_Lecture.pdf-page1.png "09-19_Lecture.pdf-page1")
 ▪️▫️ 
-![09-19_Lecture.pdf-page11](Images/pages/09-19_Lecture.pdf-page11.png "09-19_Lecture.pdf-page11")
-▪️▫️ 
 ![09-19_Lecture.pdf-page10](Images/pages/09-19_Lecture.pdf-page10.png "09-19_Lecture.pdf-page10")
+▪️▫️ 
+![09-19_Lecture.pdf-page11](Images/pages/09-19_Lecture.pdf-page11.png "09-19_Lecture.pdf-page11")
 ▪️▫️ 
 ![09-19_Lecture.pdf-page12](Images/pages/09-19_Lecture.pdf-page12.png "09-19_Lecture.pdf-page12")
 ▪️▫️ 
@@ -464,11 +464,11 @@
 ▪️▫️ 
 ![09-19_Lecture.pdf-page33](Images/pages/09-19_Lecture.pdf-page33.png "09-19_Lecture.pdf-page33")
 ▪️▫️ 
+![09-19_Lecture.pdf-page36](Images/pages/09-19_Lecture.pdf-page36.png "09-19_Lecture.pdf-page36")
+▪️▫️ 
 ![09-19_Lecture.pdf-page35](Images/pages/09-19_Lecture.pdf-page35.png "09-19_Lecture.pdf-page35")
 ▪️▫️ 
 ![09-19_Lecture.pdf-page34](Images/pages/09-19_Lecture.pdf-page34.png "09-19_Lecture.pdf-page34")
-▪️▫️ 
-![09-19_Lecture.pdf-page36](Images/pages/09-19_Lecture.pdf-page36.png "09-19_Lecture.pdf-page36")
 ▪️▫️ 
 ![09-19_Lecture.pdf-page37](Images/pages/09-19_Lecture.pdf-page37.png "09-19_Lecture.pdf-page37")
 ▪️▫️ 
@@ -486,9 +486,9 @@
 ▪️▫️ 
 ![09-19_Lecture.pdf-page43](Images/pages/09-19_Lecture.pdf-page43.png "09-19_Lecture.pdf-page43")
 ▪️▫️ 
-![09-19_Lecture.pdf-page5](Images/pages/09-19_Lecture.pdf-page5.png "09-19_Lecture.pdf-page5")
-▪️▫️ 
 ![09-19_Lecture.pdf-page6](Images/pages/09-19_Lecture.pdf-page6.png "09-19_Lecture.pdf-page6")
+▪️▫️ 
+![09-19_Lecture.pdf-page5](Images/pages/09-19_Lecture.pdf-page5.png "09-19_Lecture.pdf-page5")
 ▪️▫️ 
 ![09-19_Lecture.pdf-page7](Images/pages/09-19_Lecture.pdf-page7.png "09-19_Lecture.pdf-page7")
 ▪️▫️ 
@@ -506,9 +506,9 @@
 ▪️▫️ 
 ![09-21_Lecture.pdf-page12](Images/pages/09-21_Lecture.pdf-page12.png "09-21_Lecture.pdf-page12")
 ▪️▫️ 
-![09-21_Lecture.pdf-page14](Images/pages/09-21_Lecture.pdf-page14.png "09-21_Lecture.pdf-page14")
-▪️▫️ 
 ![09-21_Lecture.pdf-page13](Images/pages/09-21_Lecture.pdf-page13.png "09-21_Lecture.pdf-page13")
+▪️▫️ 
+![09-21_Lecture.pdf-page14](Images/pages/09-21_Lecture.pdf-page14.png "09-21_Lecture.pdf-page14")
 ▪️▫️ 
 ![09-21_Lecture.pdf-page15](Images/pages/09-21_Lecture.pdf-page15.png "09-21_Lecture.pdf-page15")
 ▪️▫️ 
@@ -526,9 +526,9 @@
 ▪️▫️ 
 ![09-21_Lecture.pdf-page21](Images/pages/09-21_Lecture.pdf-page21.png "09-21_Lecture.pdf-page21")
 ▪️▫️ 
-![09-21_Lecture.pdf-page23](Images/pages/09-21_Lecture.pdf-page23.png "09-21_Lecture.pdf-page23")
-▪️▫️ 
 ![09-21_Lecture.pdf-page22](Images/pages/09-21_Lecture.pdf-page22.png "09-21_Lecture.pdf-page22")
+▪️▫️ 
+![09-21_Lecture.pdf-page23](Images/pages/09-21_Lecture.pdf-page23.png "09-21_Lecture.pdf-page23")
 ▪️▫️ 
 ![09-21_Lecture.pdf-page24](Images/pages/09-21_Lecture.pdf-page24.png "09-21_Lecture.pdf-page24")
 ▪️▫️ 
@@ -544,9 +544,9 @@
 ▪️▫️ 
 ![09-21_Lecture.pdf-page3](Images/pages/09-21_Lecture.pdf-page3.png "09-21_Lecture.pdf-page3")
 ▪️▫️ 
-![09-21_Lecture.pdf-page30](Images/pages/09-21_Lecture.pdf-page30.png "09-21_Lecture.pdf-page30")
-▪️▫️ 
 ![09-21_Lecture.pdf-page31](Images/pages/09-21_Lecture.pdf-page31.png "09-21_Lecture.pdf-page31")
+▪️▫️ 
+![09-21_Lecture.pdf-page30](Images/pages/09-21_Lecture.pdf-page30.png "09-21_Lecture.pdf-page30")
 ▪️▫️ 
 ![09-21_Lecture.pdf-page32](Images/pages/09-21_Lecture.pdf-page32.png "09-21_Lecture.pdf-page32")
 ▪️▫️ 
@@ -706,13 +706,13 @@
 ▪️▫️ 
 ![09-28_Lecture.pdf-page4](Images/pages/09-28_Lecture.pdf-page4.png "09-28_Lecture.pdf-page4")
 ▪️▫️ 
-![09-28_Lecture.pdf-page6](Images/pages/09-28_Lecture.pdf-page6.png "09-28_Lecture.pdf-page6")
-▪️▫️ 
 ![09-28_Lecture.pdf-page5](Images/pages/09-28_Lecture.pdf-page5.png "09-28_Lecture.pdf-page5")
 ▪️▫️ 
-![09-28_Lecture.pdf-page7](Images/pages/09-28_Lecture.pdf-page7.png "09-28_Lecture.pdf-page7")
+![09-28_Lecture.pdf-page6](Images/pages/09-28_Lecture.pdf-page6.png "09-28_Lecture.pdf-page6")
 ▪️▫️ 
 ![09-28_Lecture.pdf-page8](Images/pages/09-28_Lecture.pdf-page8.png "09-28_Lecture.pdf-page8")
+▪️▫️ 
+![09-28_Lecture.pdf-page7](Images/pages/09-28_Lecture.pdf-page7.png "09-28_Lecture.pdf-page7")
 ▪️▫️ 
 ![09-28_Lecture.pdf-page9](Images/pages/09-28_Lecture.pdf-page9.png "09-28_Lecture.pdf-page9")
 ▪️▫️ 
@@ -790,11 +790,11 @@
 ▪️▫️ 
 ![10-05_Lecture.pdf-page15](Images/pages/10-05_Lecture.pdf-page15.png "10-05_Lecture.pdf-page15")
 ▪️▫️ 
-![10-05_Lecture.pdf-page16](Images/pages/10-05_Lecture.pdf-page16.png "10-05_Lecture.pdf-page16")
-▪️▫️ 
 ![10-05_Lecture.pdf-page18](Images/pages/10-05_Lecture.pdf-page18.png "10-05_Lecture.pdf-page18")
 ▪️▫️ 
 ![10-05_Lecture.pdf-page17](Images/pages/10-05_Lecture.pdf-page17.png "10-05_Lecture.pdf-page17")
+▪️▫️ 
+![10-05_Lecture.pdf-page16](Images/pages/10-05_Lecture.pdf-page16.png "10-05_Lecture.pdf-page16")
 ▪️▫️ 
 ![10-05_Lecture.pdf-page19](Images/pages/10-05_Lecture.pdf-page19.png "10-05_Lecture.pdf-page19")
 ▪️▫️ 
@@ -816,9 +816,9 @@
 ▪️▫️ 
 ![10-05_Lecture.pdf-page27](Images/pages/10-05_Lecture.pdf-page27.png "10-05_Lecture.pdf-page27")
 ▪️▫️ 
-![10-05_Lecture.pdf-page4](Images/pages/10-05_Lecture.pdf-page4.png "10-05_Lecture.pdf-page4")
-▪️▫️ 
 ![10-05_Lecture.pdf-page3](Images/pages/10-05_Lecture.pdf-page3.png "10-05_Lecture.pdf-page3")
+▪️▫️ 
+![10-05_Lecture.pdf-page4](Images/pages/10-05_Lecture.pdf-page4.png "10-05_Lecture.pdf-page4")
 ▪️▫️ 
 ![10-05_Lecture.pdf-page5](Images/pages/10-05_Lecture.pdf-page5.png "10-05_Lecture.pdf-page5")
 ▪️▫️ 
@@ -832,9 +832,9 @@
 ▪️▫️ 
 ![10-05_Lecture.pdf-page9](Images/pages/10-05_Lecture.pdf-page9.png "10-05_Lecture.pdf-page9")
 ▪️▫️ 
-![10-10_Lecture.pdf-page1](Images/pages/10-10_Lecture.pdf-page1.png "10-10_Lecture.pdf-page1")
-▪️▫️ 
 ![10-10_Lecture.pdf-page10](Images/pages/10-10_Lecture.pdf-page10.png "10-10_Lecture.pdf-page10")
+▪️▫️ 
+![10-10_Lecture.pdf-page1](Images/pages/10-10_Lecture.pdf-page1.png "10-10_Lecture.pdf-page1")
 ▪️▫️ 
 ![10-10_Lecture.pdf-page11](Images/pages/10-10_Lecture.pdf-page11.png "10-10_Lecture.pdf-page11")
 ▪️▫️ 
@@ -850,9 +850,9 @@
 ▪️▫️ 
 ![10-10_Lecture.pdf-page17](Images/pages/10-10_Lecture.pdf-page17.png "10-10_Lecture.pdf-page17")
 ▪️▫️ 
-![10-10_Lecture.pdf-page18](Images/pages/10-10_Lecture.pdf-page18.png "10-10_Lecture.pdf-page18")
-▪️▫️ 
 ![10-10_Lecture.pdf-page19](Images/pages/10-10_Lecture.pdf-page19.png "10-10_Lecture.pdf-page19")
+▪️▫️ 
+![10-10_Lecture.pdf-page18](Images/pages/10-10_Lecture.pdf-page18.png "10-10_Lecture.pdf-page18")
 ▪️▫️ 
 ![10-10_Lecture.pdf-page2](Images/pages/10-10_Lecture.pdf-page2.png "10-10_Lecture.pdf-page2")
 ▪️▫️ 
@@ -866,9 +866,9 @@
 ▪️▫️ 
 ![10-10_Lecture.pdf-page24](Images/pages/10-10_Lecture.pdf-page24.png "10-10_Lecture.pdf-page24")
 ▪️▫️ 
-![10-10_Lecture.pdf-page25](Images/pages/10-10_Lecture.pdf-page25.png "10-10_Lecture.pdf-page25")
-▪️▫️ 
 ![10-10_Lecture.pdf-page26](Images/pages/10-10_Lecture.pdf-page26.png "10-10_Lecture.pdf-page26")
+▪️▫️ 
+![10-10_Lecture.pdf-page25](Images/pages/10-10_Lecture.pdf-page25.png "10-10_Lecture.pdf-page25")
 ▪️▫️ 
 ![10-10_Lecture.pdf-page27](Images/pages/10-10_Lecture.pdf-page27.png "10-10_Lecture.pdf-page27")
 ▪️▫️ 
@@ -880,11 +880,11 @@
 ▪️▫️ 
 ![10-10_Lecture.pdf-page30](Images/pages/10-10_Lecture.pdf-page30.png "10-10_Lecture.pdf-page30")
 ▪️▫️ 
+![10-10_Lecture.pdf-page33](Images/pages/10-10_Lecture.pdf-page33.png "10-10_Lecture.pdf-page33")
+▪️▫️ 
 ![10-10_Lecture.pdf-page32](Images/pages/10-10_Lecture.pdf-page32.png "10-10_Lecture.pdf-page32")
 ▪️▫️ 
 ![10-10_Lecture.pdf-page31](Images/pages/10-10_Lecture.pdf-page31.png "10-10_Lecture.pdf-page31")
-▪️▫️ 
-![10-10_Lecture.pdf-page33](Images/pages/10-10_Lecture.pdf-page33.png "10-10_Lecture.pdf-page33")
 ▪️▫️ 
 ![10-10_Lecture.pdf-page34](Images/pages/10-10_Lecture.pdf-page34.png "10-10_Lecture.pdf-page34")
 ▪️▫️ 
@@ -896,9 +896,9 @@
 ▪️▫️ 
 ![10-10_Lecture.pdf-page39](Images/pages/10-10_Lecture.pdf-page39.png "10-10_Lecture.pdf-page39")
 ▪️▫️ 
-![10-10_Lecture.pdf-page38](Images/pages/10-10_Lecture.pdf-page38.png "10-10_Lecture.pdf-page38")
-▪️▫️ 
 ![10-10_Lecture.pdf-page4](Images/pages/10-10_Lecture.pdf-page4.png "10-10_Lecture.pdf-page4")
+▪️▫️ 
+![10-10_Lecture.pdf-page38](Images/pages/10-10_Lecture.pdf-page38.png "10-10_Lecture.pdf-page38")
 ▪️▫️ 
 ![10-10_Lecture.pdf-page40](Images/pages/10-10_Lecture.pdf-page40.png "10-10_Lecture.pdf-page40")
 ▪️▫️ 
@@ -982,21 +982,21 @@
 ▪️▫️ 
 ![10-17_Lecture.pdf-page10](Images/pages/10-17_Lecture.pdf-page10.png "10-17_Lecture.pdf-page10")
 ▪️▫️ 
-![10-17_Lecture.pdf-page11](Images/pages/10-17_Lecture.pdf-page11.png "10-17_Lecture.pdf-page11")
-▪️▫️ 
 ![10-17_Lecture.pdf-page12](Images/pages/10-17_Lecture.pdf-page12.png "10-17_Lecture.pdf-page12")
 ▪️▫️ 
-![10-17_Lecture.pdf-page13](Images/pages/10-17_Lecture.pdf-page13.png "10-17_Lecture.pdf-page13")
+![10-17_Lecture.pdf-page11](Images/pages/10-17_Lecture.pdf-page11.png "10-17_Lecture.pdf-page11")
 ▪️▫️ 
 ![10-17_Lecture.pdf-page15](Images/pages/10-17_Lecture.pdf-page15.png "10-17_Lecture.pdf-page15")
 ▪️▫️ 
 ![10-17_Lecture.pdf-page14](Images/pages/10-17_Lecture.pdf-page14.png "10-17_Lecture.pdf-page14")
 ▪️▫️ 
-![10-17_Lecture.pdf-page16](Images/pages/10-17_Lecture.pdf-page16.png "10-17_Lecture.pdf-page16")
+![10-17_Lecture.pdf-page13](Images/pages/10-17_Lecture.pdf-page13.png "10-17_Lecture.pdf-page13")
 ▪️▫️ 
 ![10-17_Lecture.pdf-page17](Images/pages/10-17_Lecture.pdf-page17.png "10-17_Lecture.pdf-page17")
 ▪️▫️ 
 ![10-17_Lecture.pdf-page18](Images/pages/10-17_Lecture.pdf-page18.png "10-17_Lecture.pdf-page18")
+▪️▫️ 
+![10-17_Lecture.pdf-page16](Images/pages/10-17_Lecture.pdf-page16.png "10-17_Lecture.pdf-page16")
 ▪️▫️ 
 ![10-17_Lecture.pdf-page19](Images/pages/10-17_Lecture.pdf-page19.png "10-17_Lecture.pdf-page19")
 ▪️▫️ 
@@ -1016,11 +1016,11 @@
 ▪️▫️ 
 ![10-17_Lecture.pdf-page26](Images/pages/10-17_Lecture.pdf-page26.png "10-17_Lecture.pdf-page26")
 ▪️▫️ 
+![10-17_Lecture.pdf-page29](Images/pages/10-17_Lecture.pdf-page29.png "10-17_Lecture.pdf-page29")
+▪️▫️ 
 ![10-17_Lecture.pdf-page27](Images/pages/10-17_Lecture.pdf-page27.png "10-17_Lecture.pdf-page27")
 ▪️▫️ 
 ![10-17_Lecture.pdf-page28](Images/pages/10-17_Lecture.pdf-page28.png "10-17_Lecture.pdf-page28")
-▪️▫️ 
-![10-17_Lecture.pdf-page29](Images/pages/10-17_Lecture.pdf-page29.png "10-17_Lecture.pdf-page29")
 ▪️▫️ 
 ![10-17_Lecture.pdf-page3](Images/pages/10-17_Lecture.pdf-page3.png "10-17_Lecture.pdf-page3")
 ▪️▫️ 
@@ -1038,21 +1038,21 @@
 ▪️▫️ 
 ![10-17_Lecture.pdf-page9](Images/pages/10-17_Lecture.pdf-page9.png "10-17_Lecture.pdf-page9")
 ▪️▫️ 
+![10-19_Lecture.pdf-page11](Images/pages/10-19_Lecture.pdf-page11.png "10-19_Lecture.pdf-page11")
+▪️▫️ 
 ![10-19_Lecture.pdf-page10](Images/pages/10-19_Lecture.pdf-page10.png "10-19_Lecture.pdf-page10")
 ▪️▫️ 
 ![10-19_Lecture.pdf-page1](Images/pages/10-19_Lecture.pdf-page1.png "10-19_Lecture.pdf-page1")
 ▪️▫️ 
 ![10-19_Lecture.pdf-page0](Images/pages/10-19_Lecture.pdf-page0.png "10-19_Lecture.pdf-page0")
 ▪️▫️ 
-![10-19_Lecture.pdf-page11](Images/pages/10-19_Lecture.pdf-page11.png "10-19_Lecture.pdf-page11")
-▪️▫️ 
 ![10-19_Lecture.pdf-page12](Images/pages/10-19_Lecture.pdf-page12.png "10-19_Lecture.pdf-page12")
 ▪️▫️ 
 ![10-19_Lecture.pdf-page13](Images/pages/10-19_Lecture.pdf-page13.png "10-19_Lecture.pdf-page13")
 ▪️▫️ 
-![10-19_Lecture.pdf-page14](Images/pages/10-19_Lecture.pdf-page14.png "10-19_Lecture.pdf-page14")
-▪️▫️ 
 ![10-19_Lecture.pdf-page15](Images/pages/10-19_Lecture.pdf-page15.png "10-19_Lecture.pdf-page15")
+▪️▫️ 
+![10-19_Lecture.pdf-page14](Images/pages/10-19_Lecture.pdf-page14.png "10-19_Lecture.pdf-page14")
 ▪️▫️ 
 ![10-19_Lecture.pdf-page16](Images/pages/10-19_Lecture.pdf-page16.png "10-19_Lecture.pdf-page16")
 ▪️▫️ 
@@ -1106,13 +1106,13 @@
 ▪️▫️ 
 ![10-19_Lecture.pdf-page38](Images/pages/10-19_Lecture.pdf-page38.png "10-19_Lecture.pdf-page38")
 ▪️▫️ 
+![10-19_Lecture.pdf-page6](Images/pages/10-19_Lecture.pdf-page6.png "10-19_Lecture.pdf-page6")
+▪️▫️ 
 ![10-19_Lecture.pdf-page4](Images/pages/10-19_Lecture.pdf-page4.png "10-19_Lecture.pdf-page4")
 ▪️▫️ 
 ![10-19_Lecture.pdf-page40](Images/pages/10-19_Lecture.pdf-page40.png "10-19_Lecture.pdf-page40")
 ▪️▫️ 
 ![10-19_Lecture.pdf-page5](Images/pages/10-19_Lecture.pdf-page5.png "10-19_Lecture.pdf-page5")
-▪️▫️ 
-![10-19_Lecture.pdf-page6](Images/pages/10-19_Lecture.pdf-page6.png "10-19_Lecture.pdf-page6")
 ▪️▫️ 
 ![10-19_Lecture.pdf-page7](Images/pages/10-19_Lecture.pdf-page7.png "10-19_Lecture.pdf-page7")
 ▪️▫️ 
@@ -1194,11 +1194,11 @@
 ▪️▫️ 
 ![10-24_Lecture.pdf-page27](Images/pages/10-24_Lecture.pdf-page27.png "10-24_Lecture.pdf-page27")
 ▪️▫️ 
-![10-24_Lecture.pdf-page28](Images/pages/10-24_Lecture.pdf-page28.png "10-24_Lecture.pdf-page28")
-▪️▫️ 
 ![10-24_Lecture.pdf-page3](Images/pages/10-24_Lecture.pdf-page3.png "10-24_Lecture.pdf-page3")
 ▪️▫️ 
 ![10-24_Lecture.pdf-page29](Images/pages/10-24_Lecture.pdf-page29.png "10-24_Lecture.pdf-page29")
+▪️▫️ 
+![10-24_Lecture.pdf-page28](Images/pages/10-24_Lecture.pdf-page28.png "10-24_Lecture.pdf-page28")
 ▪️▫️ 
 ![10-24_Lecture.pdf-page31](Images/pages/10-24_Lecture.pdf-page31.png "10-24_Lecture.pdf-page31")
 ▪️▫️ 
@@ -1246,9 +1246,9 @@
 ▪️▫️ 
 ![10-26_Lecture.pdf-page17](Images/pages/10-26_Lecture.pdf-page17.png "10-26_Lecture.pdf-page17")
 ▪️▫️ 
-![10-26_Lecture.pdf-page2](Images/pages/10-26_Lecture.pdf-page2.png "10-26_Lecture.pdf-page2")
-▪️▫️ 
 ![10-26_Lecture.pdf-page19](Images/pages/10-26_Lecture.pdf-page19.png "10-26_Lecture.pdf-page19")
+▪️▫️ 
+![10-26_Lecture.pdf-page2](Images/pages/10-26_Lecture.pdf-page2.png "10-26_Lecture.pdf-page2")
 ▪️▫️ 
 ![10-26_Lecture.pdf-page20](Images/pages/10-26_Lecture.pdf-page20.png "10-26_Lecture.pdf-page20")
 ▪️▫️ 
@@ -1280,17 +1280,17 @@
 ▪️▫️ 
 ![10-26_Lecture.pdf-page5](Images/pages/10-26_Lecture.pdf-page5.png "10-26_Lecture.pdf-page5")
 ▪️▫️ 
-![10-26_Lecture.pdf-page6](Images/pages/10-26_Lecture.pdf-page6.png "10-26_Lecture.pdf-page6")
-▪️▫️ 
 ![10-26_Lecture.pdf-page7](Images/pages/10-26_Lecture.pdf-page7.png "10-26_Lecture.pdf-page7")
 ▪️▫️ 
-![10-26_Lecture.pdf-page9](Images/pages/10-26_Lecture.pdf-page9.png "10-26_Lecture.pdf-page9")
+![10-26_Lecture.pdf-page6](Images/pages/10-26_Lecture.pdf-page6.png "10-26_Lecture.pdf-page6")
 ▪️▫️ 
 ![10-26_Lecture.pdf-page8](Images/pages/10-26_Lecture.pdf-page8.png "10-26_Lecture.pdf-page8")
 ▪️▫️ 
-![10-31_Lecture.pdf-page0](Images/pages/10-31_Lecture.pdf-page0.png "10-31_Lecture.pdf-page0")
+![10-26_Lecture.pdf-page9](Images/pages/10-26_Lecture.pdf-page9.png "10-26_Lecture.pdf-page9")
 ▪️▫️ 
 ![10-31_Lecture.pdf-page10](Images/pages/10-31_Lecture.pdf-page10.png "10-31_Lecture.pdf-page10")
+▪️▫️ 
+![10-31_Lecture.pdf-page0](Images/pages/10-31_Lecture.pdf-page0.png "10-31_Lecture.pdf-page0")
 ▪️▫️ 
 ![10-31_Lecture.pdf-page1](Images/pages/10-31_Lecture.pdf-page1.png "10-31_Lecture.pdf-page1")
 ▪️▫️ 
@@ -1330,9 +1330,9 @@
 ▪️▫️ 
 ![10-31_Lecture.pdf-page27](Images/pages/10-31_Lecture.pdf-page27.png "10-31_Lecture.pdf-page27")
 ▪️▫️ 
-![10-31_Lecture.pdf-page28](Images/pages/10-31_Lecture.pdf-page28.png "10-31_Lecture.pdf-page28")
-▪️▫️ 
 ![10-31_Lecture.pdf-page29](Images/pages/10-31_Lecture.pdf-page29.png "10-31_Lecture.pdf-page29")
+▪️▫️ 
+![10-31_Lecture.pdf-page28](Images/pages/10-31_Lecture.pdf-page28.png "10-31_Lecture.pdf-page28")
 ▪️▫️ 
 ![10-31_Lecture.pdf-page3](Images/pages/10-31_Lecture.pdf-page3.png "10-31_Lecture.pdf-page3")
 ▪️▫️ 
@@ -1366,11 +1366,11 @@
 ▪️▫️ 
 ![11-02_Lecture.pdf-page0](Images/pages/11-02_Lecture.pdf-page0.png "11-02_Lecture.pdf-page0")
 ▪️▫️ 
+![11-02_Lecture.pdf-page1](Images/pages/11-02_Lecture.pdf-page1.png "11-02_Lecture.pdf-page1")
+▪️▫️ 
 ![11-02_Lecture.pdf-page10](Images/pages/11-02_Lecture.pdf-page10.png "11-02_Lecture.pdf-page10")
 ▪️▫️ 
 ![11-02_Lecture.pdf-page11](Images/pages/11-02_Lecture.pdf-page11.png "11-02_Lecture.pdf-page11")
-▪️▫️ 
-![11-02_Lecture.pdf-page1](Images/pages/11-02_Lecture.pdf-page1.png "11-02_Lecture.pdf-page1")
 ▪️▫️ 
 ![11-02_Lecture.pdf-page12](Images/pages/11-02_Lecture.pdf-page12.png "11-02_Lecture.pdf-page12")
 ▪️▫️ 
@@ -1380,11 +1380,11 @@
 ▪️▫️ 
 ![11-02_Lecture.pdf-page15](Images/pages/11-02_Lecture.pdf-page15.png "11-02_Lecture.pdf-page15")
 ▪️▫️ 
-![11-02_Lecture.pdf-page18](Images/pages/11-02_Lecture.pdf-page18.png "11-02_Lecture.pdf-page18")
-▪️▫️ 
 ![11-02_Lecture.pdf-page16](Images/pages/11-02_Lecture.pdf-page16.png "11-02_Lecture.pdf-page16")
 ▪️▫️ 
 ![11-02_Lecture.pdf-page17](Images/pages/11-02_Lecture.pdf-page17.png "11-02_Lecture.pdf-page17")
+▪️▫️ 
+![11-02_Lecture.pdf-page18](Images/pages/11-02_Lecture.pdf-page18.png "11-02_Lecture.pdf-page18")
 ▪️▫️ 
 ![11-02_Lecture.pdf-page19](Images/pages/11-02_Lecture.pdf-page19.png "11-02_Lecture.pdf-page19")
 ▪️▫️ 
@@ -1396,39 +1396,39 @@
 ▪️▫️ 
 ![11-02_Lecture.pdf-page20](Images/pages/11-02_Lecture.pdf-page20.png "11-02_Lecture.pdf-page20")
 ▪️▫️ 
+![11-02_Lecture.pdf-page3](Images/pages/11-02_Lecture.pdf-page3.png "11-02_Lecture.pdf-page3")
+▪️▫️ 
 ![11-02_Lecture.pdf-page24](Images/pages/11-02_Lecture.pdf-page24.png "11-02_Lecture.pdf-page24")
 ▪️▫️ 
 ![11-02_Lecture.pdf-page23](Images/pages/11-02_Lecture.pdf-page23.png "11-02_Lecture.pdf-page23")
 ▪️▫️ 
 ![11-02_Lecture.pdf-page4](Images/pages/11-02_Lecture.pdf-page4.png "11-02_Lecture.pdf-page4")
 ▪️▫️ 
-![11-02_Lecture.pdf-page3](Images/pages/11-02_Lecture.pdf-page3.png "11-02_Lecture.pdf-page3")
-▪️▫️ 
 ![11-02_Lecture.pdf-page5](Images/pages/11-02_Lecture.pdf-page5.png "11-02_Lecture.pdf-page5")
+▪️▫️ 
+![11-02_Lecture.pdf-page7](Images/pages/11-02_Lecture.pdf-page7.png "11-02_Lecture.pdf-page7")
 ▪️▫️ 
 ![11-02_Lecture.pdf-page6](Images/pages/11-02_Lecture.pdf-page6.png "11-02_Lecture.pdf-page6")
 ▪️▫️ 
 ![11-02_Lecture.pdf-page8](Images/pages/11-02_Lecture.pdf-page8.png "11-02_Lecture.pdf-page8")
 ▪️▫️ 
-![11-02_Lecture.pdf-page7](Images/pages/11-02_Lecture.pdf-page7.png "11-02_Lecture.pdf-page7")
-▪️▫️ 
 ![11-02_Lecture.pdf-page9](Images/pages/11-02_Lecture.pdf-page9.png "11-02_Lecture.pdf-page9")
 ▪️▫️ 
 ![11-14_Lecture.pdf-page1](Images/pages/11-14_Lecture.pdf-page1.png "11-14_Lecture.pdf-page1")
 ▪️▫️ 
-![11-14_Lecture.pdf-page0](Images/pages/11-14_Lecture.pdf-page0.png "11-14_Lecture.pdf-page0")
-▪️▫️ 
-![11-14_Lecture.pdf-page13](Images/pages/11-14_Lecture.pdf-page13.png "11-14_Lecture.pdf-page13")
-▪️▫️ 
 ![11-14_Lecture.pdf-page10](Images/pages/11-14_Lecture.pdf-page10.png "11-14_Lecture.pdf-page10")
 ▪️▫️ 
-![11-14_Lecture.pdf-page12](Images/pages/11-14_Lecture.pdf-page12.png "11-14_Lecture.pdf-page12")
-▪️▫️ 
-![11-14_Lecture.pdf-page11](Images/pages/11-14_Lecture.pdf-page11.png "11-14_Lecture.pdf-page11")
+![11-14_Lecture.pdf-page0](Images/pages/11-14_Lecture.pdf-page0.png "11-14_Lecture.pdf-page0")
 ▪️▫️ 
 ![11-14_Lecture.pdf-page15](Images/pages/11-14_Lecture.pdf-page15.png "11-14_Lecture.pdf-page15")
 ▪️▫️ 
+![11-14_Lecture.pdf-page13](Images/pages/11-14_Lecture.pdf-page13.png "11-14_Lecture.pdf-page13")
+▪️▫️ 
+![11-14_Lecture.pdf-page12](Images/pages/11-14_Lecture.pdf-page12.png "11-14_Lecture.pdf-page12")
+▪️▫️ 
 ![11-14_Lecture.pdf-page14](Images/pages/11-14_Lecture.pdf-page14.png "11-14_Lecture.pdf-page14")
+▪️▫️ 
+![11-14_Lecture.pdf-page11](Images/pages/11-14_Lecture.pdf-page11.png "11-14_Lecture.pdf-page11")
 ▪️▫️ 
 ![11-14_Lecture.pdf-page16](Images/pages/11-14_Lecture.pdf-page16.png "11-14_Lecture.pdf-page16")
 ▪️▫️ 
@@ -1438,17 +1438,17 @@
 ▪️▫️ 
 ![11-14_Lecture.pdf-page19](Images/pages/11-14_Lecture.pdf-page19.png "11-14_Lecture.pdf-page19")
 ▪️▫️ 
+![11-14_Lecture.pdf-page21](Images/pages/11-14_Lecture.pdf-page21.png "11-14_Lecture.pdf-page21")
+▪️▫️ 
 ![11-14_Lecture.pdf-page2](Images/pages/11-14_Lecture.pdf-page2.png "11-14_Lecture.pdf-page2")
 ▪️▫️ 
 ![11-14_Lecture.pdf-page20](Images/pages/11-14_Lecture.pdf-page20.png "11-14_Lecture.pdf-page20")
 ▪️▫️ 
-![11-14_Lecture.pdf-page23](Images/pages/11-14_Lecture.pdf-page23.png "11-14_Lecture.pdf-page23")
-▪️▫️ 
-![11-14_Lecture.pdf-page21](Images/pages/11-14_Lecture.pdf-page21.png "11-14_Lecture.pdf-page21")
-▪️▫️ 
 ![11-14_Lecture.pdf-page22](Images/pages/11-14_Lecture.pdf-page22.png "11-14_Lecture.pdf-page22")
 ▪️▫️ 
 ![11-14_Lecture.pdf-page25](Images/pages/11-14_Lecture.pdf-page25.png "11-14_Lecture.pdf-page25")
+▪️▫️ 
+![11-14_Lecture.pdf-page23](Images/pages/11-14_Lecture.pdf-page23.png "11-14_Lecture.pdf-page23")
 ▪️▫️ 
 ![11-14_Lecture.pdf-page24](Images/pages/11-14_Lecture.pdf-page24.png "11-14_Lecture.pdf-page24")
 ▪️▫️ 
@@ -1492,9 +1492,9 @@
 ▪️▫️ 
 ![11-16_Lecture.pdf-page16](Images/pages/11-16_Lecture.pdf-page16.png "11-16_Lecture.pdf-page16")
 ▪️▫️ 
-![11-16_Lecture.pdf-page18](Images/pages/11-16_Lecture.pdf-page18.png "11-16_Lecture.pdf-page18")
-▪️▫️ 
 ![11-16_Lecture.pdf-page19](Images/pages/11-16_Lecture.pdf-page19.png "11-16_Lecture.pdf-page19")
+▪️▫️ 
+![11-16_Lecture.pdf-page18](Images/pages/11-16_Lecture.pdf-page18.png "11-16_Lecture.pdf-page18")
 ▪️▫️ 
 ![11-16_Lecture.pdf-page2](Images/pages/11-16_Lecture.pdf-page2.png "11-16_Lecture.pdf-page2")
 ▪️▫️ 
@@ -1502,15 +1502,15 @@
 ▪️▫️ 
 ![11-16_Lecture.pdf-page21](Images/pages/11-16_Lecture.pdf-page21.png "11-16_Lecture.pdf-page21")
 ▪️▫️ 
-![11-16_Lecture.pdf-page22](Images/pages/11-16_Lecture.pdf-page22.png "11-16_Lecture.pdf-page22")
-▪️▫️ 
 ![11-16_Lecture.pdf-page23](Images/pages/11-16_Lecture.pdf-page23.png "11-16_Lecture.pdf-page23")
+▪️▫️ 
+![11-16_Lecture.pdf-page22](Images/pages/11-16_Lecture.pdf-page22.png "11-16_Lecture.pdf-page22")
 ▪️▫️ 
 ![11-16_Lecture.pdf-page24](Images/pages/11-16_Lecture.pdf-page24.png "11-16_Lecture.pdf-page24")
 ▪️▫️ 
-![11-16_Lecture.pdf-page26](Images/pages/11-16_Lecture.pdf-page26.png "11-16_Lecture.pdf-page26")
-▪️▫️ 
 ![11-16_Lecture.pdf-page25](Images/pages/11-16_Lecture.pdf-page25.png "11-16_Lecture.pdf-page25")
+▪️▫️ 
+![11-16_Lecture.pdf-page26](Images/pages/11-16_Lecture.pdf-page26.png "11-16_Lecture.pdf-page26")
 ▪️▫️ 
 ![11-16_Lecture.pdf-page27](Images/pages/11-16_Lecture.pdf-page27.png "11-16_Lecture.pdf-page27")
 ▪️▫️ 
@@ -1524,9 +1524,9 @@
 ▪️▫️ 
 ![11-16_Lecture.pdf-page31](Images/pages/11-16_Lecture.pdf-page31.png "11-16_Lecture.pdf-page31")
 ▪️▫️ 
-![11-16_Lecture.pdf-page33](Images/pages/11-16_Lecture.pdf-page33.png "11-16_Lecture.pdf-page33")
-▪️▫️ 
 ![11-16_Lecture.pdf-page32](Images/pages/11-16_Lecture.pdf-page32.png "11-16_Lecture.pdf-page32")
+▪️▫️ 
+![11-16_Lecture.pdf-page33](Images/pages/11-16_Lecture.pdf-page33.png "11-16_Lecture.pdf-page33")
 ▪️▫️ 
 ![11-16_Lecture.pdf-page34](Images/pages/11-16_Lecture.pdf-page34.png "11-16_Lecture.pdf-page34")
 ▪️▫️ 
@@ -1534,9 +1534,9 @@
 ▪️▫️ 
 ![11-16_Lecture.pdf-page36](Images/pages/11-16_Lecture.pdf-page36.png "11-16_Lecture.pdf-page36")
 ▪️▫️ 
-![11-16_Lecture.pdf-page4](Images/pages/11-16_Lecture.pdf-page4.png "11-16_Lecture.pdf-page4")
-▪️▫️ 
 ![11-16_Lecture.pdf-page37](Images/pages/11-16_Lecture.pdf-page37.png "11-16_Lecture.pdf-page37")
+▪️▫️ 
+![11-16_Lecture.pdf-page4](Images/pages/11-16_Lecture.pdf-page4.png "11-16_Lecture.pdf-page4")
 ▪️▫️ 
 ![11-16_Lecture.pdf-page5](Images/pages/11-16_Lecture.pdf-page5.png "11-16_Lecture.pdf-page5")
 ▪️▫️ 
@@ -1548,9 +1548,9 @@
 ▪️▫️ 
 ![11-16_Lecture.pdf-page9](Images/pages/11-16_Lecture.pdf-page9.png "11-16_Lecture.pdf-page9")
 ▪️▫️ 
-![11-21_Lecture.pdf-page1](Images/pages/11-21_Lecture.pdf-page1.png "11-21_Lecture.pdf-page1")
-▪️▫️ 
 ![11-21_Lecture.pdf-page0](Images/pages/11-21_Lecture.pdf-page0.png "11-21_Lecture.pdf-page0")
+▪️▫️ 
+![11-21_Lecture.pdf-page1](Images/pages/11-21_Lecture.pdf-page1.png "11-21_Lecture.pdf-page1")
 ▪️▫️ 
 ![11-21_Lecture.pdf-page10](Images/pages/11-21_Lecture.pdf-page10.png "11-21_Lecture.pdf-page10")
 ▪️▫️ 
@@ -1600,9 +1600,9 @@
 ▪️▫️ 
 ![11-21_Lecture.pdf-page31](Images/pages/11-21_Lecture.pdf-page31.png "11-21_Lecture.pdf-page31")
 ▪️▫️ 
-![11-21_Lecture.pdf-page32](Images/pages/11-21_Lecture.pdf-page32.png "11-21_Lecture.pdf-page32")
-▪️▫️ 
 ![11-21_Lecture.pdf-page34](Images/pages/11-21_Lecture.pdf-page34.png "11-21_Lecture.pdf-page34")
+▪️▫️ 
+![11-21_Lecture.pdf-page32](Images/pages/11-21_Lecture.pdf-page32.png "11-21_Lecture.pdf-page32")
 ▪️▫️ 
 ![11-21_Lecture.pdf-page33](Images/pages/11-21_Lecture.pdf-page33.png "11-21_Lecture.pdf-page33")
 ▪️▫️ 
@@ -1648,9 +1648,9 @@
 ▪️▫️ 
 ![11-28_Lecture.pdf-page20](Images/pages/11-28_Lecture.pdf-page20.png "11-28_Lecture.pdf-page20")
 ▪️▫️ 
-![11-28_Lecture.pdf-page22](Images/pages/11-28_Lecture.pdf-page22.png "11-28_Lecture.pdf-page22")
-▪️▫️ 
 ![11-28_Lecture.pdf-page21](Images/pages/11-28_Lecture.pdf-page21.png "11-28_Lecture.pdf-page21")
+▪️▫️ 
+![11-28_Lecture.pdf-page22](Images/pages/11-28_Lecture.pdf-page22.png "11-28_Lecture.pdf-page22")
 ▪️▫️ 
 ![11-28_Lecture.pdf-page23](Images/pages/11-28_Lecture.pdf-page23.png "11-28_Lecture.pdf-page23")
 ▪️▫️ 
@@ -1688,11 +1688,11 @@
 ▪️▫️ 
 ![11-30_Lecture.pdf-page12](Images/pages/11-30_Lecture.pdf-page12.png "11-30_Lecture.pdf-page12")
 ▪️▫️ 
+![11-30_Lecture.pdf-page14](Images/pages/11-30_Lecture.pdf-page14.png "11-30_Lecture.pdf-page14")
+▪️▫️ 
 ![11-30_Lecture.pdf-page13](Images/pages/11-30_Lecture.pdf-page13.png "11-30_Lecture.pdf-page13")
 ▪️▫️ 
 ![11-30_Lecture.pdf-page15](Images/pages/11-30_Lecture.pdf-page15.png "11-30_Lecture.pdf-page15")
-▪️▫️ 
-![11-30_Lecture.pdf-page14](Images/pages/11-30_Lecture.pdf-page14.png "11-30_Lecture.pdf-page14")
 ▪️▫️ 
 ![11-30_Lecture.pdf-page16](Images/pages/11-30_Lecture.pdf-page16.png "11-30_Lecture.pdf-page16")
 ▪️▫️ 
@@ -1726,9 +1726,9 @@
 ▪️▫️ 
 ![11-30_Lecture.pdf-page29](Images/pages/11-30_Lecture.pdf-page29.png "11-30_Lecture.pdf-page29")
 ▪️▫️ 
-![11-30_Lecture.pdf-page30](Images/pages/11-30_Lecture.pdf-page30.png "11-30_Lecture.pdf-page30")
-▪️▫️ 
 ![11-30_Lecture.pdf-page31](Images/pages/11-30_Lecture.pdf-page31.png "11-30_Lecture.pdf-page31")
+▪️▫️ 
+![11-30_Lecture.pdf-page30](Images/pages/11-30_Lecture.pdf-page30.png "11-30_Lecture.pdf-page30")
 ▪️▫️ 
 ![11-30_Lecture.pdf-page32](Images/pages/11-30_Lecture.pdf-page32.png "11-30_Lecture.pdf-page32")
 ▪️▫️ 
@@ -1752,13 +1752,13 @@
 ▪️▫️ 
 ![11-30_Lecture.pdf-page41](Images/pages/11-30_Lecture.pdf-page41.png "11-30_Lecture.pdf-page41")
 ▪️▫️ 
+![11-30_Lecture.pdf-page42](Images/pages/11-30_Lecture.pdf-page42.png "11-30_Lecture.pdf-page42")
+▪️▫️ 
 ![11-30_Lecture.pdf-page5](Images/pages/11-30_Lecture.pdf-page5.png "11-30_Lecture.pdf-page5")
 ▪️▫️ 
 ![11-30_Lecture.pdf-page6](Images/pages/11-30_Lecture.pdf-page6.png "11-30_Lecture.pdf-page6")
 ▪️▫️ 
 ![11-30_Lecture.pdf-page7](Images/pages/11-30_Lecture.pdf-page7.png "11-30_Lecture.pdf-page7")
-▪️▫️ 
-![11-30_Lecture.pdf-page42](Images/pages/11-30_Lecture.pdf-page42.png "11-30_Lecture.pdf-page42")
 ▪️▫️ 
 ![11-30_Lecture.pdf-page8](Images/pages/11-30_Lecture.pdf-page8.png "11-30_Lecture.pdf-page8")
 ▪️▫️ 
@@ -1772,23 +1772,23 @@
 ▪️▫️ 
 ![CE112_Syllabus-Fall_2022.pdf-page0](Images/pages/CE112_Syllabus-Fall_2022.pdf-page0.png "CE112_Syllabus-Fall_2022.pdf-page0")
 ▪️▫️ 
-![CE112_Syllabus-Fall_2022.pdf-page2](Images/pages/CE112_Syllabus-Fall_2022.pdf-page2.png "CE112_Syllabus-Fall_2022.pdf-page2")
-▪️▫️ 
 ![CE112_Syllabus-Fall_2022.pdf-page1](Images/pages/CE112_Syllabus-Fall_2022.pdf-page1.png "CE112_Syllabus-Fall_2022.pdf-page1")
 ▪️▫️ 
 ![CE112_Syllabus-Fall_2022.pdf-page3](Images/pages/CE112_Syllabus-Fall_2022.pdf-page3.png "CE112_Syllabus-Fall_2022.pdf-page3")
 ▪️▫️ 
-![CE112_Syllabus-Fall_2022.pdf-page4](Images/pages/CE112_Syllabus-Fall_2022.pdf-page4.png "CE112_Syllabus-Fall_2022.pdf-page4")
+![CE112_Syllabus-Fall_2022.pdf-page2](Images/pages/CE112_Syllabus-Fall_2022.pdf-page2.png "CE112_Syllabus-Fall_2022.pdf-page2")
 ▪️▫️ 
 ![CE112_Syllabus-Fall_2022.pdf-page5](Images/pages/CE112_Syllabus-Fall_2022.pdf-page5.png "CE112_Syllabus-Fall_2022.pdf-page5")
+▪️▫️ 
+![CE112_Syllabus-Fall_2022.pdf-page4](Images/pages/CE112_Syllabus-Fall_2022.pdf-page4.png "CE112_Syllabus-Fall_2022.pdf-page4")
 ▪️▫️ 
 ![CE112_Syllabus-Fall_2022.pdf-page6](Images/pages/CE112_Syllabus-Fall_2022.pdf-page6.png "CE112_Syllabus-Fall_2022.pdf-page6")
 ▪️▫️ 
 ![CE112_Syllabus-Fall_2022.pdf-page7](Images/pages/CE112_Syllabus-Fall_2022.pdf-page7.png "CE112_Syllabus-Fall_2022.pdf-page7")
 ▪️▫️ 
-![CE112_Syllabus-Fall_2022_(1).pdf-page0](Images/pages/CE112_Syllabus-Fall_2022_(1).pdf-page0.png "CE112_Syllabus-Fall_2022_(1).pdf-page0")
-▪️▫️ 
 ![CE112_Syllabus-Fall_2022_(1).pdf-page1](Images/pages/CE112_Syllabus-Fall_2022_(1).pdf-page1.png "CE112_Syllabus-Fall_2022_(1).pdf-page1")
+▪️▫️ 
+![CE112_Syllabus-Fall_2022_(1).pdf-page0](Images/pages/CE112_Syllabus-Fall_2022_(1).pdf-page0.png "CE112_Syllabus-Fall_2022_(1).pdf-page0")
 ▪️▫️ 
 ![CE112_Syllabus-Fall_2022_(1).pdf-page3](Images/pages/CE112_Syllabus-Fall_2022_(1).pdf-page3.png "CE112_Syllabus-Fall_2022_(1).pdf-page3")
 ▪️▫️ 
@@ -1802,9 +1802,9 @@
 ▪️▫️ 
 ![CE112_Syllabus-Fall_2022_(1).pdf-page7](Images/pages/CE112_Syllabus-Fall_2022_(1).pdf-page7.png "CE112_Syllabus-Fall_2022_(1).pdf-page7")
 ▪️▫️ 
-![Lab_2_-_September_2.pdf-page1](Images/pages/Lab_2_-_September_2.pdf-page1.png "Lab_2_-_September_2.pdf-page1")
-▪️▫️ 
 ![Lab_2_-_September_2.pdf-page0](Images/pages/Lab_2_-_September_2.pdf-page0.png "Lab_2_-_September_2.pdf-page0")
+▪️▫️ 
+![Lab_2_-_September_2.pdf-page1](Images/pages/Lab_2_-_September_2.pdf-page1.png "Lab_2_-_September_2.pdf-page1")
 ▪️▫️ 
 ![Lab_2_-_September_2.pdf-page10](Images/pages/Lab_2_-_September_2.pdf-page10.png "Lab_2_-_September_2.pdf-page10")
 ▪️▫️ 
@@ -1812,13 +1812,13 @@
 ▪️▫️ 
 ![Lab_2_-_September_2.pdf-page12](Images/pages/Lab_2_-_September_2.pdf-page12.png "Lab_2_-_September_2.pdf-page12")
 ▪️▫️ 
-![Lab_2_-_September_2.pdf-page13](Images/pages/Lab_2_-_September_2.pdf-page13.png "Lab_2_-_September_2.pdf-page13")
-▪️▫️ 
 ![Lab_2_-_September_2.pdf-page15](Images/pages/Lab_2_-_September_2.pdf-page15.png "Lab_2_-_September_2.pdf-page15")
 ▪️▫️ 
 ![Lab_2_-_September_2.pdf-page16](Images/pages/Lab_2_-_September_2.pdf-page16.png "Lab_2_-_September_2.pdf-page16")
 ▪️▫️ 
 ![Lab_2_-_September_2.pdf-page14](Images/pages/Lab_2_-_September_2.pdf-page14.png "Lab_2_-_September_2.pdf-page14")
+▪️▫️ 
+![Lab_2_-_September_2.pdf-page13](Images/pages/Lab_2_-_September_2.pdf-page13.png "Lab_2_-_September_2.pdf-page13")
 ▪️▫️ 
 ![Lab_2_-_September_2.pdf-page2](Images/pages/Lab_2_-_September_2.pdf-page2.png "Lab_2_-_September_2.pdf-page2")
 ▪️▫️ 
@@ -1828,21 +1828,21 @@
 ▪️▫️ 
 ![Lab_2_-_September_2.pdf-page17](Images/pages/Lab_2_-_September_2.pdf-page17.png "Lab_2_-_September_2.pdf-page17")
 ▪️▫️ 
+![Lab_2_-_September_2.pdf-page21](Images/pages/Lab_2_-_September_2.pdf-page21.png "Lab_2_-_September_2.pdf-page21")
+▪️▫️ 
 ![Lab_2_-_September_2.pdf-page20](Images/pages/Lab_2_-_September_2.pdf-page20.png "Lab_2_-_September_2.pdf-page20")
 ▪️▫️ 
 ![Lab_2_-_September_2.pdf-page22](Images/pages/Lab_2_-_September_2.pdf-page22.png "Lab_2_-_September_2.pdf-page22")
 ▪️▫️ 
 ![Lab_2_-_September_2.pdf-page23](Images/pages/Lab_2_-_September_2.pdf-page23.png "Lab_2_-_September_2.pdf-page23")
 ▪️▫️ 
-![Lab_2_-_September_2.pdf-page21](Images/pages/Lab_2_-_September_2.pdf-page21.png "Lab_2_-_September_2.pdf-page21")
-▪️▫️ 
 ![Lab_2_-_September_2.pdf-page24](Images/pages/Lab_2_-_September_2.pdf-page24.png "Lab_2_-_September_2.pdf-page24")
-▪️▫️ 
-![Lab_2_-_September_2.pdf-page25](Images/pages/Lab_2_-_September_2.pdf-page25.png "Lab_2_-_September_2.pdf-page25")
 ▪️▫️ 
 ![Lab_2_-_September_2.pdf-page3](Images/pages/Lab_2_-_September_2.pdf-page3.png "Lab_2_-_September_2.pdf-page3")
 ▪️▫️ 
 ![Lab_2_-_September_2.pdf-page4](Images/pages/Lab_2_-_September_2.pdf-page4.png "Lab_2_-_September_2.pdf-page4")
+▪️▫️ 
+![Lab_2_-_September_2.pdf-page25](Images/pages/Lab_2_-_September_2.pdf-page25.png "Lab_2_-_September_2.pdf-page25")
 ▪️▫️ 
 ![Lab_2_-_September_2.pdf-page5](Images/pages/Lab_2_-_September_2.pdf-page5.png "Lab_2_-_September_2.pdf-page5")
 ▪️▫️ 

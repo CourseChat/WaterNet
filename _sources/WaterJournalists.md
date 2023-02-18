@@ -2,31 +2,46 @@
 - list by publication; list by name; provide links to stories
 ## Publications
 ### Water-Specific
-- [Maven's Notebook](https://mavensnotebook.com/)
+- [Maven's Notebook](https://mavensnotebook.com/) Summarizes daily water stories, provides links to original stories. Must-read.
    - Chris Austin (Maven) summarizes all jounalism on California water. Donate.
 - [Public News Service](https://www.publicnewsservice.org/news-water/C34)
   -  Suzanne Potter, Producer
 - [California Water Blog](https://californiawaterblog.com/)
+- [California Water News Daily](https://californiawaternewsdaily.com/)
+- [Pacific Institute.(https://pacinst.org/)]
+<hr color="yellow">
+- [Association of California Water Agencies](https://www.acwa.com/about/directory/)
+- [California Department of Water Resorces](https://water.ca.gov/news)
+- [US Geological Survey](https://www.usgs.gov/centers/california-water-science-center/news)
+- [California Water Environment Association](https://www.cwea.org/news/) Sanitation
+- [Public Policy Institute of California](https://www.ppic.org/water/)
+
 ### California
-- Los Angeles Times
+- [Los Angeles Times](https://www.latimes.com/topic/california-drought)
   - [RONG-GONG LIN II](https://www.latimes.com/people/rong-gong-lin-ii)
   - [GEORGE SKELTON](https://www.latimes.com/people/george-skelton)
-  -  IAN JAMES, DORANY PINEDA
-  - [CHARLES G. THOMPSON]()
+  - [IAN JAMES](https://www.latimes.com/people/ian-james)
+  - [DORANY PINEDA](https://www.latimes.com/people/dorany-pineda)
+  - [CHARLES G. THOMPSON](https://brevity.wordpress.com/2023/02/17/how-not-to-write-an-op-ed-or-errors-made-my-1st-time-out/)
   - [ANDREW FISHER] oped
   - [HAYLEY SMITH](https://www.latimes.com/people/hayley-smith)
   - [DORANY PINEDA](https://www.latimes.com/people/dorany-pineda)
   - [GABRIELLE LAMARR LEMEE](https://www.latimes.com/people/gabrielle-lamarr-lemee)
 
-- Sacramento Bee
-- San Francisco Chronicle
+- [Sacramento Bee](https://californiawaternewsdaily.com/)
+  -
+- [San Francisco Chronicle](https://www.sfchronicle.com/drought/)
 - San Jose Mercury
 ### United States
-- New York Times
+- [New York Times](https://www.nytimes.com/topic/subject/water)
   - [MIKE IVES]
+  - [Brian Gallagher](https://muckrack.com/brian-gallagher-9/articles)
+  - [Christopher Flavelle](https://www.nytimes.com/by/christopher-flavelle)
+  - [Raymond Zhong](https://www.nytimes.com/by/raymond-zhong)
+  - [Ivan Penn](https://www.nytimes.com/by/ivan-penn)
   - [ERICA GIES]
   - [RALPH VARTABEDIAN and METTE LAMPCOV]
-  - [ LISA FRIEDMAN]
+  - [LISA FRIEDMAN]
   - [JACK HEALY]
 - Washington Post
 - Wall Street Journal

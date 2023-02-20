@@ -140,7 +140,7 @@ parts:
        - file: 6-Financing_Water/Water and Wastewater Financing - Capital Financing
        - file: 6-Financing_Water/Finance problem set
 # Module 7
-  - caption: 7 Interdependence of Water and Energy-Can't Have One Without The Other
+  - caption: Module 7--Interdependence of Water and Energy-Can't Have One Without The Other
     numbered: False
     chapters:
     - file: 7-Interdependence/Water-Energy Nexus
@@ -171,7 +171,7 @@ parts:
     chapters:
     - file: intro.md
   # Module 9
-  - caption: 9 New Technologies--The System Comes Alive With AI
+  - caption: Module 9--New Technologies--The System Comes Alive With AI
     numbered: False
     chapters:
     - file: 9-New_Technologies/Sensors, Networks, and Real-Time Operations
@@ -186,19 +186,20 @@ parts:
     - file: intro-1a
     - file: GrabBag
   # Module 11
-  - caption: 11 Journalists, Politicians, Water Scientists, Engineers, Investors--Decide The Future
+  - caption: 11-Journalists, Politicians, Water Scientists, Engineers, Investors--Decide The Future
     numbered: False
     chapters: 
     - file: WaterJournalists
    # - file: testOne
     - file: test
     - file: mymarkdown
-  - caption: Major Reports
+  # Module 12: Important Reports
+  - caption: 12- Major Reports
     numbered: False
     chapters: 
-    - file: List of Reports
+    - file: 12-Important Reports/List of Reports.md
 # Module 0
-  - caption: Building the Computational Book
+  - caption: Module 0--Building the Computational Book
     numbered: False
     chapters:
     - file: A-Web_of_Resources/Computational_Book

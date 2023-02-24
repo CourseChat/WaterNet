@@ -170,7 +170,7 @@ parts:
     numbered: False
     chapters:
     - file: intro.md
-  # Module 9
+  # Module 9: Part B
   - caption: Module 9--New Technologies--The System Comes Alive With AI
     numbered: False
     chapters:

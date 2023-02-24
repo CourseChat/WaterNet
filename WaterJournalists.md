@@ -29,8 +29,9 @@
   - [GABRIELLE LAMARR LEMEE](https://www.latimes.com/people/gabrielle-lamarr-lemee)
 
 - [Sacramento Bee](https://californiawaternewsdaily.com/)
-  -
+  - a number of water specialists
 - [San Francisco Chronicle](https://www.sfchronicle.com/drought/)
+    - water specialists
 - San Jose Mercury
 ### United States
 - [New York Times](https://www.nytimes.com/topic/subject/water)

@@ -44,7 +44,7 @@
   - [RALPH VARTABEDIAN and METTE LAMPCOV]
   - [LISA FRIEDMAN]
   - [JACK HEALY]
-- Washington Post
+- [Washington Post](htts://washingtonpost.com)
 - Wall Street Journal
 - USA Today
 - Associated Press

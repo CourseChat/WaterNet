@@ -2,16 +2,18 @@
 # CE112 Water & Wastewater Systems Design and Operation 
 
 :::{note}
+In the spirit of making all EBMUD reports draw dynamic data from real-time data sources, examine today's water news from California: [California Water Reservoir Levels](https://engaging-data.com/ca-reservoir-dashboard/), and [today's news reports](./WaterJournalists.md). New scientific reports from Science, Nature, AWWA, and a wide spectrum of science and engineering sources, as well as major reports from the State of California, water and energy utilities and planning agencies are added weekly. Follow EBMUD, Metropolitan, LADWP, San Francisco PUC, Tokyo Municipal, and other leading water utilites in the world.
+:::
+
+:::{note}
 This JupyterBook has three parts. Part A recreates all presentations made in Fall, 2022 in Civil Engineering 112: _Water and Wastewater Systems Design and Operation_. Thirty senior engineers from EBMUD, in a close collaboration with UC Berkeley faculty, present the core engineering, planning, design, operation, and financial operation of a one-billion-dollar annual operating budget organization. EBMUD is responsible for continuous clean water supply to a million and a half person population in Northern California, and, in partnership with nine cities, treats wastewater for half that population. Through the UC Berkeley Center for Smart Infrastructure, it leads a state-wide coalition exploring innovations in rebuilding California's critical water infrastructure.
 :::
 
 :::{note}
-Part B expands this curriculum to add new real-time data science explorations of operating data. New methods explore research on water engineering: materials, construction, real-time water quality assesment, water reuse,  and water efficiency.  New management tools are built on ever-more comprehensive digital twins of the physical systems . Specifically, we build computational notebooks for each module to show data sources and actual computations for every numerical assertion. Goal: incorporate new tools of real-time data analysis to build responsive models of the operating plant as changes in weather, climate, and potential disasters affect it.  Document plans for rebuilding and reinstrumenting the plant for resilience and adaptation. Sections will analyze the financial, public health and community justice impact of rising sea level and groundwater tables, drought, and the engineering trade-offs of rebuilding critical water and power infrastructure. Recent extreme weather events lend urgency to the fundamental challenge: how to provide clean, healthy water and sanitation to everyone with justice, equal access, and an equitable sharing of costs and risks. 
+Part B expands this curriculum to add new real-time data science explorations of operating data. Computational methods explore research on water engineering: materials, construction, real-time water quality assesment, water reuse designs, and extensive water efficiency. Ever-more comprehensive digital twins of the physical systems allow new management tools, plans, and analysis. Specifically, we build computational notebooks for each class module to incorporate data sources and actual computations for every numerical assertion. Goal: develop new tools of real-time data analysis to interact with responsive models of the operating plant as changes in supply, demand, weather, climate, and potential disasters affect it.  Document plans for rebuilding and reinstrumenting the plant for resilience and adaptation. Sections will analyze the financial, public health and community justice impact of rising sea level and groundwater tables, drought, and the engineering trade-offs of rebuilding critical water and power infrastructure. Recent extreme weather events lend urgency to the fundamental challenge: how to provide clean, healthy water and sanitation to everyone with justice, equal access, and an equitable sharing of costs and risks. 
 :::
 
-:::{note}
-In the spirit of making all EBMUD reports draw dynamic data from real-time data sources, examine today's water news from California: [California Water Reservoir Levels](https://engaging-data.com/ca-reservoir-dashboard/), [today's news reports](./WaterJournalists.md), and new scientific reports from Science, Nature, AWWA, and a wide spectrum of science and engineering journalists. Major reports from Metropolitan, LADWP, San Francisco PUC, and other leading water utilites are added daily.
-:::
+
 
 Fall 2022 
  

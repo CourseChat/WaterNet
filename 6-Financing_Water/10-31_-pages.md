@@ -1,4 +1,4 @@
-# 10-31: Water and Wastewater Financing: Planniong
+# 10-31: Water and Wastewater Financing: Planning
 
 ![Page 0]( ../Images/pages/10-31_Lecture.pdf-page0.png )
 

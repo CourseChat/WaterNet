@@ -2,7 +2,7 @@
 # Developing Solutions through Innovation
 - 08-26 Katzev: Lab: sketch cycle
 - Developing Solutions through Innovation
-- https://bcourses.berkeley.edu/courses/1516536/files/folder/Module%200%20-%20Introduction?preview=83922086
+- https://bcourses.berkeley.edu/courses/1516536/files/folder/Module%200%20-%20Introduction?preview=83922086 target="_top"
 - Brainstorm: Lab 1
 - https://bcourses.berkeley.edu/courses/1516536/files/folder/Module%200%20-%20Introduction/Assignment%201?preview=83925028
 

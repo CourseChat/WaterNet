@@ -1,48 +1,59 @@
 
+
 <!DOCTYPE html>
 
-<html>
+
+<html lang="en" >
+
   <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.18.1: http://docutils.sourceforge.net/" />
 
     <title>Testing cell structure &#8212; Rebuilding Water Infrastructure--Lessons For The Next Century from a Major California Water Utility</title>
-    
+  
+  
+  
+  <script data-cfasync="false">
+    document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
+    document.documentElement.dataset.theme = localStorage.getItem("theme") || "light";
+  </script>
+  
   <!-- Loaded before other Sphinx assets -->
-  <link href="_static/styles/theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
-<link href="_static/styles/pydata-sphinx-theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
+  <link href="_static/styles/theme.css?digest=e353d410970836974a52" rel="stylesheet" />
+<link href="_static/styles/bootstrap.css?digest=e353d410970836974a52" rel="stylesheet" />
+<link href="_static/styles/pydata-sphinx-theme.css?digest=e353d410970836974a52" rel="stylesheet" />
 
-    
-  <link rel="stylesheet"
-    href="_static/vendor/fontawesome/5.13.0/css/all.min.css">
-  <link rel="preload" as="font" type="font/woff2" crossorigin
-    href="_static/vendor/fontawesome/5.13.0/webfonts/fa-solid-900.woff2">
-  <link rel="preload" as="font" type="font/woff2" crossorigin
-    href="_static/vendor/fontawesome/5.13.0/webfonts/fa-brands-400.woff2">
+  
+  <link href="_static/vendor/fontawesome/6.1.2/css/all.min.css?digest=e353d410970836974a52" rel="stylesheet" />
+  <link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.1.2/webfonts/fa-solid-900.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.1.2/webfonts/fa-brands-400.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="_static/vendor/fontawesome/6.1.2/webfonts/fa-regular-400.woff2" />
 
     <link rel="stylesheet" type="text/css" href="_static/pygments.css" />
-    <link rel="stylesheet" href="_static/styles/sphinx-book-theme.css?digest=5115cc725059bd94278eecd172e13a965bf8f5a9" type="text/css" />
+    <link rel="stylesheet" href="_static/styles/sphinx-book-theme.css?digest=14f4ca6b54d191a8c7657f6c759bf11a5fb86285" type="text/css" />
     <link rel="stylesheet" type="text/css" href="_static/togglebutton.css" />
     <link rel="stylesheet" type="text/css" href="_static/copybutton.css" />
-    <link rel="stylesheet" type="text/css" href="_static/mystnb.css" />
+    <link rel="stylesheet" type="text/css" href="_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css" />
     <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css" />
-    <link rel="stylesheet" type="text/css" href="_static/design-style.b7bb847fb20b106c3d81b95245e65545.min.css" />
-    
+    <link rel="stylesheet" type="text/css" href="_static/design-style.4045f2051d55cab465a707391d5b2007.min.css" />
+  
   <!-- Pre-loaded scripts that we'll load fully later -->
-  <link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=1999514e3f237ded88cf">
+  <link rel="preload" as="script" href="_static/scripts/bootstrap.js?digest=e353d410970836974a52" />
+<link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=e353d410970836974a52" />
 
     <script data-url_root="./" id="documentation_options" src="_static/documentation_options.js"></script>
     <script src="_static/jquery.js"></script>
     <script src="_static/underscore.js"></script>
+    <script src="_static/_sphinx_javascript_frameworks_compat.js"></script>
     <script src="_static/doctools.js"></script>
     <script src="_static/clipboard.min.js"></script>
     <script src="_static/copybutton.js"></script>
-    <script src="_static/scripts/sphinx-book-theme.js?digest=9c920249402e914e316237a7dbc6769907cce411"></script>
+    <script src="_static/scripts/sphinx-book-theme.js?digest=5a5c038af52cf7bc1a1ec88eea08e6366ee68824"></script>
     <script>let toggleHintShow = 'Click to show';</script>
     <script>let toggleHintHide = 'Click to hide';</script>
     <script>let toggleOpenOnPrint = 'true';</script>
     <script src="_static/togglebutton.js"></script>
-    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown, .tag_hide_input div.cell_input, .tag_hide-input div.cell_input, .tag_hide_output div.cell_output, .tag_hide-output div.cell_output, .tag_hide_cell.cell, .tag_hide-cell.cell';</script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
     <script src="_static/design-tabs.js"></script>
     <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"
 const thebe_selector = ".thebe,.cell"
@@ -50,61 +61,93 @@ const thebe_selector_input = "pre"
 const thebe_selector_output = ".output, .cell_output"
 </script>
     <script async="async" src="_static/sphinx-thebe.js"></script>
+    <script>DOCUMENTATION_OPTIONS.pagename = 'dead';</script>
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
     <link rel="next" title="Markdown Files" href="markdown.html" />
     <link rel="prev" title="Jupyter Notebook Tutorial" href="notebooks.html" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="docsearch:language" content="None">
-    
-
-    <!-- Google Analytics -->
-    
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <meta name="docsearch:language" content="en"/>
   </head>
-  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="60">
-<!-- Checkboxes to toggle the left sidebar -->
-<input type="checkbox" class="sidebar-toggle" name="__navigation" id="__navigation" aria-label="Toggle navigation sidebar">
-<label class="overlay overlay-navbar" for="__navigation">
-    <div class="visually-hidden">Toggle navigation sidebar</div>
-</label>
-<!-- Checkboxes to toggle the in-page toc -->
-<input type="checkbox" class="sidebar-toggle" name="__page-toc" id="__page-toc" aria-label="Toggle in-page Table of Contents">
-<label class="overlay overlay-pagetoc" for="__page-toc">
-    <div class="visually-hidden">Toggle in-page Table of Contents</div>
-</label>
-<!-- Headers at the top -->
-<div class="announcement header-item noprint"></div>
-<div class="header header-item noprint"></div>
+  
+  
+  <body data-bs-spy="scroll" data-bs-target=".bd-toc-nav" data-offset="180" data-bs-root-margin="0px 0px -60%" data-default-mode="">
 
-    
-    <div class="container-fluid" id="banner"></div>
-
-    
-
-    <div class="container-xl">
-      <div class="row">
-          
-<!-- Sidebar -->
-<div class="bd-sidebar noprint" id="site-navigation">
-    <div class="bd-sidebar__content">
-        <div class="bd-sidebar__top"><div class="navbar-brand-box">
-    <a class="navbar-brand text-wrap" href="index.html">
+  
+  
+  <a class="skip-link" href="#main-content">Skip to main content</a>
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          name="__primary"
+          id="__primary"/>
+  <label class="overlay overlay-primary" for="__primary"></label>
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          name="__secondary"
+          id="__secondary"/>
+  <label class="overlay overlay-secondary" for="__secondary"></label>
+  
+  <div class="search-button__wrapper">
+    <div class="search-button__overlay"></div>
+    <div class="search-button__search-container">
+<form class="bd-search d-flex align-items-center"
+      action="search.html"
+      method="get">
+  <i class="fa-solid fa-magnifying-glass"></i>
+  <input type="search"
+         class="form-control"
+         name="q"
+         id="search-input"
+         placeholder="Search this book..."
+         aria-label="Search this book..."
+         autocomplete="off"
+         autocorrect="off"
+         autocapitalize="off"
+         spellcheck="false"/>
+  <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
+</form></div>
+  </div>
+  
+    <nav class="bd-header navbar navbar-expand-lg bd-navbar">
+    </nav>
+  
+  <div class="bd-container">
+    <div class="bd-container__inner bd-page-width">
       
-        <!-- `logo` is deprecated in Sphinx 4.0, so remove this when we stop supporting 3 -->
+      <div class="bd-sidebar-primary bd-sidebar">
         
+
+  
+  <div class="sidebar-header-items sidebar-primary__section">
+    
+    
+    
+    
+  </div>
+  
+    <div class="sidebar-primary-items__start sidebar-primary__section">
+        <div class="sidebar-primary-item">
+  
+
+<a class="navbar-brand logo" href="CE112_Syllabus-Fall_2022.html">
+  
+  
+  
+  
+    
+    
       
-      
-      <img src="_static/DM.cover.png" class="logo" alt="logo">
-      
-      
-      <h1 class="site-logo" id="site-title">Rebuilding Water Infrastructure--Lessons For The Next Century from a Major California Water Utility</h1>
-      
-    </a>
-</div><form class="bd-search d-flex align-items-center" action="search.html" method="get">
-  <i class="icon fas fa-search"></i>
-  <input type="search" class="form-control" name="q" id="search-input" placeholder="Search this book..." aria-label="Search this book..." autocomplete="off" >
-</form><nav class="bd-links" id="bd-docs-nav" aria-label="Main">
-    <div class="bd-toc-item active">
+    
+    
+    <img src="_static/DM.cover.png" class="logo__image only-light" alt="Logo image"/>
+    <script>document.write(`<img src="_static/DM.cover.png" class="logo__image only-dark" alt="Logo image"/>`);</script>
+  
+  
+</a></div>
+        <div class="sidebar-primary-item"><nav class="bd-links" id="bd-docs-nav" aria-label="Main">
+    <div class="bd-toc-item navbar-nav active">
         
         <ul class="nav bd-sidenav bd-sidenav__home-link">
             <li class="toctree-l1">
@@ -113,1146 +156,453 @@ const thebe_selector_output = ".output, .cell_output"
                 </a>
             </li>
         </ul>
-        <p aria-level="2" class="caption" role="heading">
- <span class="caption-text">
-  Part A- See all thirty presentations
- </span>
-</p>
+        <p aria-level="2" class="caption" role="heading"><span class="caption-text">Part A- See all thirty presentations</span></p>
 <ul class="nav bd-sidenav">
- <li class="toctree-l1">
-  <a class="reference internal" href="all_images.html">
-   All lectures
-  </a>
- </li>
+<li class="toctree-l1"><a class="reference internal" href="all_images.html">All lectures</a></li>
 </ul>
-<p aria-level="2" class="caption" role="heading">
- <span class="caption-text">
-  Module 1--Survey of California Water
- </span>
-</p>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Module 1--Survey of California Water</span></p>
 <ul class="nav bd-sidenav">
- <li class="toctree-l1 has-children">
-  <a class="reference internal" href="1-Overview/Slides.html">
-   <em>
-    <strong>
-     Class Presentations: 4
-    </strong>
-   </em>
-  </a>
-  <input class="toctree-checkbox" id="toctree-checkbox-1" name="toctree-checkbox-1" type="checkbox"/>
-  <label for="toctree-checkbox-1">
-   <i class="fas fa-chevron-down">
-   </i>
-  </label>
-  <ul>
-   <li class="toctree-l2">
-    <a class="reference internal" href="1-Overview/08-24_-pages.html">
-     08-24: Overview of California Water and Waste Water Systems
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="1-Overview/08-26_-pages.html">
-     8-26: Industy Challenges and Developing Solutions Through Innovation
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="1-Overview/08-29_-pages.html">
-     8-29: Brainstorm new projects for EBMUD : choose one
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="1-Overview/08-31_-pages.html">
-     8-31: Examples of innovative projects
-    </a>
-   </li>
-  </ul>
- </li>
- <li class="toctree-l1 has-children">
-  <a class="reference internal" href="1-Overview/table.html">
-   Tables of classes
-  </a>
-  <input class="toctree-checkbox" id="toctree-checkbox-2" name="toctree-checkbox-2" type="checkbox"/>
-  <label for="toctree-checkbox-2">
-   <i class="fas fa-chevron-down">
-   </i>
-  </label>
-  <ul>
-   <li class="toctree-l2">
-    <a class="reference internal" href="1-Overview/Table_of_links1.html">
-     First Table of lecture links
-    </a>
-   </li>
-  </ul>
- </li>
- <li class="toctree-l1 has-children">
-  <a class="reference internal" href="1-Overview/text_and_video.html">
-   Text and Video for each class
-  </a>
-  <input class="toctree-checkbox" id="toctree-checkbox-3" name="toctree-checkbox-3" type="checkbox"/>
-  <label for="toctree-checkbox-3">
-   <i class="fas fa-chevron-down">
-   </i>
-  </label>
-  <ul>
-   <li class="toctree-l2">
-    <a class="reference internal" href="1-Overview/Overview%20of%20California%20Water%20and%20Wastewater%20Systems.html">
-     Overview of California Water and Wastewater Systems
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="1-Overview/Developing%20Solutions%20through%20Innovation.html">
-     Developing Solutions through Innovation
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="1-Overview/Group%20Work%20assignments.html">
-     Group Work assignments
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="1-Overview/Group%20Work%20Assignments--expand%20to%20thirty%20topics.html">
-     Group Work Assignments: expand to thirty topics
-    </a>
-   </li>
-  </ul>
- </li>
- <li class="toctree-l1 has-children">
-  <a class="reference internal" href="1-Overview/Other_texts.html">
-   Other Texts
-  </a>
-  <input class="toctree-checkbox" id="toctree-checkbox-4" name="toctree-checkbox-4" type="checkbox"/>
-  <label for="toctree-checkbox-4">
-   <i class="fas fa-chevron-down">
-   </i>
-  </label>
-  <ul>
-   <li class="toctree-l2">
-    <a class="reference internal" href="1-Overview/Challenges.html">
-     Rebuilding Water Infrastructure: Lessons For The Next Century from a Major California Water Utility
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="1-Overview/intro-challenges.html">
-     Big,big
-     <strong>
-      Challenge
-     </strong>
-     : our most critical infrastructure is invisible, taken for granted, assumed just to work. But we are moving closer to systemic failure.
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="1-Overview/intro-response.html">
-     <strong>
-      Response
-     </strong>
-     ipynb
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="1-Overview/_IntroTwo.html">
-     Challenges in intro two
-    </a>
-   </li>
-  </ul>
- </li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="1-Overview/Slides.html"><em><strong>Class Presentations: 4</strong></em></a><input class="toctree-checkbox" id="toctree-checkbox-1" name="toctree-checkbox-1" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-1"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l2"><a class="reference internal" href="1-Overview/08-24_-pages.html">08-24: Overview of California Water and Waste Water Systems</a></li>
+<li class="toctree-l2"><a class="reference internal" href="1-Overview/08-26_-pages.html">8-26: Industy Challenges and Developing Solutions Through Innovation</a></li>
+<li class="toctree-l2"><a class="reference internal" href="1-Overview/08-29_-pages.html">8-29: Brainstorm new projects for EBMUD : choose one</a></li>
+<li class="toctree-l2"><a class="reference internal" href="1-Overview/08-31_-pages.html">8-31: Examples of innovative projects</a></li>
 </ul>
-<p aria-level="2" class="caption" role="heading">
- <span class="caption-text">
-  Module 2--Water Supply in an era of drought, flood, and fires
- </span>
-</p>
+</li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="1-Overview/table.html">Tables of classes</a><input class="toctree-checkbox" id="toctree-checkbox-2" name="toctree-checkbox-2" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-2"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l2"><a class="reference internal" href="1-Overview/Table_of_links1.html">First Table of lecture links</a></li>
+</ul>
+</li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="1-Overview/text_and_video.html">Text and Video for each class</a><input class="toctree-checkbox" id="toctree-checkbox-3" name="toctree-checkbox-3" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-3"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l2"><a class="reference internal" href="1-Overview/Overview%20of%20California%20Water%20and%20Wastewater%20Systems.html">Overview of California Water and Wastewater Systems</a></li>
+<li class="toctree-l2"><a class="reference internal" href="1-Overview/Developing%20Solutions%20through%20Innovation.html">Developing Solutions through Innovation</a></li>
+<li class="toctree-l2"><a class="reference internal" href="1-Overview/Group%20Work%20assignments.html">Group Work assignments</a></li>
+<li class="toctree-l2"><a class="reference internal" href="1-Overview/Group%20Work%20Assignments--expand%20to%20thirty%20topics.html">Group Work Assignments: expand to thirty topics</a></li>
+</ul>
+</li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="1-Overview/Other_texts.html">Other Texts</a><input class="toctree-checkbox" id="toctree-checkbox-4" name="toctree-checkbox-4" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-4"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l2"><a class="reference internal" href="1-Overview/Challenges.html">Rebuilding Water Infrastructure: Lessons For The Next Century from a Major California Water Utility</a></li>
+<li class="toctree-l2"><a class="reference internal" href="1-Overview/intro-challenges.html">Big,big <strong>Challenge</strong>: our most critical infrastructure is invisible, taken for granted, assumed just to work. But we are moving closer to systemic failure.</a></li>
+<li class="toctree-l2"><a class="reference internal" href="1-Overview/intro-response.html"><strong>Response</strong> ipynb</a></li>
+<li class="toctree-l2"><a class="reference internal" href="1-Overview/_IntroTwo.html">Challenges in intro two</a></li>
+</ul>
+</li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Module 2--Water Supply in an era of drought, flood, and fires</span></p>
 <ul class="nav bd-sidenav">
- <li class="toctree-l1 has-children">
-  <a class="reference internal" href="2-Water_Supply/Slides.html">
-   <em>
-    <strong>
-     Class Presentations: 3
-    </strong>
-   </em>
-  </a>
-  <input class="toctree-checkbox" id="toctree-checkbox-5" name="toctree-checkbox-5" type="checkbox"/>
-  <label for="toctree-checkbox-5">
-   <i class="fas fa-chevron-down">
-   </i>
-  </label>
-  <ul>
-   <li class="toctree-l2">
-    <a class="reference internal" href="2-Water_Supply/09-07_-pages.html">
-     9-07: Water and Natural Resources Management
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="2-Water_Supply/09-12_-pages.html">
-     9-12: Water Demand Forecasting
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="2-Water_Supply/09-14_-pages.html">
-     9-14: Water Supply Resilience and Portfolio Design
-    </a>
-   </li>
-  </ul>
- </li>
- <li class="toctree-l1 has-children">
-  <a class="reference internal" href="2-Water_Supply/JN.html">
-   Jupyter Notebooks: executable
-  </a>
-  <input class="toctree-checkbox" id="toctree-checkbox-6" name="toctree-checkbox-6" type="checkbox"/>
-  <label for="toctree-checkbox-6">
-   <i class="fas fa-chevron-down">
-   </i>
-  </label>
-  <ul>
-   <li class="toctree-l2">
-    <a class="reference internal" href="2-Water_Supply/09-12%20-wed.html">
-     9-12: Water Demand Management : JN development
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="2-Water_Supply/09-14%20-wed.html">
-     9-14: Water Supply Resilience
-    </a>
-   </li>
-  </ul>
- </li>
- <li class="toctree-l1 has-children">
-  <a class="reference internal" href="2-Water_Supply/other.html">
-   Other files
-  </a>
-  <input class="toctree-checkbox" id="toctree-checkbox-7" name="toctree-checkbox-7" type="checkbox"/>
-  <label for="toctree-checkbox-7">
-   <i class="fas fa-chevron-down">
-   </i>
-  </label>
-  <ul>
-   <li class="toctree-l2">
-    <a class="reference internal" href="2-Water_Supply/Water%20Supply.html">
-     Water Supply
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="2-Water_Supply/Water%20Supply--Water%20and%20Natural%20Resources%20Management.html">
-     Water Supply: Water and Natural Resources Management
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="2-Water_Supply/Water%20Demand%20Forecasting.html">
-     Water Demand Forecasting
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="2-Water_Supply/Develop%20alternative%20water%20supply%20portfolios.html">
-     Develop alternative water supply portfolios
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="2-Water_Supply/Water%20Supply%20Resilience%20and%20Portfolio%20Design.html">
-     Water Supply Resilience and Portfolio Design
-    </a>
-   </li>
-  </ul>
- </li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="2-Water_Supply/Slides.html"><em><strong>Class Presentations: 3</strong></em></a><input class="toctree-checkbox" id="toctree-checkbox-5" name="toctree-checkbox-5" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-5"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l2"><a class="reference internal" href="2-Water_Supply/09-07_-pages.html">9-07: Water and Natural Resources Management</a></li>
+<li class="toctree-l2"><a class="reference internal" href="2-Water_Supply/09-12_-pages.html">9-12: Water Demand Forecasting</a></li>
+<li class="toctree-l2"><a class="reference internal" href="2-Water_Supply/09-14_-pages.html">9-14: Water Supply Resilience and Portfolio Design</a></li>
 </ul>
-<p aria-level="2" class="caption" role="heading">
- <span class="caption-text">
-  Module 3--Design and Operation of Water and Waste Water Systems-Next 100 Years
- </span>
-</p>
+</li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="2-Water_Supply/JN.html">Jupyter Notebooks: executable</a><input class="toctree-checkbox" id="toctree-checkbox-6" name="toctree-checkbox-6" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-6"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l2"><a class="reference internal" href="2-Water_Supply/09-12%20-wed.html">9-12: Water Demand Management : JN development</a></li>
+<li class="toctree-l2"><a class="reference internal" href="2-Water_Supply/09-14%20-wed.html">9-14: Water Supply Resilience</a></li>
+</ul>
+</li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="2-Water_Supply/other.html">Other files</a><input class="toctree-checkbox" id="toctree-checkbox-7" name="toctree-checkbox-7" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-7"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l2"><a class="reference internal" href="2-Water_Supply/Water%20Supply.html">Water Supply</a></li>
+<li class="toctree-l2"><a class="reference internal" href="2-Water_Supply/Water%20Supply--Water%20and%20Natural%20Resources%20Management.html">Water Supply: Water and Natural Resources Management</a></li>
+<li class="toctree-l2"><a class="reference internal" href="2-Water_Supply/Water%20Demand%20Forecasting.html">Water Demand Forecasting</a></li>
+<li class="toctree-l2"><a class="reference internal" href="2-Water_Supply/Develop%20alternative%20water%20supply%20portfolios.html">Develop alternative water supply portfolios</a></li>
+<li class="toctree-l2"><a class="reference internal" href="2-Water_Supply/Water%20Supply%20Resilience%20and%20Portfolio%20Design.html">Water Supply Resilience and Portfolio Design</a></li>
+</ul>
+</li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Module 3--Design and Operation of Water and Waste Water Systems-Next 100 Years</span></p>
 <ul class="nav bd-sidenav">
- <li class="toctree-l1 has-children">
-  <a class="reference internal" href="3-Design_and_Operation/Slides.html">
-   <em>
-    <strong>
-     Class Presentations: 4
-    </strong>
-   </em>
-  </a>
-  <input class="toctree-checkbox" id="toctree-checkbox-8" name="toctree-checkbox-8" type="checkbox"/>
-  <label for="toctree-checkbox-8">
-   <i class="fas fa-chevron-down">
-   </i>
-  </label>
-  <ul>
-   <li class="toctree-l2">
-    <a class="reference internal" href="3-Design_and_Operation/09-19_-pages.html">
-     9-19: Water and Wastewater System Overview and Innovations
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="3-Design_and_Operation/09-21_-pages.html">
-     9-21: Water Treatment Plant Design and Operations Overview
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="3-Design_and_Operation/09-26_-pages.html">
-     9-26: Water Distribution System Design and Operations
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="3-Design_and_Operation/09-28_-pages.html">
-     9-28: Design and Operation of the North Interceptor Relief Sewer
-    </a>
-   </li>
-  </ul>
- </li>
- <li class="toctree-l1 has-children">
-  <a class="reference internal" href="3-Design_and_Operation/JN.html">
-   Jupyter Notebooks: executable
-  </a>
-  <input class="toctree-checkbox" id="toctree-checkbox-9" name="toctree-checkbox-9" type="checkbox"/>
-  <label for="toctree-checkbox-9">
-   <i class="fas fa-chevron-down">
-   </i>
-  </label>
-  <ul>
-   <li class="toctree-l2">
-    <a class="reference internal" href="3-Design_and_Operation/09-19%20-wed.html">
-     9-19
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="3-Design_and_Operation/09-21%20-wed.html">
-     9-21
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="3-Design_and_Operation/09-26%20-wed.html">
-     9-25
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="3-Design_and_Operation/09-28%20-wed.html">
-     9-28
-    </a>
-   </li>
-  </ul>
- </li>
- <li class="toctree-l1 has-children">
-  <a class="reference internal" href="3-Design_and_Operation/other.html">
-   Other
-  </a>
-  <input class="toctree-checkbox" id="toctree-checkbox-10" name="toctree-checkbox-10" type="checkbox"/>
-  <label for="toctree-checkbox-10">
-   <i class="fas fa-chevron-down">
-   </i>
-  </label>
-  <ul>
-   <li class="toctree-l2">
-    <a class="reference internal" href="3-Design_and_Operation/How%20to%20operate.html">
-     Here’s how to operate
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="3-Design_and_Operation/Water%20and%20Wastewater%20Systems%20Operations.html">
-     Water and Wastewater Systems Operations
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="3-Design_and_Operation/Water%20Treatment%20Plant%20Design%20and%20Operations%20Overview.html">
-     Water Treatment Plant Design and Operations Overview
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="3-Design_and_Operation/Water%20Distribution%20System%20Design%20and%20Operations.html">
-     Water Distribution System Design and Operations
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="3-Design_and_Operation/Wastewater%20Treatment%20Design%20and%20Operations.html">
-     Wastewater Treatment Design and Operations
-    </a>
-   </li>
-  </ul>
- </li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="3-Design_and_Operation/Slides.html"><em><strong>Class Presentations: 4</strong></em></a><input class="toctree-checkbox" id="toctree-checkbox-8" name="toctree-checkbox-8" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-8"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l2"><a class="reference internal" href="3-Design_and_Operation/09-19_-pages.html">9-19: Water and Wastewater System Overview and Innovations</a></li>
+<li class="toctree-l2"><a class="reference internal" href="3-Design_and_Operation/09-21_-pages.html">9-21: Water Treatment Plant Design and Operations Overview</a></li>
+<li class="toctree-l2"><a class="reference internal" href="3-Design_and_Operation/09-26_-pages.html">9-26: Water Distribution System Design and Operations</a></li>
+<li class="toctree-l2"><a class="reference internal" href="3-Design_and_Operation/09-28_-pages.html">9-28: Design and Operation of the North Interceptor Relief Sewer</a></li>
 </ul>
-<p aria-level="2" class="caption" role="heading">
- <span class="caption-text">
-  Module 4--System Maintenance, Renewal, Replacement- The Heartbeat of the Enterprise
- </span>
-</p>
+</li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="3-Design_and_Operation/JN.html">Jupyter Notebooks: executable</a><input class="toctree-checkbox" id="toctree-checkbox-9" name="toctree-checkbox-9" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-9"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l2"><a class="reference internal" href="3-Design_and_Operation/09-19%20-wed.html">9-19</a></li>
+<li class="toctree-l2"><a class="reference internal" href="3-Design_and_Operation/09-21%20-wed.html">9-21</a></li>
+<li class="toctree-l2"><a class="reference internal" href="3-Design_and_Operation/09-26%20-wed.html">9-25</a></li>
+<li class="toctree-l2"><a class="reference internal" href="3-Design_and_Operation/09-28%20-wed.html">9-28</a></li>
+</ul>
+</li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="3-Design_and_Operation/other.html">Other</a><input class="toctree-checkbox" id="toctree-checkbox-10" name="toctree-checkbox-10" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-10"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l2"><a class="reference internal" href="3-Design_and_Operation/How%20to%20operate.html">Here’s how to operate</a></li>
+<li class="toctree-l2"><a class="reference internal" href="3-Design_and_Operation/Water%20and%20Wastewater%20Systems%20Operations.html">Water and Wastewater Systems Operations</a></li>
+<li class="toctree-l2"><a class="reference internal" href="3-Design_and_Operation/Water%20Treatment%20Plant%20Design%20and%20Operations%20Overview.html">Water Treatment Plant Design and Operations Overview</a></li>
+<li class="toctree-l2"><a class="reference internal" href="3-Design_and_Operation/Water%20Distribution%20System%20Design%20and%20Operations.html">Water Distribution System Design and Operations</a></li>
+<li class="toctree-l2"><a class="reference internal" href="3-Design_and_Operation/Wastewater%20Treatment%20Design%20and%20Operations.html">Wastewater Treatment Design and Operations</a></li>
+</ul>
+</li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Module 4--System Maintenance, Renewal, Replacement- The Heartbeat of the Enterprise</span></p>
 <ul class="nav bd-sidenav">
- <li class="toctree-l1 has-children">
-  <a class="reference internal" href="4-Maintenance_Renewal_Replacement/Slides.html">
-   <em>
-    <strong>
-     Class Presentations: 7
-    </strong>
-   </em>
-  </a>
-  <input class="toctree-checkbox" id="toctree-checkbox-11" name="toctree-checkbox-11" type="checkbox"/>
-  <label for="toctree-checkbox-11">
-   <i class="fas fa-chevron-down">
-   </i>
-  </label>
-  <ul>
-   <li class="toctree-l2">
-    <a class="reference internal" href="4-Maintenance_Renewal_Replacement/10-03_-pages.html">
-     10-03: Infrastructure Investments Overview: Where To Spend Money
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="4-Maintenance_Renewal_Replacement/10-05_-pages.html">
-     10-05-Resilient System Design: Resiliency and Sustainability
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="4-Maintenance_Renewal_Replacement/10-10_-pages.html">
-     10-10: Pipeline Design: Fundamentals–And Use Of Innovative Materials
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="4-Maintenance_Renewal_Replacement/10-12_-pages.html">
-     10-12: Innovations in Pipeline Renewal and Replacement
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="4-Maintenance_Renewal_Replacement/10-17_-pages.html">
-     10-17: Why Pipes Break: The Dream of Predictive Modeling
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="4-Maintenance_Renewal_Replacement/10-19_-pages.html">
-     10-19: Preparing a Pipeline Design
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="4-Maintenance_Renewal_Replacement/10-21_-pages.html">
-     10-21: Preparing a Pipeline Design-From Theory to Practice
-    </a>
-   </li>
-  </ul>
- </li>
- <li class="toctree-l1 has-children">
-  <a class="reference internal" href="4-Maintenance_Renewal_Replacement/JN.html">
-   JN
-  </a>
-  <input class="toctree-checkbox" id="toctree-checkbox-12" name="toctree-checkbox-12" type="checkbox"/>
-  <label for="toctree-checkbox-12">
-   <i class="fas fa-chevron-down">
-   </i>
-  </label>
-  <ul>
-   <li class="toctree-l2">
-    <a class="reference internal" href="4-Maintenance_Renewal_Replacement/10-03%20-wed.html">
-     10-03
-    </a>
-   </li>
-  </ul>
- </li>
- <li class="toctree-l1 has-children">
-  <a class="reference internal" href="4-Maintenance_Renewal_Replacement/other.html">
-   Other
-  </a>
-  <input class="toctree-checkbox" id="toctree-checkbox-13" name="toctree-checkbox-13" type="checkbox"/>
-  <label for="toctree-checkbox-13">
-   <i class="fas fa-chevron-down">
-   </i>
-  </label>
-  <ul>
-   <li class="toctree-l2">
-    <a class="reference internal" href="4-Maintenance_Renewal_Replacement/Maintenance.html">
-     Capital Plant Investment
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="4-Maintenance_Renewal_Replacement/Infrastructure_investments_overview.html">
-     Infrastructure Investments Overview
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="4-Maintenance_Renewal_Replacement/Pipeline%20design%20fundamentals%20and%20use%20of%20innovative%20materials.html">
-     Pipeline design fundamentals and use of innovative materials
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="4-Maintenance_Renewal_Replacement/Why%20Pipes%20Break.html">
-     Why Pipes Break, and How To Predict Breaks
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="4-Maintenance_Renewal_Replacement/Innovations%20in%20pipeline%20maintenance.html">
-     Innovations in pipeline maintenance, renewal, and replacement
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="4-Maintenance_Renewal_Replacement/Preparing%20a%20Pipeline%20Design.html">
-     Preparing a Pipeline Design
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="4-Maintenance_Renewal_Replacement/Field%20Pipeline%20Design--Offsets%2C%20Costs.html">
-     Field Pipeline Design–Offsets, Costs
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="4-Maintenance_Renewal_Replacement/Fundamental%20Documents.html">
-     Fundamental Documents
-    </a>
-   </li>
-  </ul>
- </li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="4-Maintenance_Renewal_Replacement/Slides.html"><em><strong>Class Presentations: 7</strong></em></a><input class="toctree-checkbox" id="toctree-checkbox-11" name="toctree-checkbox-11" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-11"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l2"><a class="reference internal" href="4-Maintenance_Renewal_Replacement/10-03_-pages.html">10-03: Infrastructure Investments Overview: Where To Spend Money</a></li>
+<li class="toctree-l2"><a class="reference internal" href="4-Maintenance_Renewal_Replacement/10-05_-pages.html">10-05-Resilient System Design: Resiliency and Sustainability</a></li>
+<li class="toctree-l2"><a class="reference internal" href="4-Maintenance_Renewal_Replacement/10-10_-pages.html">10-10: Pipeline Design: Fundamentals–And Use Of Innovative Materials</a></li>
+<li class="toctree-l2"><a class="reference internal" href="4-Maintenance_Renewal_Replacement/10-12_-pages.html">10-12: Innovations in Pipeline Renewal and Replacement</a></li>
+<li class="toctree-l2"><a class="reference internal" href="4-Maintenance_Renewal_Replacement/10-17_-pages.html">10-17: Why Pipes Break: The Dream of Predictive Modeling</a></li>
+<li class="toctree-l2"><a class="reference internal" href="4-Maintenance_Renewal_Replacement/10-19_-pages.html">10-19: Preparing a Pipeline Design</a></li>
+<li class="toctree-l2"><a class="reference internal" href="4-Maintenance_Renewal_Replacement/10-21_-pages.html">10-21: Preparing a Pipeline Design-From Theory to Practice</a></li>
 </ul>
-<p aria-level="2" class="caption" role="heading">
- <span class="caption-text">
-  Module 5--Sustainability, Resilience, Climate Change--Major Impacts
- </span>
-</p>
+</li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="4-Maintenance_Renewal_Replacement/JN.html">JN</a><input class="toctree-checkbox" id="toctree-checkbox-12" name="toctree-checkbox-12" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-12"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l2"><a class="reference internal" href="4-Maintenance_Renewal_Replacement/10-03%20-wed.html">10-03</a></li>
+</ul>
+</li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="4-Maintenance_Renewal_Replacement/other.html">Other</a><input class="toctree-checkbox" id="toctree-checkbox-13" name="toctree-checkbox-13" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-13"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l2"><a class="reference internal" href="4-Maintenance_Renewal_Replacement/Maintenance.html">Capital Plant Investment</a></li>
+<li class="toctree-l2"><a class="reference internal" href="4-Maintenance_Renewal_Replacement/Infrastructure_investments_overview.html">Infrastructure Investments Overview</a></li>
+<li class="toctree-l2"><a class="reference internal" href="4-Maintenance_Renewal_Replacement/Pipeline%20design%20fundamentals%20and%20use%20of%20innovative%20materials.html">Pipeline design fundamentals and use of innovative materials</a></li>
+<li class="toctree-l2"><a class="reference internal" href="4-Maintenance_Renewal_Replacement/Why%20Pipes%20Break.html">Why Pipes Break, and How To Predict Breaks</a></li>
+<li class="toctree-l2"><a class="reference internal" href="4-Maintenance_Renewal_Replacement/Innovations%20in%20pipeline%20maintenance.html">Innovations in pipeline maintenance, renewal, and replacement</a></li>
+<li class="toctree-l2"><a class="reference internal" href="4-Maintenance_Renewal_Replacement/Preparing%20a%20Pipeline%20Design.html">Preparing a Pipeline Design</a></li>
+<li class="toctree-l2"><a class="reference internal" href="4-Maintenance_Renewal_Replacement/Field%20Pipeline%20Design--Offsets%2C%20Costs.html">Field Pipeline Design–Offsets, Costs</a></li>
+<li class="toctree-l2"><a class="reference internal" href="4-Maintenance_Renewal_Replacement/Fundamental%20Documents.html">Fundamental Documents</a></li>
+</ul>
+</li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Module 5--Sustainability, Resilience, Climate Change--Major Impacts</span></p>
 <ul class="nav bd-sidenav">
- <li class="toctree-l1 has-children">
-  <a class="reference internal" href="5-Sustainability_and_Resilience/Slides.html">
-   <em>
-    <strong>
-     Class Presentations: 2
-    </strong>
-   </em>
-  </a>
-  <input class="toctree-checkbox" id="toctree-checkbox-14" name="toctree-checkbox-14" type="checkbox"/>
-  <label for="toctree-checkbox-14">
-   <i class="fas fa-chevron-down">
-   </i>
-  </label>
-  <ul>
-   <li class="toctree-l2">
-    <a class="reference internal" href="5-Sustainability_and_Resilience/10-24_-pages.html">
-     <strong>
-      10-24
-     </strong>
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="5-Sustainability_and_Resilience/10-26_-pages.html">
-     **10-26:   **
-    </a>
-   </li>
-  </ul>
- </li>
- <li class="toctree-l1 has-children">
-  <a class="reference internal" href="5-Sustainability_and_Resilience/JN.html">
-   Jupyter Notebooks: executable
-  </a>
-  <input class="toctree-checkbox" id="toctree-checkbox-15" name="toctree-checkbox-15" type="checkbox"/>
-  <label for="toctree-checkbox-15">
-   <i class="fas fa-chevron-down">
-   </i>
-  </label>
-  <ul>
-   <li class="toctree-l2">
-    <a class="reference internal" href="5-Sustainability_and_Resilience/Module-5.html">
-     Jupyter Notebook for Module 5
-    </a>
-   </li>
-  </ul>
- </li>
- <li class="toctree-l1 has-children">
-  <a class="reference internal" href="5-Sustainability_and_Resilience/Other.html">
-   Other files: text, video
-  </a>
-  <input class="toctree-checkbox" id="toctree-checkbox-16" name="toctree-checkbox-16" type="checkbox"/>
-  <label for="toctree-checkbox-16">
-   <i class="fas fa-chevron-down">
-   </i>
-  </label>
-  <ul>
-   <li class="toctree-l2">
-    <a class="reference internal" href="5-Sustainability_and_Resilience/Sustainability.html">
-     Sustainability, Resilience
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="5-Sustainability_and_Resilience/Sustainability%20and%20Resilience--Overview%20and%20Innovations.html">
-     Sustainability and Resilience–Overview and Innovations
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="5-Sustainability_and_Resilience/Climate%20Change%20and%20the%20Water-Energy%20Nexus.html">
-     Climate Change, and the Water/Energy Nexus
-    </a>
-   </li>
-  </ul>
- </li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="5-Sustainability_and_Resilience/Slides.html"><em><strong>Class Presentations: 2</strong></em></a><input class="toctree-checkbox" id="toctree-checkbox-14" name="toctree-checkbox-14" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-14"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l2"><a class="reference internal" href="5-Sustainability_and_Resilience/10-24_-pages.html"><strong>10-24</strong></a></li>
+<li class="toctree-l2"><a class="reference internal" href="5-Sustainability_and_Resilience/10-26_-pages.html">**10-26:   **</a></li>
 </ul>
-<p aria-level="2" class="caption" role="heading">
- <span class="caption-text">
-  Module 6--Financing Water and Wastewater Utilities-Tariffs and Taxes
- </span>
-</p>
+</li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="5-Sustainability_and_Resilience/JN.html">Jupyter Notebooks: executable</a><input class="toctree-checkbox" id="toctree-checkbox-15" name="toctree-checkbox-15" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-15"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l2"><a class="reference internal" href="5-Sustainability_and_Resilience/Module-5.html">Jupyter Notebook for Module 5</a></li>
+</ul>
+</li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="5-Sustainability_and_Resilience/Other.html">Other files: text, video</a><input class="toctree-checkbox" id="toctree-checkbox-16" name="toctree-checkbox-16" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-16"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l2"><a class="reference internal" href="5-Sustainability_and_Resilience/Sustainability.html">Sustainability, Resilience</a></li>
+<li class="toctree-l2"><a class="reference internal" href="5-Sustainability_and_Resilience/Sustainability%20and%20Resilience--Overview%20and%20Innovations.html">Sustainability and Resilience–Overview and Innovations</a></li>
+<li class="toctree-l2"><a class="reference internal" href="5-Sustainability_and_Resilience/Climate%20Change%20and%20the%20Water-Energy%20Nexus.html">Climate Change, and the Water/Energy Nexus</a></li>
+</ul>
+</li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Module 6--Financing Water and Wastewater Utilities-Tariffs and Taxes</span></p>
 <ul class="nav bd-sidenav">
- <li class="toctree-l1 has-children">
-  <a class="reference internal" href="6-Financing_Water/Slides.html">
-   Classroom Presentations: 2
-  </a>
-  <input class="toctree-checkbox" id="toctree-checkbox-17" name="toctree-checkbox-17" type="checkbox"/>
-  <label for="toctree-checkbox-17">
-   <i class="fas fa-chevron-down">
-   </i>
-  </label>
-  <ul>
-   <li class="toctree-l2">
-    <a class="reference internal" href="6-Financing_Water/10-31_-pages.html">
-     10-31: Water and Wastewater Financing: Planning
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="6-Financing_Water/11-02_-pages.html">
-     11-02: Public Budgets and Financing Capital Expenses
-    </a>
-   </li>
-  </ul>
- </li>
- <li class="toctree-l1 has-children">
-  <a class="reference internal" href="6-Financing_Water/JN.html">
-   Jupyter Notebooks
-  </a>
-  <input class="toctree-checkbox" id="toctree-checkbox-18" name="toctree-checkbox-18" type="checkbox"/>
-  <label for="toctree-checkbox-18">
-   <i class="fas fa-chevron-down">
-   </i>
-  </label>
-  <ul>
-   <li class="toctree-l2">
-    <a class="reference internal" href="6-Financing_Water/JN_Finance.html">
-     Computational Jupyter Notebook for Module 6: Finance
-    </a>
-   </li>
-  </ul>
- </li>
- <li class="toctree-l1 has-children">
-  <a class="reference internal" href="6-Financing_Water/Other.html">
-   Other files: text, video,
-  </a>
-  <input class="toctree-checkbox" id="toctree-checkbox-19" name="toctree-checkbox-19" type="checkbox"/>
-  <label for="toctree-checkbox-19">
-   <i class="fas fa-chevron-down">
-   </i>
-  </label>
-  <ul>
-   <li class="toctree-l2">
-    <a class="reference internal" href="6-Financing_Water/Finance.html">
-     Finance
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="6-Financing_Water/Finance%20problem%20set.html">
-     Finance problem set
-    </a>
-   </li>
-  </ul>
- </li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="6-Financing_Water/Slides.html">Classroom Presentations: 2</a><input class="toctree-checkbox" id="toctree-checkbox-17" name="toctree-checkbox-17" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-17"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l2"><a class="reference internal" href="6-Financing_Water/10-31_-pages.html">10-31: Water and Wastewater Financing: Planning</a></li>
+<li class="toctree-l2"><a class="reference internal" href="6-Financing_Water/11-02_-pages.html">11-02: Public Budgets and Financing Capital Expenses</a></li>
 </ul>
-<p aria-level="2" class="caption" role="heading">
- <span class="caption-text">
-  Module 7--Interdependence of Water and Energy-Can't Have One Without The Other
- </span>
-</p>
+</li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="6-Financing_Water/JN.html">Jupyter Notebooks</a><input class="toctree-checkbox" id="toctree-checkbox-18" name="toctree-checkbox-18" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-18"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l2"><a class="reference internal" href="6-Financing_Water/JN_Finance.html">Computational Jupyter Notebook for Module 6: Finance</a></li>
+</ul>
+</li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="6-Financing_Water/Other.html">Other files: text, video,</a><input class="toctree-checkbox" id="toctree-checkbox-19" name="toctree-checkbox-19" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-19"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l2"><a class="reference internal" href="6-Financing_Water/Finance.html">Finance</a></li>
+<li class="toctree-l2"><a class="reference internal" href="6-Financing_Water/Finance%20problem%20set.html">Finance problem set</a></li>
+</ul>
+</li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Module 7--Interdependence of Water and Energy-Can't Have One Without The Other</span></p>
 <ul class="nav bd-sidenav">
- <li class="toctree-l1">
-  <a class="reference internal" href="7-Interdependence/Water-Energy%20Nexus.html">
-   Water-Energy Nexus
-  </a>
- </li>
+<li class="toctree-l1"><a class="reference internal" href="7-Interdependence/Water-Energy%20Nexus.html">Water-Energy Nexus</a></li>
+
 </ul>
-<p aria-level="2" class="caption" role="heading">
- <span class="caption-text">
-  Module 8--Design for Emergencies-Systems Are Made To Be Broken
- </span>
-</p>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Module 8--Design for Emergencies-Systems Are Made To Be Broken</span></p>
 <ul class="nav bd-sidenav">
- <li class="toctree-l1 has-children">
-  <a class="reference internal" href="8-Emergencies/Slides.html">
-   <em>
-    <strong>
-     Classroom Presentations: 4
-    </strong>
-   </em>
-  </a>
-  <input class="toctree-checkbox" id="toctree-checkbox-20" name="toctree-checkbox-20" type="checkbox"/>
-  <label for="toctree-checkbox-20">
-   <i class="fas fa-chevron-down">
-   </i>
-  </label>
-  <ul>
-   <li class="toctree-l2">
-    <a class="reference internal" href="8-Emergencies/11-14_-pages.html">
-     11-14: Emergency Preparedness Overview and Interconnected Systems
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="8-Emergencies/11-16_-pages.html">
-     11-16: Planning for and Understanding Uncertainties and Hazards
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="8-Emergencies/11-21_-pages.html">
-     11-21: Dam Safety and Emergency Preparedness
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="8-Emergencies/11-28_-pages.html">
-     11-28: Cascading Failures and Community Preparedness
-    </a>
-   </li>
-  </ul>
- </li>
- <li class="toctree-l1 has-children">
-  <a class="reference internal" href="8-Emergencies/JN.html">
-   Jupyter Notebooks
-  </a>
-  <input class="toctree-checkbox" id="toctree-checkbox-21" name="toctree-checkbox-21" type="checkbox"/>
-  <label for="toctree-checkbox-21">
-   <i class="fas fa-chevron-down">
-   </i>
-  </label>
-  <ul>
-   <li class="toctree-l2">
-    <a class="reference internal" href="8-Emergencies/EmergenciesJN.html">
-     JN for Emergencies
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="8-Emergencies/plot_1D_dambreak.html">
-     One dimension shallow water, dam break case.
-    </a>
-   </li>
-  </ul>
- </li>
- <li class="toctree-l1 has-children">
-  <a class="reference internal" href="8-Emergencies/Other.html">
-   Other files
-  </a>
-  <input class="toctree-checkbox" id="toctree-checkbox-22" name="toctree-checkbox-22" type="checkbox"/>
-  <label for="toctree-checkbox-22">
-   <i class="fas fa-chevron-down">
-   </i>
-  </label>
-  <ul>
-   <li class="toctree-l2">
-    <a class="reference internal" href="8-Emergencies/Emergencies.html">
-     Emergencies
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="8-Emergencies/Emergency%20Preparedness%20Overview%20and%20Interconnected%20Systems.html">
-     Emergency Preparedness Overview and Interconnected Systems
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="8-Emergencies/Planning%20and%20Understanding%20For%20Uncertainty%20and%20Hazards.html">
-     Planning and Understanding For Uncertainty and Hazards
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="8-Emergencies/Cascading%20failures%20and%20community%20preparedness.html">
-     Cascading failures and community preparedness
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="8-Emergencies/DAM%20SAFETY%20%26%20%20EMERGENCY%20%20PREPAREDNESS.html">
-     DAM SAFETY &amp;  EMERGENCY  PREPAREDNESS
-    </a>
-   </li>
-  </ul>
- </li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="8-Emergencies/Slides.html"><em><strong>Classroom Presentations: 4</strong></em></a><input class="toctree-checkbox" id="toctree-checkbox-20" name="toctree-checkbox-20" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-20"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l2"><a class="reference internal" href="8-Emergencies/11-14_-pages.html">11-14: Emergency Preparedness Overview and Interconnected Systems</a></li>
+<li class="toctree-l2"><a class="reference internal" href="8-Emergencies/11-16_-pages.html">11-16: Planning for and Understanding Uncertainties and Hazards</a></li>
+<li class="toctree-l2"><a class="reference internal" href="8-Emergencies/11-21_-pages.html">11-21: Dam Safety and Emergency Preparedness</a></li>
+<li class="toctree-l2"><a class="reference internal" href="8-Emergencies/11-28_-pages.html">11-28: Cascading Failures and Community Preparedness</a></li>
 </ul>
-<p aria-level="2" class="caption" role="heading">
- <span class="caption-text">
-  Part B- Building for Resilience
- </span>
-</p>
+</li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="8-Emergencies/JN.html">Jupyter Notebooks</a><input class="toctree-checkbox" id="toctree-checkbox-21" name="toctree-checkbox-21" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-21"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l2"><a class="reference internal" href="8-Emergencies/EmergenciesJN.html">JN for Emergencies</a></li>
+<li class="toctree-l2"><a class="reference internal" href="8-Emergencies/plot_1D_dambreak.html">One dimension shallow water, dam break case.</a></li>
+</ul>
+</li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="8-Emergencies/Other.html">Other files</a><input class="toctree-checkbox" id="toctree-checkbox-22" name="toctree-checkbox-22" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-22"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l2"><a class="reference internal" href="8-Emergencies/Emergencies.html">Emergencies</a></li>
+<li class="toctree-l2"><a class="reference internal" href="8-Emergencies/Emergency%20Preparedness%20Overview%20and%20Interconnected%20Systems.html">Emergency Preparedness Overview and Interconnected Systems</a></li>
+<li class="toctree-l2"><a class="reference internal" href="8-Emergencies/Planning%20and%20Understanding%20For%20Uncertainty%20and%20Hazards.html">Planning and Understanding For Uncertainty and Hazards</a></li>
+<li class="toctree-l2"><a class="reference internal" href="8-Emergencies/Cascading%20failures%20and%20community%20preparedness.html">Cascading failures and community preparedness</a></li>
+<li class="toctree-l2"><a class="reference internal" href="8-Emergencies/DAM%20SAFETY%20%26%20%20EMERGENCY%20%20PREPAREDNESS.html">DAM SAFETY &amp;  EMERGENCY  PREPAREDNESS</a></li>
+</ul>
+</li>
+</ul>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Part B- Building for Resilience</span></p>
 <ul class="nav bd-sidenav">
- <li class="toctree-l1">
-  <a class="reference internal" href="intro.html">
-   Why these lectures by UC Berkeley and East Bay Municipal Utility District are so important at this moment.
-  </a>
- </li>
+<li class="toctree-l1"><a class="reference internal" href="intro.html">Why these lectures by UC Berkeley and East Bay Municipal Utility District are so important at this moment.</a></li>
 </ul>
-<p aria-level="2" class="caption" role="heading">
- <span class="caption-text">
-  Module 9--New Technologies--The System Comes Alive With AI
- </span>
-</p>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Module 9--New Technologies--The System Comes Alive With AI</span></p>
 <ul class="nav bd-sidenav">
- <li class="toctree-l1">
-  <a class="reference internal" href="9-New_Technologies/Sensors%2C%20Networks%2C%20and%20Real-Time%20Operations.html">
-   New Technologies
-  </a>
- </li>
- <li class="toctree-l1">
-  <a class="reference internal" href="9-New_Technologies/Slides.html">
-   Add Time Series animations
-  </a>
- </li>
+<li class="toctree-l1"><a class="reference internal" href="9-New_Technologies/Sensors%2C%20Networks%2C%20and%20Real-Time%20Operations.html">New Technologies</a></li>
+<li class="toctree-l1"><a class="reference internal" href="9-New_Technologies/Slides.html">Add Time Series animations</a></li>
 </ul>
-<p aria-level="2" class="caption" role="heading">
- <span class="caption-text">
-  10-Jupyter Notebooks-Data And Real-Time Management
- </span>
-</p>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">10-Jupyter Notebooks-Data And Real-Time Management</span></p>
 <ul class="current nav bd-sidenav">
- <li class="toctree-l1">
-  <a class="reference internal" href="notebooks.html">
-   Jupyter Notebook Tutorial
-  </a>
- </li>
- <li class="toctree-l1 current active">
-  <a class="current reference internal" href="#">
-   Testing cell structure
-  </a>
- </li>
- <li class="toctree-l1">
-  <a class="reference internal" href="markdown.html">
-   Markdown Files
-  </a>
- </li>
- <li class="toctree-l1">
-  <a class="reference internal" href="intro-1a.html">
-   Thirty lectures by EBMUD and UC Berkeley Civil Engineering show how a billion-dollar advanced water and power utility operates today.
-  </a>
- </li>
- <li class="toctree-l1">
-  <a class="reference internal" href="GrabBag.html">
-   See what JN will run with Colab; does Github see all .ipynb files?
-  </a>
- </li>
+<li class="toctree-l1"><a class="reference internal" href="notebooks.html">Jupyter Notebook Tutorial</a></li>
+<li class="toctree-l1 current active"><a class="current reference internal" href="#">Testing cell structure</a></li>
+<li class="toctree-l1"><a class="reference internal" href="markdown.html">Markdown Files</a></li>
+<li class="toctree-l1"><a class="reference internal" href="intro-1a.html">Thirty lectures by EBMUD and UC Berkeley Civil Engineering show how a billion-dollar advanced water and power utility operates today.</a></li>
+<li class="toctree-l1"><a class="reference internal" href="GrabBag.html">See what JN will run with Colab; does Github see all .ipynb files?</a></li>
+
 </ul>
-<p aria-level="2" class="caption" role="heading">
- <span class="caption-text">
-  11-Journalists, Politicians, Water Scientists, Engineers, Investors--Decide The Future
- </span>
-</p>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">11-Journalists, Politicians, Water Scientists, Engineers, Investors--Decide The Future</span></p>
 <ul class="nav bd-sidenav">
- <li class="toctree-l1">
-  <a class="reference internal" href="WaterJournalists.html">
-   Journalists with expertise in water
-  </a>
- </li>
- <li class="toctree-l1">
-  <a class="reference internal" href="test.html">
-   Test
-  </a>
- </li>
- <li class="toctree-l1">
-  <a class="reference internal" href="mymarkdown.html">
-   Here’s my sample title
-  </a>
- </li>
+<li class="toctree-l1"><a class="reference internal" href="WaterJournalists.html">Journalists with expertise in water</a></li>
+<li class="toctree-l1"><a class="reference internal" href="test.html">Test</a></li>
+<li class="toctree-l1"><a class="reference internal" href="mymarkdown.html">Here’s my sample title</a></li>
 </ul>
-<p aria-level="2" class="caption" role="heading">
- <span class="caption-text">
-  12- Major Reports
- </span>
-</p>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">12- Major Reports</span></p>
 <ul class="nav bd-sidenav">
- <li class="toctree-l1">
-  <a class="reference internal" href="12-Important%20Reports/List%20of%20Reports.html">
-   List of Important Reports: will be in bibliography
-  </a>
- </li>
+<li class="toctree-l1"><a class="reference internal" href="12-Important%20Reports/List%20of%20Reports.html">List of Important Reports: will be in bibliography</a></li>
 </ul>
-<p aria-level="2" class="caption" role="heading">
- <span class="caption-text">
-  Module 0--Building the Computational Book
- </span>
-</p>
+<p aria-level="2" class="caption" role="heading"><span class="caption-text">Module 0--Building the Computational Book</span></p>
 <ul class="nav bd-sidenav">
- <li class="toctree-l1 has-children">
-  <a class="reference internal" href="A-Web_of_Resources/Computational_Book.html">
-   Overall plan for the computational book
-  </a>
-  <input class="toctree-checkbox" id="toctree-checkbox-23" name="toctree-checkbox-23" type="checkbox"/>
-  <label for="toctree-checkbox-23">
-   <i class="fas fa-chevron-down">
-   </i>
-  </label>
-  <ul>
-   <li class="toctree-l2">
-    <a class="reference internal" href="A-Web_of_Resources/Active_Information.html">
-     How this resource is built
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="A-Web_of_Resources/Diagram%20of%20Paths.html">
-     Diagram of paths of innovation touching each category of plant capital resources
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="A-Web_of_Resources/Checklists_And_Dashboards.html">
-     Checklists And Dashboards
-    </a>
-   </li>
-   <li class="toctree-l2">
-    <a class="reference internal" href="A-Web_of_Resources/Lecture%20Table.html">
-     Lectures: Fall, 2022 CE 112A
-    </a>
-   </li>
-  </ul>
- </li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="A-Web_of_Resources/Computational_Book.html">Overall plan for the computational book</a><input class="toctree-checkbox" id="toctree-checkbox-23" name="toctree-checkbox-23" type="checkbox"/><label class="toctree-toggle" for="toctree-checkbox-23"><i class="fa-solid fa-chevron-down"></i></label><ul>
+<li class="toctree-l2"><a class="reference internal" href="A-Web_of_Resources/Active_Information.html">How this resource is built</a></li>
+<li class="toctree-l2"><a class="reference internal" href="A-Web_of_Resources/Diagram%20of%20Paths.html">Diagram of paths of innovation touching each category of plant capital resources</a></li>
+<li class="toctree-l2"><a class="reference internal" href="A-Web_of_Resources/Checklists_And_Dashboards.html">Checklists And Dashboards</a></li>
+<li class="toctree-l2"><a class="reference internal" href="A-Web_of_Resources/Lecture%20Table.html">Lectures: Fall, 2022 CE 112A</a></li>
+</ul>
+</li>
 </ul>
 
     </div>
 </nav></div>
-        <div class="bd-sidebar__bottom">
-             <!-- To handle the deprecated key -->
-            
-            <div class="navbar_extra_footer">
-            Powered by <a href="https://jupyterbook.org">Jupyter Book</a>
-            </div>
-            
-        </div>
     </div>
-    <div id="rtd-footer-container"></div>
-</div>
-
-
-          
-
-
-          
-<!-- A tiny helper pixel to detect if we've scrolled -->
-<div class="sbt-scroll-pixel-helper"></div>
-<!-- Main content -->
-<div class="col py-0 content-container">
-    
-    <div class="header-article row sticky-top noprint">
-        
-
-
-
-<div class="col py-1 d-flex header-article-main">
-    <div class="header-article__left">
-        
-        <label for="__navigation"
-  class="headerbtn"
-  data-toggle="tooltip"
-data-placement="right"
-title="Toggle navigation"
->
   
-
-<span class="headerbtn__icon-container">
-  <i class="fas fa-bars"></i>
-  </span>
-
-</label>
-
-        
-    </div>
-    <div class="header-article__right">
-<div class="menu-dropdown menu-dropdown-launch-buttons">
-  <button class="headerbtn menu-dropdown__trigger"
-      aria-label="Launch interactive content">
-      <i class="fas fa-rocket"></i>
-  </button>
-  <div class="menu-dropdown__content">
-    <ul>
-      <li>
-        <a href="https://mybinder.org/v2/gh/johngage/WaterNet/main?urlpath=tree/docs/dead.ipynb"
-   class="headerbtn"
-   data-toggle="tooltip"
-data-placement="left"
-title="Launch on Binder"
->
   
-
-<span class="headerbtn__icon-container">
+  <div class="sidebar-primary-items__end sidebar-primary__section">
+  </div>
   
-    <img src="_static/images/logo_binder.svg">
-  </span>
-<span class="headerbtn__text-container">Binder</span>
-</a>
+  <div id="rtd-footer-container"></div>
 
-      </li>
+
+      </div>
       
-      <li>
-        <a href="https://colab.research.google.com/github/johngage/WaterNet/blob/main/docs/dead.ipynb"
-   class="headerbtn"
-   data-toggle="tooltip"
-data-placement="left"
-title="Launch on Colab"
+      <main id="main-content" class="bd-main">
+        
+        
+
+<div class="sbt-scroll-pixel-helper"></div>
+
+          <div class="bd-content">
+            <div class="bd-article-container">
+              
+              <div class="bd-header-article">
+<div class="header-article-items header-article__inner">
+  
+    <div class="header-article-items__start">
+      
+        <div class="header-article-item"><label class="sidebar-toggle primary-toggle btn btn-sm" for="__primary" title="Toggle primary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+  <span class="fa-solid fa-bars"></span>
+</label></div>
+      
+    </div>
+  
+  
+    <div class="header-article-items__end">
+      
+        <div class="header-article-item">
+
+<div class="article-header-buttons">
+
+
+
+
+
+<div class="dropdown dropdown-launch-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Launch interactive content">
+    <i class="fas fa-rocket"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="https://colab.research.google.com/github/johngage/WaterNet/blob/main/docs/dead.ipynb" target="_blank"
+   class="btn btn-sm dropdown-item"
+   title="Launch onColab"
+   data-bs-placement="left" data-bs-toggle="tooltip"
 >
   
 
-<span class="headerbtn__icon-container">
+<span class="btn__icon-container">
   
     <img src="_static/images/logo_colab.png">
   </span>
-<span class="headerbtn__text-container">Colab</span>
+<span class="btn__text-container">Colab</span>
 </a>
-
-      </li>
+</li>
       
-    </ul>
-  </div>
+  </ul>
 </div>
 
-<button onclick="toggleFullScreen()"
-  class="headerbtn"
-  data-toggle="tooltip"
-data-placement="bottom"
-title="Fullscreen mode"
+
+
+
+
+
+<div class="dropdown dropdown-source-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Source repositories">
+    <i class="fab fa-github"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="https://github.com/johngage/WaterNet" target="_blank"
+   class="btn btn-sm btn-source-repository-button dropdown-item"
+   title="Source repository"
+   data-bs-placement="left" data-bs-toggle="tooltip"
 >
   
 
-<span class="headerbtn__icon-container">
+<span class="btn__icon-container">
+  <i class="fab fa-github"></i>
+  </span>
+<span class="btn__text-container">Repository</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li><a href="https://github.com/johngage/WaterNet/issues/new?title=Issue%20on%20page%20%2Fdead.html&body=Your%20issue%20content%20here." target="_blank"
+   class="btn btn-sm btn-source-issues-button dropdown-item"
+   title="Open an issue"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-lightbulb"></i>
+  </span>
+<span class="btn__text-container">Open issue</span>
+</a>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+
+
+<div class="dropdown dropdown-download-buttons">
+  <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Download this page">
+    <i class="fas fa-download"></i>
+  </button>
+  <ul class="dropdown-menu">
+      
+      
+      
+      <li><a href="_sources/dead.ipynb" target="_blank"
+   class="btn btn-sm btn-download-source-button dropdown-item"
+   title="Download source file"
+   data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file"></i>
+  </span>
+<span class="btn__text-container">.ipynb</span>
+</a>
+</li>
+      
+      
+      
+      
+      <li>
+<button onclick="window.print()"
+  class="btn btn-sm btn-download-pdf-button dropdown-item"
+  title="Print to PDF"
+  data-bs-placement="left" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
+  <i class="fas fa-file-pdf"></i>
+  </span>
+<span class="btn__text-container">.pdf</span>
+</button>
+</li>
+      
+  </ul>
+</div>
+
+
+
+
+<button onclick="toggleFullScreen()"
+  class="btn btn-sm btn-fullscreen-button"
+  title="Fullscreen mode"
+  data-bs-placement="bottom" data-bs-toggle="tooltip"
+>
+  
+
+<span class="btn__icon-container">
   <i class="fas fa-expand"></i>
   </span>
 
 </button>
 
-<div class="menu-dropdown menu-dropdown-repository-buttons">
-  <button class="headerbtn menu-dropdown__trigger"
-      aria-label="Source repositories">
-      <i class="fab fa-github"></i>
+
+<script>
+document.write(`
+  <button class="theme-switch-button btn btn-sm btn-outline-primary navbar-btn rounded-circle" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="theme-switch" data-mode="light"><i class="fa-solid fa-sun"></i></span>
+    <span class="theme-switch" data-mode="dark"><i class="fa-solid fa-moon"></i></span>
+    <span class="theme-switch" data-mode="auto"><i class="fa-solid fa-circle-half-stroke"></i></span>
   </button>
-  <div class="menu-dropdown__content">
-    <ul>
-      <li>
-        <a href="https://github.com/johngage/WaterNet"
-   class="headerbtn"
-   data-toggle="tooltip"
-data-placement="left"
-title="Source repository"
->
-  
+`);
+</script>
 
-<span class="headerbtn__icon-container">
-  <i class="fab fa-github"></i>
-  </span>
-<span class="headerbtn__text-container">repository</span>
-</a>
-
-      </li>
-      
-      <li>
-        <a href="https://github.com/johngage/WaterNet/issues/new?title=Issue%20on%20page%20%2Fdead.html&body=Your%20issue%20content%20here."
-   class="headerbtn"
-   data-toggle="tooltip"
-data-placement="left"
-title="Open an issue"
->
-  
-
-<span class="headerbtn__icon-container">
-  <i class="fas fa-lightbulb"></i>
-  </span>
-<span class="headerbtn__text-container">open issue</span>
-</a>
-
-      </li>
-      
-    </ul>
-  </div>
-</div>
-
-<div class="menu-dropdown menu-dropdown-download-buttons">
-  <button class="headerbtn menu-dropdown__trigger"
-      aria-label="Download this page">
-      <i class="fas fa-download"></i>
+<script>
+document.write(`
+  <button class="btn btn-sm navbar-btn search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass"></i>
   </button>
-  <div class="menu-dropdown__content">
-    <ul>
-      <li>
-        <a href="_sources/dead.ipynb"
-   class="headerbtn"
-   data-toggle="tooltip"
-data-placement="left"
-title="Download source file"
->
-  
-
-<span class="headerbtn__icon-container">
-  <i class="fas fa-file"></i>
-  </span>
-<span class="headerbtn__text-container">.ipynb</span>
-</a>
-
-      </li>
-      
-      <li>
-        
-<button onclick="printPdf(this)"
-  class="headerbtn"
-  data-toggle="tooltip"
-data-placement="left"
-title="Print to PDF"
->
-  
-
-<span class="headerbtn__icon-container">
-  <i class="fas fa-file-pdf"></i>
-  </span>
-<span class="headerbtn__text-container">.pdf</span>
-</button>
-
-      </li>
-      
-    </ul>
-  </div>
-</div>
-<label for="__page-toc"
-  class="headerbtn headerbtn-page-toc"
-  
->
-  
-
-<span class="headerbtn__icon-container">
-  <i class="fas fa-list"></i>
-  </span>
-
+`);
+</script>
+<label class="sidebar-toggle secondary-toggle btn btn-sm" for="__secondary"title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="fa-solid fa-list"></span>
 </label>
-
+</div></div>
+      
     </div>
+  
 </div>
-
-<!-- Table of contents -->
-<div class="col-md-3 bd-toc show noprint">
-    <div class="tocsection onthispage pt-5 pb-3">
-        <i class="fas fa-list"></i> Contents
-    </div>
-    <nav id="bd-toc-nav" aria-label="Page">
-        <ul class="visible nav section-nav flex-column">
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#use-as-colab-execution">
-   use as Colab execution
-  </a>
- </li>
-</ul>
-
-    </nav>
 </div>
-    </div>
-    <div class="article row">
-        <div class="col pl-md-3 pl-lg-5 content-container">
-            <!-- Table of contents that is only displayed when printing the page -->
-            <div id="jb-print-docs-body" class="onlyprint">
-                <h1>Testing cell structure</h1>
-                <!-- Table of contents -->
-                <div id="print-main-content">
-                    <div id="jb-print-toc">
-                        
-                        <div>
-                            <h2> Contents </h2>
-                        </div>
-                        <nav aria-label="Page">
-                            <ul class="visible nav section-nav flex-column">
- <li class="toc-h2 nav-item toc-entry">
-  <a class="reference internal nav-link" href="#use-as-colab-execution">
-   use as Colab execution
-  </a>
- </li>
-</ul>
+              
+              
 
-                        </nav>
-                    </div>
-                </div>
+<div id="jb-print-docs-body" class="onlyprint">
+    <h1>Testing cell structure</h1>
+    <!-- Table of contents -->
+    <div id="print-main-content">
+        <div id="jb-print-toc">
+            
+            <div>
+                <h2> Contents </h2>
             </div>
-            <main id="main-content" role="main">
+            <nav aria-label="Page">
+                <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#use-as-colab-execution">use as Colab execution</a></li>
+</ul>
+            </nav>
+        </div>
+    </div>
+</div>
+
+              
                 
-              <div>
-                
+<div id="searchbox"></div>
+                <article class="bd-article" role="main">
+                  
   <section class="tex2jax_ignore mathjax_ignore" id="testing-cell-structure">
-<h1>Testing cell structure<a class="headerlink" href="#testing-cell-structure" title="Permalink to this headline">#</a></h1>
+<h1>Testing cell structure<a class="headerlink" href="#testing-cell-structure" title="Permalink to this heading">#</a></h1>
 <section id="use-as-colab-execution">
-<h2>use as Colab execution<a class="headerlink" href="#use-as-colab-execution" title="Permalink to this headline">#</a></h2>
+<h2>use as Colab execution<a class="headerlink" href="#use-as-colab-execution" title="Permalink to this heading">#</a></h2>
 <div class="cell docutils container">
 <div class="cell_input docutils container">
 <div class="highlight-ipython3 notranslate"><div class="highlight"><pre><span></span><span class="mi">2</span> <span class="o">+</span> <span class="mi">3</span>
@@ -2229,7 +1579,7 @@ title="Print to PDF"
 <div class="output text_plain highlight-myst-ansi notranslate"><div class="highlight"><pre><span></span>[&lt;matplotlib.lines.Line2D at 0x13208bfd0&gt;]
 </pre></div>
 </div>
-<img alt="_images/dead_42_1.svg" src="_images/dead_42_1.svg" /></div>
+<img alt="_images/37c48ac58e2e455b647839796968fafe6c769e8ac0db1682e97acb06813af64b.svg" src="_images/37c48ac58e2e455b647839796968fafe6c769e8ac0db1682e97acb06813af64b.svg" /></div>
 </div>
 </section>
 </section>
@@ -2254,50 +1604,105 @@ title="Print to PDF"
     </script>
     <script>kernelName = 'python3'</script>
 
-              </div>
+                </article>
               
-            </main>
-            <footer class="footer-article noprint">
-                
-    <!-- Previous / next buttons -->
-<div class='prev-next-area'>
-    <a class='left-prev' id="prev-link" href="notebooks.html" title="previous page">
-        <i class="fas fa-angle-left"></i>
-        <div class="prev-next-info">
-            <p class="prev-next-subtitle">previous</p>
-            <p class="prev-next-title">Jupyter Notebook Tutorial</p>
-        </div>
+
+              
+              
+                <footer class="bd-footer-article">
+                  
+<div class="footer-article-items footer-article__inner">
+  
+    <div class="footer-article-item"><!-- Previous / next buttons -->
+<div class="prev-next-area">
+    <a class="left-prev"
+       href="notebooks.html"
+       title="previous page">
+      <i class="fa-solid fa-angle-left"></i>
+      <div class="prev-next-info">
+        <p class="prev-next-subtitle">previous</p>
+        <p class="prev-next-title">Jupyter Notebook Tutorial</p>
+      </div>
     </a>
-    <a class='right-next' id="next-link" href="markdown.html" title="next page">
-    <div class="prev-next-info">
+    <a class="right-next"
+       href="markdown.html"
+       title="next page">
+      <div class="prev-next-info">
         <p class="prev-next-subtitle">next</p>
         <p class="prev-next-title">Markdown Files</p>
-    </div>
-    <i class="fas fa-angle-right"></i>
-    </a>
-</div>
-            </footer>
-        </div>
-    </div>
-    <div class="footer-content row">
-        <footer class="col footer"><p>
-  
-    By Water Infrastructure Future<br/>
-  
-      &copy; Copyright 2022.<br/>
-</p>
-        </footer>
-    </div>
-    
-</div>
-
-
       </div>
+      <i class="fa-solid fa-angle-right"></i>
+    </a>
+</div></div>
+  
+</div>
+
+                </footer>
+              
+            </div>
+            
+            
+              
+                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+  <div class="sidebar-secondary-item">
+  <div class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> Contents
+  </div>
+  <nav class="bd-toc-nav page-toc">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#use-as-colab-execution">use as Colab execution</a></li>
+</ul>
+  </nav></div>
+
+</div></div>
+              
+            
+          </div>
+          <footer class="bd-footer-content">
+            
+<div class="bd-footer-content__inner container">
+  
+  <div class="footer-item">
+    
+<p class="component-author">
+By Water Infrastructure Future
+</p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+  <p class="copyright">
+    
+      © Copyright 2022.
+      <br/>
+    
+  </p>
+
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+  <div class="footer-item">
+    
+  </div>
+  
+</div>
+          </footer>
+        
+
+      </main>
     </div>
+  </div>
   
   <!-- Scripts loaded after <body> so the DOM is not blocked -->
-  <script src="_static/scripts/pydata-sphinx-theme.js?digest=1999514e3f237ded88cf"></script>
+  <script src="_static/scripts/bootstrap.js?digest=e353d410970836974a52"></script>
+<script src="_static/scripts/pydata-sphinx-theme.js?digest=e353d410970836974a52"></script>
 
-
+  <footer class="bd-footer">
+  </footer>
   </body>
 </html>
